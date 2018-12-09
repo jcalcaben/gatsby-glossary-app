@@ -27,8 +27,8 @@ exports.createPages = ({ graphql, actions }) => {
       }
     `).then(result => {
       createPage({
-        path: 'foo/bar/',
-        component: require.resolve('./src/templates/test.js'),
+        path: 'glossary',
+        component: require.resolve('./src/templates/Glossary.js'),
         context: {result},
       })
       resolve()

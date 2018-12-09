@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-import MenuButton from './menu-button'
+import MenuButton from '../MenuButton'
 
 const HeaderStyle = {
   background: 'rebeccapurple',

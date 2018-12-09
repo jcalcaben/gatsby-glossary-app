@@ -1,9 +1,12 @@
+import { GlossaryTerm, TermsList } from './GlossaryTerms'
+import Scrim from './Scrim'
+import Header from './Header'
+/*
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
 import { StaticQuery, graphql } from 'gatsby'
-import Header from '../components/header'
 import './index.css'
 
 import Scrim from '../components/scrim'
@@ -27,7 +30,7 @@ class Layout extends React.Component {
     return (
       <StaticQuery
         query={graphql`
-          query SiteTitleQuery {
+          query SiteTitleQuery2 {
             site {
               siteMetadata {
                 title
@@ -65,5 +68,6 @@ class Layout extends React.Component {
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
 }
+*/
 
-export default Layout
+export { Header, GlossaryTerm, TermsList, Scrim }

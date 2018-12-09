@@ -1,6 +1,5 @@
 import React from 'react'
 
-import Layout from '../layouts'
 import { TermsList } from '../components/GlossaryTerms'
 
 class App extends React.Component {
@@ -10,7 +9,6 @@ class App extends React.Component {
 
     return (
       <>
-        <Layout>{site.siteMetadata.title}</Layout>
         <TermsList files={files} />
       </>
     )

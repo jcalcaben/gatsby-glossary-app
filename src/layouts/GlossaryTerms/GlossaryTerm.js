@@ -2,6 +2,7 @@ import React from 'react'
 
 class GlossaryTerm extends React.Component {
   state = {
+    enabled: true,
     loaded: false,
     termData: {},
   }
@@ -28,7 +29,7 @@ class GlossaryTerm extends React.Component {
         <p>{termData.definition}</p>
       </div>
     ) : (
-      <div>Loading Term</div>
+      <div>Loading Term: {this.props.file.name}</div>
     )
   }
 }
