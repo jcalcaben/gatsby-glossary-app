@@ -25,8 +25,8 @@ class GlossaryTerm extends React.Component {
 
     return loaded ? (
       <div>
-        <p>{termData.name}</p>
-        <p>{termData.definition}</p>
+        <p>{termData.title}</p>
+        <p>{termData.shortDefinitio}</p>
       </div>
     ) : (
       <div>Loading Term: {this.props.file.name}</div>

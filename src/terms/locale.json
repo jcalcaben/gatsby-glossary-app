@@ -1,0 +1,1 @@
+{"title":"locale","types":[],"formTypes":{"locale":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"A set of configurations that defines the user’s language, country, tax rate, and other settings. Example: \"en_US\"."}

@@ -1,0 +1,1 @@
+{"title":"prefork","types":["glossary","usage"],"formTypes":{"prefork":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer"],"shortDefinition":"To split a process in advance, so similar processes are immediately available later, if required."}
