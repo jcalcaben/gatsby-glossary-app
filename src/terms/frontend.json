@@ -9,7 +9,9 @@
             "adj"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "client side"
+    ],
     "primarySource": "DevDocs",
     "contentTags": [
         "Design",

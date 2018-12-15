@@ -9,9 +9,11 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "backend"
+    ],
     "primarySource": "DevDocs",
-    "contentTags": [],
+    "contentTags": "Programming",
     "userTags": [
         "Internal",
         "Developer"

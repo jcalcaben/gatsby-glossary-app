@@ -7,9 +7,10 @@
         "configuration": [],
         "configure": []
     },
-    "synonyms": [],
+    "synonyms": [
+        "config"
+    ],
     "primarySource": "UserDocs",
-    "contentTags": [],
     "userTags": [],
     "usage": "For merchants or shoppers, use “setup” or “set up”. For developers, “configuration” is appropriate in technical contexts."
 }

@@ -9,7 +9,9 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "HyperText Markup Language"
+    ],
     "primarySource": "UserDocs",
     "contentTags": [
         "Design",

@@ -9,9 +9,11 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "component"
+    ],
     "primarySource": "DevDocs",
-    "contentTags": [],
+    "contentTags": "Magento Software",
     "userTags": [
         "Internal",
         "Developer"

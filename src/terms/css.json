@@ -9,9 +9,11 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "Cascading Style Sheets"
+    ],
     "primarySource": "UserDocs",
-    "contentTags": [],
+    "contentTags": "Design",
     "userTags": [
         "Internal",
         "Merchant"

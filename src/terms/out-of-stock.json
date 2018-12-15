@@ -8,9 +8,11 @@
             "adj"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "sold out"
+    ],
     "primarySource": "UserDocs",
-    "contentTags": [],
+    "contentTags": "Product",
     "userTags": [],
     "usage": "No hyphenation. Use “sold out” for shopper or consumer audience."
 }

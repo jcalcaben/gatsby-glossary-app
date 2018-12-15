@@ -8,9 +8,11 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "Internet Information Services"
+    ],
     "primarySource": "UserDocs",
-    "contentTags": [],
+    "contentTags": "Programming",
     "userTags": [],
     "usage": "A web server used for the Windows NT family of operating systems. Use IIS on first reference."
 }

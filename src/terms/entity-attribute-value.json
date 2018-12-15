@@ -8,9 +8,11 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "EAV"
+    ],
     "primarySource": "UserDocs",
-    "contentTags": [],
+    "contentTags": "Programming",
     "userTags": [
         "Internal",
         "Developer",

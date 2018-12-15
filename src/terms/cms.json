@@ -9,9 +9,11 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "content management system"
+    ],
     "primarySource": "UserDocs",
-    "contentTags": [],
+    "contentTags": "Programming",
     "userTags": [
         "Internal",
         "Merchant"

@@ -9,7 +9,9 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "LESS"
+    ],
     "primarySource": "DevDocs",
     "contentTags": [
         "Design",

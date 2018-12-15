@@ -8,7 +8,9 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "data field"
+    ],
     "primarySource": "UserDocs",
     "contentTags": [
         "Design",

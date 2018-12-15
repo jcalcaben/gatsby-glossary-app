@@ -10,9 +10,11 @@
             "adj"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "server side"
+    ],
     "primarySource": "UserDocs",
-    "contentTags": [],
+    "contentTags": "Programming",
     "userTags": [
         "Internal",
         "Developer",

@@ -9,9 +9,10 @@
             "v"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "e-mail"
+    ],
     "primarySource": "UserDocs",
-    "contentTags": [],
     "userTags": [
         "Internal",
         "Developer",

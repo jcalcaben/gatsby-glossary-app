@@ -9,9 +9,11 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "Extensible Markup Language"
+    ],
     "primarySource": "UserDocs",
-    "contentTags": [],
+    "contentTags": "Programming",
     "userTags": [
         "Internal",
         "Developer"

@@ -8,9 +8,10 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "folder vs. directory"
+    ],
     "primarySource": "UserDocs",
-    "contentTags": [],
     "userTags": [
         "Internal",
         "Developer",

@@ -8,9 +8,11 @@
             "n"
         ]
     },
-    "synonyms": [],
+    "synonyms": [
+        "compiler"
+    ],
     "primarySource": "DevDocs",
-    "contentTags": [],
+    "contentTags": "Magento Software",
     "userTags": [
         "Internal",
         "Developer"
