@@ -1,6 +1,8 @@
 {
     "title": "SLA-backed",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "SLA-backed": [
             "adj"

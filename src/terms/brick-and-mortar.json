@@ -1,6 +1,8 @@
 {
     "title": "brick-and-mortar",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "brick-and-mortar": [
             "adj"

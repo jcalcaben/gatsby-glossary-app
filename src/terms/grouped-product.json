@@ -1,6 +1,8 @@
 {
     "title": "grouped product",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "grouped product": [
             "n"

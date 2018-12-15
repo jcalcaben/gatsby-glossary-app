@@ -1,6 +1,8 @@
 {
     "title": "third-party library",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "third-party library": [
             "n"

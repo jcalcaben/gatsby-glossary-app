@@ -1,6 +1,8 @@
 {
     "title": "link juice",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "link juice": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "shipment",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "shipment": [
             "n"

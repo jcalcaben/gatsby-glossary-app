@@ -1,6 +1,8 @@
 {
     "title": "reindex",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "reindex": [
             "n"

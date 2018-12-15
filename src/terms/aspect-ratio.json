@@ -1,6 +1,8 @@
 {
     "title": "aspect ratio",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "aspect ratio": [
             "n"

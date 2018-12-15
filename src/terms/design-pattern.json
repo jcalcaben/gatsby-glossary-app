@@ -1,6 +1,8 @@
 {
     "title": "design pattern",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "design pattern": [
             "n"

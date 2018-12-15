@@ -1,6 +1,8 @@
 {
     "title": "exception handler",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "exception handler": [
             "n"

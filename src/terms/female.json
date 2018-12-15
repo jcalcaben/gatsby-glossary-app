@@ -1,6 +1,8 @@
 {
     "title": "female",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "female": [
             "n",

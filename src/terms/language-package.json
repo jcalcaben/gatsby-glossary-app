@@ -1,6 +1,8 @@
 {
     "title": "language package",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "language package": [
             "n"

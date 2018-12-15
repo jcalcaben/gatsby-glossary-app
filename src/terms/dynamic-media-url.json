@@ -1,6 +1,8 @@
 {
     "title": "dynamic media URL",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "dynamic media URL": [
             "n"

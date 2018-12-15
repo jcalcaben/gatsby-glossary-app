@@ -1,6 +1,8 @@
 {
     "title": "FAQ",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "FAQ": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "web services",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "web services": [
             "n"

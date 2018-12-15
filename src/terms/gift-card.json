@@ -1,6 +1,8 @@
 {
     "title": "gift card",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "gift card": [
             "n"

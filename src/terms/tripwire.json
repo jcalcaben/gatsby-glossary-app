@@ -1,6 +1,8 @@
 {
     "title": "Tripwire",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "Tripwire": [
             "n"

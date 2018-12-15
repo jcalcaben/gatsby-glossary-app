@@ -1,6 +1,8 @@
 {
     "title": "bounce rate",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "bounce rate": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "translation file",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "translation file": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "credit memo comment",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "credit memo comment": [
             "n"

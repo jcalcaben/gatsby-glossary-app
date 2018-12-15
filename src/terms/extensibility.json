@@ -1,6 +1,8 @@
 {
     "title": "extensibility",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "extensibility": [
             "n"

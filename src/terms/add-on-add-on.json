@@ -1,6 +1,8 @@
 {
     "title": "add on, add-on",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "add on": [],
         "add-on": [

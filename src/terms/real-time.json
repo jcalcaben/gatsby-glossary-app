@@ -1,6 +1,8 @@
 {
     "title": "real time",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "real time": [
             "n"

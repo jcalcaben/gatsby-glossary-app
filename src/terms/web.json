@@ -1,6 +1,8 @@
 {
     "title": "web",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "web": [
             "n"

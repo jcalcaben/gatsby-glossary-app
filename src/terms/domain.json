@@ -1,6 +1,8 @@
 {
     "title": "domain",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "domain": [
             "n"

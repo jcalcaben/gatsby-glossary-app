@@ -1,6 +1,8 @@
 {
     "title": "internet",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "internet": [
             "n"

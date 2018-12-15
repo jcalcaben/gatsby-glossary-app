@@ -1,6 +1,8 @@
 {
     "title": "catalog rules",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "catalog rules": [
             "n"

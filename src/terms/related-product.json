@@ -1,6 +1,8 @@
 {
     "title": "related product",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "related product": [
             "n"

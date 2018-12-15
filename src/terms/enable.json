@@ -1,6 +1,8 @@
 {
     "title": "enable",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "enable": [
             "v"

@@ -1,6 +1,8 @@
 {
     "title": "around",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "around": [
             "adv"

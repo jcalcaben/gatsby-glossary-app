@@ -1,6 +1,8 @@
 {
     "title": "wireframe",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "wireframe": [
             "n"

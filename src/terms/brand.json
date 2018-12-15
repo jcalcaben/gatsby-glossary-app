@@ -1,6 +1,8 @@
 {
     "title": "brand",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "brand": [
             "n",

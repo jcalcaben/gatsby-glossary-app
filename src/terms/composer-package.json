@@ -1,6 +1,8 @@
 {
     "title": "Composer package",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "Composer package": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "broken link",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "broken link": [
             "n"

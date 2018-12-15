@@ -1,6 +1,8 @@
 {
     "title": "timeline",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "timeline": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "PayPal",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "PayPal": [
             "n"

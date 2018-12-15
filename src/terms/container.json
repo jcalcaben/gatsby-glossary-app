@@ -1,6 +1,8 @@
 {
     "title": "container",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "container": [
             "n"

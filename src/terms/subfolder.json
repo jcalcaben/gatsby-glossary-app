@@ -1,6 +1,8 @@
 {
     "title": "subfolder",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "subfolder": [
             "n"

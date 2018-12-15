@@ -1,6 +1,8 @@
 {
     "title": "command-line",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "command-line": [
             "adj"

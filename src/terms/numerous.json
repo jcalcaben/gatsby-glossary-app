@@ -1,6 +1,8 @@
 {
     "title": "numerous",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "numerous": [
             "adj"

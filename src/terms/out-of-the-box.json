@@ -1,6 +1,8 @@
 {
     "title": "out-of-the-box",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "out-of-the-box": [
             "adj"

@@ -1,6 +1,8 @@
 {
     "title": "attribute group",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "attribute group": [
             "n"

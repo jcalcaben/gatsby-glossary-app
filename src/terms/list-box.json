@@ -1,6 +1,8 @@
 {
     "title": "list box",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "list box": [
             "n"

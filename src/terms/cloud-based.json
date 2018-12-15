@@ -1,6 +1,8 @@
 {
     "title": "cloud-based",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "cloud-based": [
             "adj"

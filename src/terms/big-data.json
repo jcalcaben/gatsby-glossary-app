@@ -1,6 +1,8 @@
 {
     "title": "big data",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "big data": [
             "n"

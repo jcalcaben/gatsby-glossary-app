@@ -1,6 +1,8 @@
 {
     "title": "on demand",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "on demand": [
             "adj"

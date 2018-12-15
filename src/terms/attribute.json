@@ -1,6 +1,8 @@
 {
     "title": "attribute",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "attribute": [
             "n"

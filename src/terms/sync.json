@@ -1,6 +1,8 @@
 {
     "title": "sync",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "sync": [
             "v"

@@ -1,6 +1,8 @@
 {
     "title": "firewall",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "firewall": [
             "n"

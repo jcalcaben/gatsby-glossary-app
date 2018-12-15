@@ -1,6 +1,8 @@
 {
     "title": "sign up",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "sign up": [
             "v"

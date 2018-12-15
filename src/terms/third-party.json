@@ -1,6 +1,8 @@
 {
     "title": "third party",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "third party": [],
         "third-party": []

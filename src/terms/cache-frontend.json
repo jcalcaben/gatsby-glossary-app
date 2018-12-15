@@ -1,6 +1,8 @@
 {
     "title": "cache frontend",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "cache frontend": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "configuration",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "configuration": [],
         "configure": []

@@ -1,6 +1,8 @@
 {
     "title": "end-to-end",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "end-to-end": [
             "adj"

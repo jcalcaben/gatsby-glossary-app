@@ -1,6 +1,8 @@
 {
     "title": "set up",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "set up": [],
         "setup": [

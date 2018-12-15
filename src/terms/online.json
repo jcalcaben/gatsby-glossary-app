@@ -1,6 +1,8 @@
 {
     "title": "online",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "online": [
             "adj"

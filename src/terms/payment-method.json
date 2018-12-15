@@ -1,6 +1,8 @@
 {
     "title": "Payment Method",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "Payment Method": [
             "n"

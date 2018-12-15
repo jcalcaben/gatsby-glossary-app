@@ -1,6 +1,8 @@
 {
     "title": "accommodate",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "accommodate": [
             "v"

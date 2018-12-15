@@ -1,6 +1,8 @@
 {
     "title": "submenu",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "submenu": [
             "n"

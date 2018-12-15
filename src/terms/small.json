@@ -1,6 +1,8 @@
 {
     "title": "Small",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "Small": [
             "adj"

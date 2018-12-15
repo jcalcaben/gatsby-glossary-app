@@ -1,6 +1,8 @@
 {
     "title": "static content",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "static content": [
             "n"

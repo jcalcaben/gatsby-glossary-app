@@ -1,6 +1,8 @@
 {
     "title": "24/7",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "24/7": [
             "adj"

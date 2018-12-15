@@ -1,6 +1,8 @@
 {
     "title": "authorization",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "authorization": [
             "n"

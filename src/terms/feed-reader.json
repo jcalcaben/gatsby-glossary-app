@@ -1,6 +1,8 @@
 {
     "title": "feed reader",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "feed reader": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "Shared Catalog",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "Shared Catalog": [
             "n"

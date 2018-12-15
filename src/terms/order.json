@@ -1,6 +1,8 @@
 {
     "title": "order",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "order": [
             "n",

@@ -1,6 +1,8 @@
 {
     "title": "off-the-shelf",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "off-the-shelf": [
             "adj"

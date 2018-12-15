@@ -1,6 +1,8 @@
 {
     "title": "touch pad",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "touch pad": [
             "n"

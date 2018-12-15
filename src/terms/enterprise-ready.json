@@ -1,6 +1,8 @@
 {
     "title": "enterprise-ready",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "enterprise-ready": [
             "adj"

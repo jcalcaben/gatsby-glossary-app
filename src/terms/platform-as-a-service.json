@@ -1,6 +1,8 @@
 {
     "title": "platform as a service",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "platform as a service": [
             "n"

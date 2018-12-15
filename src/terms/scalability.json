@@ -1,6 +1,8 @@
 {
     "title": "scalability",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "scalability": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "downsize",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "downsize": [
             "v"

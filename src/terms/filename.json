@@ -1,6 +1,8 @@
 {
     "title": "filename",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "filename": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "adapter",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "adapter": [
             "n"

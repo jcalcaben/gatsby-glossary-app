@@ -1,6 +1,8 @@
 {
     "title": "locale",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "locale": [
             "n"

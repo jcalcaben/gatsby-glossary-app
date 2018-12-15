@@ -1,6 +1,8 @@
 {
     "title": "low-stock",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "low-stock": [
             "adj"

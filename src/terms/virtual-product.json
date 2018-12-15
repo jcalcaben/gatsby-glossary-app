@@ -1,6 +1,8 @@
 {
     "title": "virtual product",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "virtual product": [
             "n"

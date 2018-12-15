@@ -1,6 +1,8 @@
 {
     "title": "API",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "API": [
             "n"

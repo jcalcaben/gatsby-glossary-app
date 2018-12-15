@@ -1,6 +1,8 @@
 {
     "title": "preconditions",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "preconditions": [
             "n"

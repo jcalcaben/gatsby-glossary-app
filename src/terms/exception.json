@@ -1,6 +1,8 @@
 {
     "title": "exception",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "exception": [
             "n"

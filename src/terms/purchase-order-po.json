@@ -1,6 +1,8 @@
 {
     "title": "purchase order (PO)",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "purchase order (PO)": [
             "n"

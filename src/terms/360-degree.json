@@ -1,6 +1,8 @@
 {
     "title": "360-degree",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "360-degree": [
             "adj"

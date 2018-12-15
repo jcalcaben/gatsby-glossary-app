@@ -1,6 +1,8 @@
 {
     "title": "packing slip",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "packing slip": [
             "n"

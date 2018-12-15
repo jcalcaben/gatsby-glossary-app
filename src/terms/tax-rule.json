@@ -1,6 +1,8 @@
 {
     "title": "tax rule",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "tax rule": [
             "n"

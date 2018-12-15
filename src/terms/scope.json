@@ -1,6 +1,8 @@
 {
     "title": "scope",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "scope": [
             "n"

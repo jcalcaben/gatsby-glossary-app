@@ -1,6 +1,8 @@
 {
     "title": "release candidate",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "release candidate": [
             "n"

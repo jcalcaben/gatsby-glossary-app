@@ -1,6 +1,8 @@
 {
     "title": "cloud services",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "cloud services": [
             "n"

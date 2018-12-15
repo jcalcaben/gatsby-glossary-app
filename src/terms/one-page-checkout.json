@@ -1,6 +1,8 @@
 {
     "title": "one-page checkout",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "one-page checkout": [
             "n"

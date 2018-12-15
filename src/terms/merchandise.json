@@ -1,6 +1,8 @@
 {
     "title": "merchandise",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "merchandise": [
             "n",

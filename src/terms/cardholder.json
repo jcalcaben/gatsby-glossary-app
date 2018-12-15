@@ -1,6 +1,8 @@
 {
     "title": "cardholder",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "cardholder": [
             "n"

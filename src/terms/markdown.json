@@ -1,6 +1,8 @@
 {
     "title": "markdown",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "markdown": [
             "n"

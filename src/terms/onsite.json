@@ -1,6 +1,8 @@
 {
     "title": "onsite",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "onsite": [
             "adj"

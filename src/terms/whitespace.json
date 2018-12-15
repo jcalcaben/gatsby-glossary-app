@@ -1,6 +1,8 @@
 {
     "title": "whitespace",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "whitespace": [
             "n"

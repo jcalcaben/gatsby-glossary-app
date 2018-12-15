@@ -1,6 +1,8 @@
 {
     "title": "hard-coded",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "hard-coded": [
             "adj"

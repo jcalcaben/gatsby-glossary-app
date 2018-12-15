@@ -1,6 +1,8 @@
 {
     "title": "checkbox",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "checkbox": [
             "n"

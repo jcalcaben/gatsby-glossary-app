@@ -1,6 +1,8 @@
 {
     "title": "code migration",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "code migration": [
             "n"

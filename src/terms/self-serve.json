@@ -1,6 +1,8 @@
 {
     "title": "self-serve",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "self-serve": [
             "adj"

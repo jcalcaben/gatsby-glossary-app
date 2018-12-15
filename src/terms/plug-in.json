@@ -1,6 +1,8 @@
 {
     "title": "plug-in",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "plug-in": [
             "n"

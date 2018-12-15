@@ -1,6 +1,8 @@
 {
     "title": "publisher, subscriber pattern",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "publisher/subscriber pattern": [
             "n"

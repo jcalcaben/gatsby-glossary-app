@@ -1,6 +1,8 @@
 {
     "title": "i.e.",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {},
     "synonyms": [
         "that is",

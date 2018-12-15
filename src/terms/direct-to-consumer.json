@@ -1,6 +1,8 @@
 {
     "title": "direct-to-consumer",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "direct-to-consumer": [
             "adj"

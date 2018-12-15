@@ -1,6 +1,8 @@
 {
     "title": "cost-efficient",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "cost-efficient": [
             "adj"

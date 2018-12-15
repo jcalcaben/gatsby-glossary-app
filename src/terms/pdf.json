@@ -1,6 +1,8 @@
 {
     "title": "PDF",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "PDF": [
             "n"

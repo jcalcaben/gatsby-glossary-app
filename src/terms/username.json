@@ -1,6 +1,8 @@
 {
     "title": "username",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "username": [
             "n"

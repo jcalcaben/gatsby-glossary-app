@@ -1,6 +1,8 @@
 {
     "title": "above the fold",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "above the fold": [
             "adj"

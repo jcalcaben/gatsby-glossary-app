@@ -1,6 +1,8 @@
 {
     "title": "giveaway",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "giveaway": [
             "n"

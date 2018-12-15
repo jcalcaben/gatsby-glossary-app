@@ -1,6 +1,8 @@
 {
     "title": "subsite",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "subsite": [
             "n"

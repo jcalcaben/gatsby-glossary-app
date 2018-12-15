@@ -1,6 +1,8 @@
 {
     "title": "web page",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "web page": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "static files",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "static files": [
             "n"

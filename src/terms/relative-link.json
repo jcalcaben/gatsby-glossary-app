@@ -1,6 +1,8 @@
 {
     "title": "relative link",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "relative link": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "commerce",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "commerce": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "media storage",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "media storage": [
             "n"

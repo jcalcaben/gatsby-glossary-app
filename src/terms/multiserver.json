@@ -1,6 +1,8 @@
 {
     "title": "multiserver",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "multiserver": [
             "adj"

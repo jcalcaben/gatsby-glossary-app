@@ -1,6 +1,8 @@
 {
     "title": "goods",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "goods": [
             "n"

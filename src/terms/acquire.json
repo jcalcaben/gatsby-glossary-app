@@ -1,6 +1,8 @@
 {
     "title": "acquire",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "acquire": [
             "v"

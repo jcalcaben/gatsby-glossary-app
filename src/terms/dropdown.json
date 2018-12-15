@@ -1,6 +1,8 @@
 {
     "title": "dropdown",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "dropdown": [
             "n",

@@ -1,6 +1,8 @@
 {
     "title": "breadcrumb",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "breadcrumb": [
             "n"

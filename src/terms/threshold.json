@@ -1,6 +1,8 @@
 {
     "title": "threshold",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "threshold": [
             "n"

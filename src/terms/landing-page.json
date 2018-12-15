@@ -1,6 +1,8 @@
 {
     "title": "landing page",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "landing page": [
             "n"

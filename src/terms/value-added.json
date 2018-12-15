@@ -1,6 +1,8 @@
 {
     "title": "value-added",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "value-added": [
             "adj"

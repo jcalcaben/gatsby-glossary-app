@@ -1,6 +1,8 @@
 {
     "title": "cacheable",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "cacheable": [
             "adj"

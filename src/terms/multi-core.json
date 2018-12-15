@@ -1,6 +1,8 @@
 {
     "title": "multi-core",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "multi-core": [
             "adj"

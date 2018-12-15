@@ -1,6 +1,8 @@
 {
     "title": "smartphone",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "smartphone": [
             "n"

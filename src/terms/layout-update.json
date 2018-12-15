@@ -1,6 +1,8 @@
 {
     "title": "layout update",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "layout update": [
             "n"

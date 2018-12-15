@@ -1,6 +1,8 @@
 {
     "title": "Authorize.Net",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "Authorize.Net": [
             "n"

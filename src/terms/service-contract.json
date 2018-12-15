@@ -1,6 +1,8 @@
 {
     "title": "service contract",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "service contract": [
             "n"

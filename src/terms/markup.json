@@ -1,6 +1,8 @@
 {
     "title": "markup",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "markup": [
             "n"

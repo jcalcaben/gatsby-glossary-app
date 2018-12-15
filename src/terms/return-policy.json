@@ -1,6 +1,8 @@
 {
     "title": "return policy",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "return policy": [
             "n"

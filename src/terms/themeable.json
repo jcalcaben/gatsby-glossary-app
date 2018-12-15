@@ -1,6 +1,8 @@
 {
     "title": "themeable",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "themeable": [
             "adj"

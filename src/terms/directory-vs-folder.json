@@ -1,6 +1,8 @@
 {
     "title": "directory vs. folder",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "directory vs. folder": [
             "n"

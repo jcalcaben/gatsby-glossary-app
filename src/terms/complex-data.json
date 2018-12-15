@@ -1,6 +1,8 @@
 {
     "title": "complex data",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "complex data": [
             "n"

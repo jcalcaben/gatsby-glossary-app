@@ -1,6 +1,8 @@
 {
     "title": "wrap-up",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "wrap-up": [
             "n"

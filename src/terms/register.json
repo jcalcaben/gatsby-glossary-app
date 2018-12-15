@@ -1,6 +1,8 @@
 {
     "title": "register",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "register": [
             "v"

@@ -1,6 +1,8 @@
 {
     "title": "template",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "template": [
             "n"

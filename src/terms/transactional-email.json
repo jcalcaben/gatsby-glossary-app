@@ -1,6 +1,8 @@
 {
     "title": "transactional email",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "transactional email": [
             "n"

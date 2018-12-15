@@ -1,6 +1,8 @@
 {
     "title": "fluid layout",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "fluid layout": [
             "n"

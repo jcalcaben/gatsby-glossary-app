@@ -1,6 +1,8 @@
 {
     "title": "dependency injection",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "dependency injection": [
             "n"

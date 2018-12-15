@@ -1,6 +1,8 @@
 {
     "title": "anchor text",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "anchor text": [
             "n"

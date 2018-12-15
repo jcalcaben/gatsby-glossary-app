@@ -1,6 +1,8 @@
 {
     "title": "Docker",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "Docker": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "layout instructions",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "layout instructions": [
             "n"

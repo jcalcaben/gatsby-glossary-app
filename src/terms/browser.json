@@ -1,6 +1,8 @@
 {
     "title": "browser",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "browser": [
             "n"

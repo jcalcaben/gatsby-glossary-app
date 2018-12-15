@@ -1,6 +1,8 @@
 {
     "title": "backup",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "backup": [
             "n",

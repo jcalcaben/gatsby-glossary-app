@@ -1,6 +1,8 @@
 {
     "title": "omnichannel",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "omnichannel": [
             "adj"

@@ -1,6 +1,8 @@
 {
     "title": "wishlist",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "wishlist": [
             "n"

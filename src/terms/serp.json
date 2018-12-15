@@ -1,6 +1,8 @@
 {
     "title": "SERP",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "SERP": [
             "n"

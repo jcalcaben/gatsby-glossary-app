@@ -1,6 +1,8 @@
 {
     "title": "upvote",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "upvote": [
             "v"

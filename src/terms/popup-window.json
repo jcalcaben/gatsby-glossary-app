@@ -1,6 +1,8 @@
 {
     "title": "popup window",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "popup window": [
             "n"

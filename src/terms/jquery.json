@@ -1,6 +1,8 @@
 {
     "title": "jQuery",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "jQuery": [
             "n"

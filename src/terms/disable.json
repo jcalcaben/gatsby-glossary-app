@@ -1,6 +1,8 @@
 {
     "title": "disable",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "disable": [
             "v"

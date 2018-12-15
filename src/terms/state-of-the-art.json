@@ -1,6 +1,8 @@
 {
     "title": "state-of-the-art",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "state-of-the-art": [
             "adj"

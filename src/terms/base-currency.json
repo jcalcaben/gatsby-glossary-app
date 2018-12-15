@@ -1,6 +1,8 @@
 {
     "title": "base currency",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "base currency": [
             "n"

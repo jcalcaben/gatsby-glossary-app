@@ -1,6 +1,8 @@
 {
     "title": "tap",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "tap": [
             "v"

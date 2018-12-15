@@ -1,6 +1,8 @@
 {
     "title": "cart rules",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "cart rules": [
             "n"

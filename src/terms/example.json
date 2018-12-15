@@ -1,6 +1,8 @@
 {
     "title": "example",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "example": [
             "n"

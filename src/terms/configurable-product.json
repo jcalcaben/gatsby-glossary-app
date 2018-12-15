@@ -1,6 +1,8 @@
 {
     "title": "configurable product",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "configurable product": [
             "n"

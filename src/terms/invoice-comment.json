@@ -1,6 +1,8 @@
 {
     "title": "invoice comment",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "invoice comment": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "leverage",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "leverage": [
             "n",

@@ -1,6 +1,8 @@
 {
     "title": "utilize",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "utilize": [
             "v"

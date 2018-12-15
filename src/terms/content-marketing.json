@@ -1,6 +1,8 @@
 {
     "title": "content marketing",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "content marketing": [
             "n"

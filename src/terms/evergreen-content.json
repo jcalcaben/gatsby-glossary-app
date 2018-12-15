@@ -1,6 +1,8 @@
 {
     "title": "evergreen content",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "evergreen content": [
             "n"

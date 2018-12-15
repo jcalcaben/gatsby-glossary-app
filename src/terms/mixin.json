@@ -1,6 +1,8 @@
 {
     "title": "mixin",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "mixin": [
             "n"

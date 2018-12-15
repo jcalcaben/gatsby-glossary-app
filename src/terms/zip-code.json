@@ -1,6 +1,8 @@
 {
     "title": "ZIP code",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "ZIP code": [
             "n"

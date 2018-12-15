@@ -1,6 +1,8 @@
 {
     "title": "Compass",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "Compass": [
             "n"

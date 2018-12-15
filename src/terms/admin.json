@@ -1,6 +1,8 @@
 {
     "title": "admin",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "admin": [
             "n"

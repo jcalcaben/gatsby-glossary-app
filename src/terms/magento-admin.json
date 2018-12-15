@@ -1,6 +1,8 @@
 {
     "title": "Magento Admin",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "Magento Admin": [
             "n"

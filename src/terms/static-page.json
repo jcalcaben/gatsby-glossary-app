@@ -1,6 +1,8 @@
 {
     "title": "static page",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "static page": [
             "n"

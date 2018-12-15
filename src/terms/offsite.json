@@ -1,6 +1,8 @@
 {
     "title": "offsite",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "offsite": [
             "adj"

@@ -1,6 +1,8 @@
 {
     "title": "multi-page",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "multi-page": [
             "adj"

@@ -1,6 +1,8 @@
 {
     "title": "Medium",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "Medium": [
             "adj"

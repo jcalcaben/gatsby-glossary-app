@@ -1,6 +1,8 @@
 {
     "title": "gross margin",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "gross margin": [
             "n"

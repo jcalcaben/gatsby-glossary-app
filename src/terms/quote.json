@@ -1,6 +1,8 @@
 {
     "title": "quote",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "quote": [
             "n"

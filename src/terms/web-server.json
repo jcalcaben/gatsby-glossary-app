@@ -1,6 +1,8 @@
 {
     "title": "web server",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "web server": [
             "n"

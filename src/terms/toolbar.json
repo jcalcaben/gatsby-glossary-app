@@ -1,6 +1,8 @@
 {
     "title": "toolbar",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "toolbar": [
             "n"

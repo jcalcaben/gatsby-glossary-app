@@ -1,6 +1,8 @@
 {
     "title": "cache type",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "cache type": [
             "n"

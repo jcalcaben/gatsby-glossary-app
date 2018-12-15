@@ -1,6 +1,8 @@
 {
     "title": "Boolean",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "Boolean": [
             "adj"

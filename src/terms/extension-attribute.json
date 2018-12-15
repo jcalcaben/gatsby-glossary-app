@@ -1,6 +1,8 @@
 {
     "title": "extension attribute",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "extension attribute": [
             "n"

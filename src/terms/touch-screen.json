@@ -1,6 +1,8 @@
 {
     "title": "touch screen",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "touch screen": [
             "n"

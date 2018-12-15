@@ -1,6 +1,8 @@
 {
     "title": "multiselect",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "multiselect": [
             "adj"

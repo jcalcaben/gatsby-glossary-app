@@ -1,6 +1,8 @@
 {
     "title": "usability",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "usability": [
             "n"

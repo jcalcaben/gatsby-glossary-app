@@ -1,6 +1,8 @@
 {
     "title": "nonnative",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "nonnative": [
             "adj"

@@ -1,6 +1,8 @@
 {
     "title": "open source",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "open source": [
             "adj"

@@ -1,6 +1,8 @@
 {
     "title": "store view",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "store view": [
             "n"

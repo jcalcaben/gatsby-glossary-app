@@ -1,6 +1,8 @@
 {
     "title": "interception",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "interception": [
             "n"

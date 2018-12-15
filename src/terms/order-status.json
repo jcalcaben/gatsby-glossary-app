@@ -1,6 +1,8 @@
 {
     "title": "order status",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "order status": [
             "n"

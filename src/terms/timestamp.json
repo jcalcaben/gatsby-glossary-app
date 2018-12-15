@@ -1,6 +1,8 @@
 {
     "title": "timestamp",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "timestamp": [
             "n"

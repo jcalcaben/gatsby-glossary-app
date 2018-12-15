@@ -1,6 +1,8 @@
 {
     "title": "static block",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "static block": [
             "n"

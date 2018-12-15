@@ -1,6 +1,8 @@
 {
     "title": "proceed to",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "proceed to": [
             "v"

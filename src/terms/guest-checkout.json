@@ -1,6 +1,8 @@
 {
     "title": "guest checkout",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "guest checkout": [
             "n",

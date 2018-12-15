@@ -1,6 +1,8 @@
 {
     "title": "max, min",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "max / min": [
             "n"

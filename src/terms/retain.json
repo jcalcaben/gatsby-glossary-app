@@ -1,6 +1,8 @@
 {
     "title": "retain",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "retain": [
             "v"

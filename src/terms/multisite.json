@@ -1,6 +1,8 @@
 {
     "title": "multisite",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "multisite": [
             "adj"

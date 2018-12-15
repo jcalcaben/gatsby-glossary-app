@@ -1,6 +1,8 @@
 {
     "title": "dynamic content",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "dynamic content": [
             "n"

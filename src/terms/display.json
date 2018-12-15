@@ -1,6 +1,8 @@
 {
     "title": "display",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "display": [
             "v"

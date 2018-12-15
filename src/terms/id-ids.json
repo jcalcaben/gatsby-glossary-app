@@ -1,6 +1,8 @@
 {
     "title": "ID / IDs",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "ID / IDs": [
             "n"

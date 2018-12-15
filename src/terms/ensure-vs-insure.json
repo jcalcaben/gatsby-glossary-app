@@ -1,6 +1,8 @@
 {
     "title": "ensure vs. insure",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "ensure vs. insure": [
             "v"

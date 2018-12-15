@@ -1,6 +1,8 @@
 {
     "title": "composite pattern",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "composite pattern": [
             "n"

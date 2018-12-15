@@ -1,6 +1,8 @@
 {
     "title": "kickoff",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "kickoff": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "multichannel",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "multichannel": [
             "adj"

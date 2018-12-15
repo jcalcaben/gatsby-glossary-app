@@ -1,6 +1,8 @@
 {
     "title": "conversion",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "conversion": [
             "n"

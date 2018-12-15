@@ -1,6 +1,8 @@
 {
     "title": "turnkey",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "turnkey": [
             "n"

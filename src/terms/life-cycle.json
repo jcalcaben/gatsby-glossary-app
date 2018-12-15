@@ -1,6 +1,8 @@
 {
     "title": "life cycle",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "life cycle": [
             "n"

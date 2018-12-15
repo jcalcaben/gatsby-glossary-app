@@ -1,6 +1,8 @@
 {
     "title": "payment gateway",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "payment gateway": [
             "n"

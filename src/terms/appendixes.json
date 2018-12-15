@@ -1,6 +1,8 @@
 {
     "title": "appendixes",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "appendixes": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "log in, log on, log out, log off",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {},
     "synonyms": [],
     "primarySource": "UserDocs",

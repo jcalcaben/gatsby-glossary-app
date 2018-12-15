@@ -1,6 +1,8 @@
 {
     "title": "Iframe",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "Iframe": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "OK, OK'd, OK'ing, Oks",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {},
     "synonyms": [],
     "primarySource": "UserDocs",

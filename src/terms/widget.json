@@ -1,6 +1,8 @@
 {
     "title": "widget",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "widget": [
             "n"

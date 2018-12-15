@@ -1,6 +1,8 @@
 {
     "title": "Large",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "Large": [
             "adj"

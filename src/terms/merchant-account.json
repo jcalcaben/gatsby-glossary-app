@@ -1,6 +1,8 @@
 {
     "title": "merchant account",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "merchant account": [
             "n"

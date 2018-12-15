@@ -1,6 +1,8 @@
 {
     "title": "white paper",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "white paper": [
             "n"

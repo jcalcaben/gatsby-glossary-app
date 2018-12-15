@@ -1,6 +1,8 @@
 {
     "title": "conversion rate",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "conversion rate": [
             "n"

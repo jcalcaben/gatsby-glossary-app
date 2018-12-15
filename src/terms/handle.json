@@ -1,6 +1,8 @@
 {
     "title": "handle",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "handle": [
             "n"

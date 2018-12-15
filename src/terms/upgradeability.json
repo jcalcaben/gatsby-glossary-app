@@ -1,6 +1,8 @@
 {
     "title": "upgradeability",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "upgradeability": [
             "n"

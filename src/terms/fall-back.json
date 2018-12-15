@@ -1,6 +1,8 @@
 {
     "title": "fall back",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "fall back": [],
         "fallback": [

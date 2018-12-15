@@ -1,6 +1,8 @@
 {
     "title": "privacy policy",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "privacy policy": [
             "n"

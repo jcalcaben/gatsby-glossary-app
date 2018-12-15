@@ -1,6 +1,8 @@
 {
     "title": "capture",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "capture": [
             "v"

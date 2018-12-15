@@ -1,6 +1,8 @@
 {
     "title": "prerequisites",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "prerequisites": [
             "n"

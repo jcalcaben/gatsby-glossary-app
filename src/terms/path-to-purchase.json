@@ -1,6 +1,8 @@
 {
     "title": "path to purchase",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "path to purchase": [
             "n"

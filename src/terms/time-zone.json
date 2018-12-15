@@ -1,6 +1,8 @@
 {
     "title": "time zone",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "time zone": [
             "n"

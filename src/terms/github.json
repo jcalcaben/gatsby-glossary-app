@@ -1,6 +1,8 @@
 {
     "title": "GitHub",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "GitHub": [
             "n"

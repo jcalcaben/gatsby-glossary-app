@@ -1,6 +1,8 @@
 {
     "title": "attribute set",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "attribute set": [
             "n"

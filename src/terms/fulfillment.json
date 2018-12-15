@@ -1,6 +1,8 @@
 {
     "title": "fulfillment",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "fulfillment": [
             "n"

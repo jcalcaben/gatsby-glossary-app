@@ -1,6 +1,8 @@
 {
     "title": "High-Level Requirements",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "High-Level Requirements": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "invoice item",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "invoice item": [
             "n"

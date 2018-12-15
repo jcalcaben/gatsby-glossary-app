@@ -1,6 +1,8 @@
 {
     "title": "operating system",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "operating system": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "web store",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "web store": [
             "n"

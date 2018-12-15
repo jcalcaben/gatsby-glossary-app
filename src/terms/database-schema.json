@@ -1,6 +1,8 @@
 {
     "title": "database schema",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "database schema": [
             "n"

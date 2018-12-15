@@ -1,6 +1,8 @@
 {
     "title": "in-depth",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "in-depth": [
             "adj"

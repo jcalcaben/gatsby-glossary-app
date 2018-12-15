@@ -1,6 +1,8 @@
 {
     "title": "downtime",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "downtime": [
             "n"

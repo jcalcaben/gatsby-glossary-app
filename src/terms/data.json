@@ -1,6 +1,8 @@
 {
     "title": "data",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "data": [
             "n"

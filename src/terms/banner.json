@@ -1,6 +1,8 @@
 {
     "title": "banner",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "banner": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "web-enabled",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "web-enabled": [
             "adj"

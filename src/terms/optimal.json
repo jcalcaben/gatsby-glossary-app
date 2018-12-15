@@ -1,6 +1,8 @@
 {
     "title": "optimal",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "optimal": [
             "adj"

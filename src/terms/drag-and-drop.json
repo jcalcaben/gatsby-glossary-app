@@ -1,6 +1,8 @@
 {
     "title": "drag-and-drop",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "drag-and-drop": [
             "adj"

@@ -1,6 +1,8 @@
 {
     "title": "applied",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "applied": [
             "v"

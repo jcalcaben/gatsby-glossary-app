@@ -1,6 +1,8 @@
 {
     "title": "shopper",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "shopper": [
             "n"

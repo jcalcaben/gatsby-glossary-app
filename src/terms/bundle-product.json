@@ -1,6 +1,8 @@
 {
     "title": "bundle product",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "bundle product": [
             "n"

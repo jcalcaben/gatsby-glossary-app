@@ -1,6 +1,8 @@
 {
     "title": "application",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "application": [
             "n"

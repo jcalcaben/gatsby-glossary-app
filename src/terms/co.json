@@ -1,6 +1,8 @@
 {
     "title": "co-",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "co-": [
             "prefix"

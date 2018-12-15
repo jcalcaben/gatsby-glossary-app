@@ -1,6 +1,8 @@
 {
     "title": "downloadable product",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "downloadable product": [
             "n"

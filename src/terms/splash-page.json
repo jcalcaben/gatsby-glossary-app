@@ -1,6 +1,8 @@
 {
     "title": "splash page",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "splash page": [
             "n"

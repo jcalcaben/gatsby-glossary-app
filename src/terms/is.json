@@ -1,6 +1,8 @@
 {
     "title": "is",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "is": [
             "v"

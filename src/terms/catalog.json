@@ -1,6 +1,8 @@
 {
     "title": "Catalog",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "Catalog": [
             "n"

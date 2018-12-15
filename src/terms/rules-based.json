@@ -1,6 +1,8 @@
 {
     "title": "rules-based",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "rules-based": [
             "adj"

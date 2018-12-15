@@ -1,6 +1,8 @@
 {
     "title": "on-the-fly",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "on-the-fly": [
             "adj"

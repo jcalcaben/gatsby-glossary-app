@@ -1,6 +1,8 @@
 {
     "title": "sales rules",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "sales rules": [
             "n"

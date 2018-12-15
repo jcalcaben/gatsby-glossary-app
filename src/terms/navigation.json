@@ -1,6 +1,8 @@
 {
     "title": "navigation",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "navigation": [
             "n"

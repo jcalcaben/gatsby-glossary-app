@@ -1,6 +1,8 @@
 {
     "title": "URL",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "URL": [
             "n"

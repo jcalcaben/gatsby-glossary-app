@@ -1,6 +1,8 @@
 {
     "title": "metapackage",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "metapackage": [
             "n"

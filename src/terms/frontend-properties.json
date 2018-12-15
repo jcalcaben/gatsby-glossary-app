@@ -1,6 +1,8 @@
 {
     "title": "frontend properties",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "frontend properties": [
             "n"

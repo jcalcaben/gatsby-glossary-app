@@ -1,6 +1,8 @@
 {
     "title": "datasheet",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "datasheet": [
             "n"

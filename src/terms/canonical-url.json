@@ -1,6 +1,8 @@
 {
     "title": "canonical URL",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "canonical URL": [
             "n"

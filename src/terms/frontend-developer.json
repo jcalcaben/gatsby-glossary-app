@@ -1,6 +1,8 @@
 {
     "title": "frontend developer",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "frontend developer": [
             "n"

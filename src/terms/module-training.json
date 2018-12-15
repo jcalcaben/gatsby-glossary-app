@@ -1,6 +1,8 @@
 {
     "title": "module (training)",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "module (training)": [
             "n"

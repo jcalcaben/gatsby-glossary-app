@@ -1,6 +1,8 @@
 {
     "title": "category",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "category": [
             "n"

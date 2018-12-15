@@ -1,6 +1,8 @@
 {
     "title": "preprocessor",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "preprocessor": [
             "n"

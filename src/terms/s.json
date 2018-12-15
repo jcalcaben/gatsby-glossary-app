@@ -1,6 +1,8 @@
 {
     "title": "(s)",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {},
     "synonyms": [],
     "primarySource": "UserDocs",

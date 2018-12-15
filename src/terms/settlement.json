@@ -1,6 +1,8 @@
 {
     "title": "settlement",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "settlement": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "virtual type",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "virtual type": [
             "n"

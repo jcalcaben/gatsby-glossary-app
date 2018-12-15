@@ -1,6 +1,8 @@
 {
     "title": "integration API",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "integration API": [
             "n"

@@ -1,6 +1,8 @@
 {
     "title": "self-check",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "self-check": [
             "v"

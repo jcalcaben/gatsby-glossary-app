@@ -1,6 +1,8 @@
 {
     "title": "out of stock",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "out of stock": [
             "adj"

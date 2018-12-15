@@ -1,6 +1,8 @@
 {
     "title": "UI component",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "UI component": [
             "n"

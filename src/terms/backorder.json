@@ -1,6 +1,8 @@
 {
     "title": "backorder",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "backorder": [
             "n"

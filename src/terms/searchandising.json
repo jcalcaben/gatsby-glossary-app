@@ -1,6 +1,8 @@
 {
     "title": "searchandising",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "searchandising": [
             "n"

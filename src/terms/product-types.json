@@ -1,6 +1,8 @@
 {
     "title": "product types",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "product type": [
             "n"

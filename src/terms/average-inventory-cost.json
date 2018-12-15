@@ -1,6 +1,8 @@
 {
     "title": "average inventory cost",
-    "types": [],
+    "types": [
+        "glossary"
+    ],
     "formTypes": {
         "average inventory cost": [
             "n"

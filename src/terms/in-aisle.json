@@ -1,6 +1,8 @@
 {
     "title": "in-aisle",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "in-aisle": [
             "adj"

@@ -1,6 +1,8 @@
 {
     "title": "de-",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "de-": [
             "adv"

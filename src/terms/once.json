@@ -1,6 +1,8 @@
 {
     "title": "once",
-    "types": [],
+    "types": [
+        "usage"
+    ],
     "formTypes": {
         "once": [
             "adv"
