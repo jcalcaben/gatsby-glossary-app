@@ -1,1 +1,14 @@
-{"title":"acquire","types":[],"formTypes":{"acquire":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “get” instead."}
+{
+    "title": "acquire",
+    "types": [],
+    "formTypes": {
+        "acquire": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “get” instead."
+}

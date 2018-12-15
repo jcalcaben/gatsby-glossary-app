@@ -1,1 +1,13 @@
-{"title":"in-aisle","types":[],"formTypes":{"in-aisle":["adj"]},"synonyms":[],"primarySource":"Marketing","contentTags":[],"userTags":[]}
+{
+    "title": "in-aisle",
+    "types": [],
+    "formTypes": {
+        "in-aisle": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "Marketing",
+    "contentTags": [],
+    "userTags": []
+}

@@ -1,1 +1,14 @@
-{"title":"big data","types":[],"formTypes":{"big data":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"No initial caps."}
+{
+    "title": "big data",
+    "types": [],
+    "formTypes": {
+        "big data": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "No initial caps."
+}

@@ -1,1 +1,13 @@
-{"title":"configuration","types":[],"formTypes":{"configuration":[],"configure":[]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"For merchants or shoppers, use “setup” or “set up”. For developers, “configuration” is appropriate in technical contexts."}
+{
+    "title": "configuration",
+    "types": [],
+    "formTypes": {
+        "configuration": [],
+        "configure": []
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "For merchants or shoppers, use “setup” or “set up”. For developers, “configuration” is appropriate in technical contexts."
+}

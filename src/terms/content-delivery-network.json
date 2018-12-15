@@ -1,1 +1,21 @@
-{"title":"content delivery network","types":["glossary","usage"],"formTypes":{"content delivery network":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"A large distributed network of servers that specializes in the high performance delivery of multimedia content.","usage":"\"CDN\" can be used on second reference."}
+{
+    "title": "content delivery network",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "content delivery network": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "A large distributed network of servers that specializes in the high performance delivery of multimedia content.",
+    "usage": "\"CDN\" can be used on second reference."
+}

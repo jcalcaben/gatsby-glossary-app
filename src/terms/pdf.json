@@ -1,1 +1,13 @@
-{"title":"PDF","types":[],"formTypes":{"PDF":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "PDF",
+    "types": [],
+    "formTypes": {
+        "PDF": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

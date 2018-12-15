@@ -1,1 +1,14 @@
-{"title":"enable","types":[],"formTypes":{"enable":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “turn on”, when possible."}
+{
+    "title": "enable",
+    "types": [],
+    "formTypes": {
+        "enable": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “turn on”, when possible."
+}

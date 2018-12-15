@@ -1,1 +1,25 @@
-{"title":"blacklist","types":["glossary","usage"],"formTypes":{"blacklist":["n","v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer","Merchant"],"shortDefinition":"A method of filtering data that excludes the data specified on a list and includes everything else."}
+{
+    "title": "blacklist",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "blacklist": [
+            "n",
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ],
+    "shortDefinition": "A method of filtering data that excludes the data specified on a list and includes everything else.",
+    "referenceLinks": [
+        "whitelist"
+    ]
+}

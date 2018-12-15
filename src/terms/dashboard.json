@@ -1,1 +1,17 @@
-{"title":"dashboard","types":[],"formTypes":{"dashboard":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Business / Marketing","Design"],"userTags":[],"usage":"No initial cap."}
+{
+    "title": "dashboard",
+    "types": [],
+    "formTypes": {
+        "dashboard": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Business / Marketing",
+        "Design"
+    ],
+    "userTags": [],
+    "usage": "No initial cap."
+}

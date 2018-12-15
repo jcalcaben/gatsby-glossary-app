@@ -1,1 +1,17 @@
-{"title":"exception","types":[],"formTypes":{"exception":["n"]},"synonyms":[],"primarySource":"DevDocs","contentTags":[],"userTags":["Internal","Developer"],"shortDefinition":"An abnormal condition that requires special processing."}
+{
+    "title": "exception",
+    "types": [],
+    "formTypes": {
+        "exception": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "DevDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "shortDefinition": "An abnormal condition that requires special processing."
+}

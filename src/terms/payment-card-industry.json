@@ -1,1 +1,24 @@
-{"title":"Payment Card Industry","types":["glossary","usage"],"formTypes":{"Payment Card Industry":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Business / Marketing","Order"],"userTags":["Internal","Merchant"],"shortDefinition":"Refers to debit and credit cards and their associated businesses.","usage":"\"PCI\" can be used on second reference."}
+{
+    "title": "Payment Card Industry",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "Payment Card Industry": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Business / Marketing",
+        "Order"
+    ],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "Refers to debit and credit cards and their associated businesses.",
+    "usage": "\"PCI\" can be used on second reference."
+}

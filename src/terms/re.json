@@ -1,1 +1,14 @@
-{"title":"re-","types":[],"formTypes":{"re-":["prefix"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Hyphenate the prefix only if the meaning is unclear without it."}
+{
+    "title": "re-",
+    "types": [],
+    "formTypes": {
+        "re-": [
+            "prefix"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Hyphenate the prefix only if the meaning is unclear without it."
+}

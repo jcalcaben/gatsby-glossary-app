@@ -1,1 +1,18 @@
-{"title":"web","types":[],"formTypes":{"web":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer","Merchant"],"usage":"Not “Web” with initial cap."}
+{
+    "title": "web",
+    "types": [],
+    "formTypes": {
+        "web": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ],
+    "usage": "Not “Web” with initial cap."
+}

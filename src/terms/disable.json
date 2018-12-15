@@ -1,1 +1,14 @@
-{"title":"disable","types":[],"formTypes":{"disable":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “turn off” instead, when possible."}
+{
+    "title": "disable",
+    "types": [],
+    "formTypes": {
+        "disable": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “turn off” instead, when possible."
+}

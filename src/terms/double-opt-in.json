@@ -1,1 +1,18 @@
-{"title":"double opt-in","types":[],"formTypes":{"double opt-in":["n","v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"An email verification process that requires potential subscribers to complete a second step that confirms their intention to subscribe."}
+{
+    "title": "double opt-in",
+    "types": [],
+    "formTypes": {
+        "double opt-in": [
+            "n",
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "An email verification process that requires potential subscribers to complete a second step that confirms their intention to subscribe."
+}

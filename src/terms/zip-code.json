@@ -1,1 +1,13 @@
-{"title":"ZIP code","types":[],"formTypes":{"ZIP code":["n"]},"synonyms":[],"primarySource":"Marketing","contentTags":[],"userTags":[]}
+{
+    "title": "ZIP code",
+    "types": [],
+    "formTypes": {
+        "ZIP code": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "Marketing",
+    "contentTags": [],
+    "userTags": []
+}

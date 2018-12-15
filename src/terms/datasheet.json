@@ -1,1 +1,13 @@
-{"title":"datasheet","types":[],"formTypes":{"datasheet":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "datasheet",
+    "types": [],
+    "formTypes": {
+        "datasheet": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

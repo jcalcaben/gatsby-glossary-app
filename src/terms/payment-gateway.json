@@ -1,1 +1,21 @@
-{"title":"payment gateway","types":[],"formTypes":{"payment gateway":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Business / Marketing","Order","Programming"],"userTags":["Internal","Merchant"],"shortDefinition":"A payment gateway is a third-party service that seamlessly processes credit card transactions without the customer leaving the merchant's site."}
+{
+    "title": "payment gateway",
+    "types": [],
+    "formTypes": {
+        "payment gateway": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Business / Marketing",
+        "Order",
+        "Programming"
+    ],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "A payment gateway is a third-party service that seamlessly processes credit card transactions without the customer leaving the merchant's site."
+}

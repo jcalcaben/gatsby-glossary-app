@@ -1,1 +1,14 @@
-{"title":"online","types":[],"formTypes":{"online":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not “on line”."}
+{
+    "title": "online",
+    "types": [],
+    "formTypes": {
+        "online": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not “on line”."
+}

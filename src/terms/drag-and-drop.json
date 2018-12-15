@@ -1,1 +1,13 @@
-{"title":"drag-and-drop","types":[],"formTypes":{"drag-and-drop":["adj"]},"synonyms":[],"primarySource":"Marketing","contentTags":[],"userTags":[]}
+{
+    "title": "drag-and-drop",
+    "types": [],
+    "formTypes": {
+        "drag-and-drop": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "Marketing",
+    "contentTags": [],
+    "userTags": []
+}

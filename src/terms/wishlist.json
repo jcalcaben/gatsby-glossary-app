@@ -1,1 +1,18 @@
-{"title":"wishlist","types":[],"formTypes":{"wishlist":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer","Merchant"],"usage":"Not “wish list”."}
+{
+    "title": "wishlist",
+    "types": [],
+    "formTypes": {
+        "wishlist": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ],
+    "usage": "Not “wish list”."
+}

@@ -1,1 +1,14 @@
-{"title":"multiselect","types":[],"formTypes":{"multiselect":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"In DevDocs, this is how the input name is typed in code."}
+{
+    "title": "multiselect",
+    "types": [],
+    "formTypes": {
+        "multiselect": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "In DevDocs, this is how the input name is typed in code."
+}

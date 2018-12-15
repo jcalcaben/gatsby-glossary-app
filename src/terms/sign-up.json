@@ -1,1 +1,18 @@
-{"title":"sign up","types":[],"formTypes":{"sign up":["v"]},"synonyms":["enroll","join","create an account"],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Don't use enroll."}
+{
+    "title": "sign up",
+    "types": [],
+    "formTypes": {
+        "sign up": [
+            "v"
+        ]
+    },
+    "synonyms": [
+        "enroll",
+        "join",
+        "create an account"
+    ],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Don't use enroll."
+}

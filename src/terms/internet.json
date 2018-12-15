@@ -1,1 +1,17 @@
-{"title":"internet","types":[],"formTypes":{"internet":["n"]},"synonyms":[],"primarySource":"Marketing","contentTags":[],"userTags":["Internal","Developer","Merchant"]}
+{
+    "title": "internet",
+    "types": [],
+    "formTypes": {
+        "internet": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "Marketing",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ]
+}

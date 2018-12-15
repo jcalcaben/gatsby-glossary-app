@@ -1,1 +1,13 @@
-{"title":"multisite","types":[],"formTypes":{"multisite":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "multisite",
+    "types": [],
+    "formTypes": {
+        "multisite": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

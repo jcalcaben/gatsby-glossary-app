@@ -1,1 +1,13 @@
-{"title":"upgradeability","types":[],"formTypes":{"upgradeability":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "upgradeability",
+    "types": [],
+    "formTypes": {
+        "upgradeability": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

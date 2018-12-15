@@ -1,1 +1,20 @@
-{"title":"anchor text","types":[],"formTypes":{"anchor text":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"The text, or label, in a hyperlink that is visible and clickable. Anchor text is important in search engine optimization."}
+{
+    "title": "anchor text",
+    "types": [],
+    "formTypes": {
+        "anchor text": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "The text, or label, in a hyperlink that is visible and clickable. Anchor text is important in search engine optimization.",
+    "referenceLinks": [
+        "search engine optimization"
+    ]
+}

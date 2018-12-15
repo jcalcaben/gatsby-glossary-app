@@ -1,1 +1,17 @@
-{"title":"open source","types":[],"formTypes":{"open source":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer"],"usage":"Not “open-source”. Hyphenate when using the term as a modifier."}
+{
+    "title": "open source",
+    "types": [],
+    "formTypes": {
+        "open source": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "usage": "Not “open-source”. Hyphenate when using the term as a modifier."
+}

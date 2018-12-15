@@ -1,1 +1,13 @@
-{"title":"round robin","types":[],"formTypes":{"round robin":[],"round-robin":[]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not round-robin, unless used as a modifier."}
+{
+    "title": "round robin",
+    "types": [],
+    "formTypes": {
+        "round robin": [],
+        "round-robin": []
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not round-robin, unless used as a modifier."
+}

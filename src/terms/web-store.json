@@ -1,1 +1,16 @@
-{"title":"web store","types":[],"formTypes":{"web store":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Magento Software","Product"],"userTags":[]}
+{
+    "title": "web store",
+    "types": [],
+    "formTypes": {
+        "web store": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Magento Software",
+        "Product"
+    ],
+    "userTags": []
+}

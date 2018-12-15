@@ -1,1 +1,14 @@
-{"title":"sync","types":[],"formTypes":{"sync":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not “synch”."}
+{
+    "title": "sync",
+    "types": [],
+    "formTypes": {
+        "sync": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not “synch”."
+}

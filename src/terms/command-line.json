@@ -1,1 +1,17 @@
-{"title":"command-line","types":[],"formTypes":{"command-line":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer"],"usage":"Hyphenate as a modifier."}
+{
+    "title": "command-line",
+    "types": [],
+    "formTypes": {
+        "command-line": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "usage": "Hyphenate as a modifier."
+}

@@ -1,1 +1,16 @@
-{"title":"GitHub","types":[],"formTypes":{"GitHub":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer"]}
+{
+    "title": "GitHub",
+    "types": [],
+    "formTypes": {
+        "GitHub": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ]
+}

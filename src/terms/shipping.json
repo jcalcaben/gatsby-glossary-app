@@ -1,1 +1,17 @@
-{"title":"shipping","types":[],"formTypes":{"shipping":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Business / Marketing","Order"],"userTags":[],"usage":"Use “delivery” instead for shopper-facing text."}
+{
+    "title": "shipping",
+    "types": [],
+    "formTypes": {
+        "shipping": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Business / Marketing",
+        "Order"
+    ],
+    "userTags": [],
+    "usage": "Use “delivery” instead for shopper-facing text."
+}

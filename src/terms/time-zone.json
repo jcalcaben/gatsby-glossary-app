@@ -1,1 +1,14 @@
-{"title":"time zone","types":[],"formTypes":{"time zone":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not “timezone”."}
+{
+    "title": "time zone",
+    "types": [],
+    "formTypes": {
+        "time zone": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not “timezone”."
+}

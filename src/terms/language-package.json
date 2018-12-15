@@ -1,1 +1,21 @@
-{"title":"language package","types":[],"formTypes":{"language package":["n"]},"synonyms":[],"primarySource":"DevDocs","contentTags":[],"userTags":["Internal","Developer"],"shortDefinition":"Provides translation dictionaries used to localize the Magento application. A language package includes one or more translation files. A package is a one of the components in Magento, which also include modules and themes."}
+{
+    "title": "language package",
+    "types": [],
+    "formTypes": {
+        "language package": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "DevDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "shortDefinition": "Provides translation dictionaries used to localize the Magento application. A language package includes one or more translation files. A package is a one of the components in Magento, which also include modules and themes.",
+    "referenceLinks": [
+        "Magento component",
+        "package"
+    ]
+}

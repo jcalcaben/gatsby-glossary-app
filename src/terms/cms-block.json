@@ -1,1 +1,21 @@
-{"title":"CMS block","types":[],"formTypes":{"CMS block":["n"]},"synonyms":[],"primarySource":"DevDocs","contentTags":[],"userTags":["Internal","Developer"],"shortDefinition":"A special variant of block that can only be created in the Magento Admin and can't be referenced through layout files."}
+{
+    "title": "CMS block",
+    "types": [],
+    "formTypes": {
+        "CMS block": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "DevDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "shortDefinition": "A special variant of block that can only be created in the Magento Admin and can't be referenced through layout files.",
+    "referenceLinks": [
+        "block",
+        "static block"
+    ]
+}

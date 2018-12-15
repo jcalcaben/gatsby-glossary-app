@@ -1,1 +1,20 @@
-{"title":"return policy","types":[],"formTypes":{"return policy":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Business / Marketing","Order"],"userTags":["Internal","Merchant"],"shortDefinition":"A document that explains the merchant’s rules regarding the return of products by customers."}
+{
+    "title": "return policy",
+    "types": [],
+    "formTypes": {
+        "return policy": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Business / Marketing",
+        "Order"
+    ],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "A document that explains the merchant’s rules regarding the return of products by customers."
+}

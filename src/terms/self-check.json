@@ -1,1 +1,13 @@
-{"title":"self-check","types":[],"formTypes":{"self-check":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "self-check",
+    "types": [],
+    "formTypes": {
+        "self-check": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

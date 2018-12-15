@@ -1,1 +1,15 @@
-{"title":"leverage","types":[],"formTypes":{"leverage":["n","v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"When used as a verb, use “use” instead."}
+{
+    "title": "leverage",
+    "types": [],
+    "formTypes": {
+        "leverage": [
+            "n",
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "When used as a verb, use “use” instead."
+}

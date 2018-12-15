@@ -1,1 +1,16 @@
-{"title":"multichannel","types":[],"formTypes":{"multichannel":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"]}
+{
+    "title": "multichannel",
+    "types": [],
+    "formTypes": {
+        "multichannel": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ]
+}

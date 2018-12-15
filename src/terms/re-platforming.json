@@ -1,1 +1,19 @@
-{"title":"re-platforming","types":[],"formTypes":{"re-platforming":["n"]},"synonyms":[],"primarySource":"Marketing","contentTags":["Business / Marketing","Programming"],"userTags":["Internal","Developer"]}
+{
+    "title": "re-platforming",
+    "types": [],
+    "formTypes": {
+        "re-platforming": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "Marketing",
+    "contentTags": [
+        "Business / Marketing",
+        "Programming"
+    ],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ]
+}

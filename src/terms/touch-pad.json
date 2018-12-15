@@ -1,1 +1,14 @@
-{"title":"touch pad","types":[],"formTypes":{"touch pad":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not “touchpad”."}
+{
+    "title": "touch pad",
+    "types": [],
+    "formTypes": {
+        "touch pad": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not “touchpad”."
+}

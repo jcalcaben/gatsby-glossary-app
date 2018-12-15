@@ -1,1 +1,14 @@
-{"title":"username","types":[],"formTypes":{"username":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not “user name”."}
+{
+    "title": "username",
+    "types": [],
+    "formTypes": {
+        "username": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not “user name”."
+}

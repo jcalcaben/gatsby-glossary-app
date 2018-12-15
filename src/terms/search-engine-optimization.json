@@ -1,1 +1,25 @@
-{"title":"search engine optimization","types":["glossary","usage"],"formTypes":{"search engine optimization":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer","Merchant"],"shortDefinition":"The process of improving a website’s search engine rankings in order to increase valued visitors.","usage":"Use \"SEO\" on second reference."}
+{
+    "title": "search engine optimization",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "search engine optimization": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ],
+    "shortDefinition": "The process of improving a website’s search engine rankings in order to increase valued visitors.",
+    "usage": "Use \"SEO\" on second reference.",
+    "referenceLinks": [
+        "keyword"
+    ]
+}

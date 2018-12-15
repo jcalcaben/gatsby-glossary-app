@@ -1,1 +1,28 @@
-{"title":"security code","types":["glossary","usage"],"formTypes":{"security code":["n"]},"synonyms":["card security code","CSC","CVN","CVV","CCV","CVC"],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"A 3- or 4-digit number that provides an additional level of security for credit cards and online transactions. May be found on the back or front of the card.","usage":"Use instead of card security code, CSC, CVN, CVV, CCV or CVC."}
+{
+    "title": "security code",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "security code": [
+            "n"
+        ]
+    },
+    "synonyms": [
+        "card security code",
+        "CSC",
+        "CVN",
+        "CVV",
+        "CCV",
+        "CVC"
+    ],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "A 3- or 4-digit number that provides an additional level of security for credit cards and online transactions. May be found on the back or front of the card.",
+    "usage": "Use instead of card security code, CSC, CVN, CVV, CCV or CVC."
+}

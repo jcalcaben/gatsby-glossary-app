@@ -1,1 +1,14 @@
-{"title":"de-","types":[],"formTypes":{"de-":["adv"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Hyphenate only if the meaning is unclear without it."}
+{
+    "title": "de-",
+    "types": [],
+    "formTypes": {
+        "de-": [
+            "adv"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Hyphenate only if the meaning is unclear without it."
+}

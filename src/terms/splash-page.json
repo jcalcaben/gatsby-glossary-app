@@ -1,1 +1,17 @@
-{"title":"splash page","types":[],"formTypes":{"splash page":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"A promotional page with a product or advertisement; normally displayed before the home page."}
+{
+    "title": "splash page",
+    "types": [],
+    "formTypes": {
+        "splash page": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "A promotional page with a product or advertisement; normally displayed before the home page."
+}

@@ -1,1 +1,17 @@
-{"title":"eBook","types":[],"formTypes":{"eBook":["n"]},"synonyms":[],"primarySource":"Marketing","contentTags":["Business / Marketing","Design","Product"],"userTags":[]}
+{
+    "title": "eBook",
+    "types": [],
+    "formTypes": {
+        "eBook": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "Marketing",
+    "contentTags": [
+        "Business / Marketing",
+        "Design",
+        "Product"
+    ],
+    "userTags": []
+}

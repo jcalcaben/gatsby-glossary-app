@@ -1,1 +1,17 @@
-{"title":"purchase","types":[],"formTypes":{"purchase":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"usage":"Use “buy” instead."}
+{
+    "title": "purchase",
+    "types": [],
+    "formTypes": {
+        "purchase": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "usage": "Use “buy” instead."
+}

@@ -1,1 +1,26 @@
-{"title":"metadata","types":["glossary","usage"],"formTypes":{"metadata":["n"]},"synonyms":[],"primarySource":"UX","contentTags":["Business / Marketing","Design","Programming"],"userTags":["Internal","Developer","Merchant"],"shortDefinition":"Data that describes other data. Metadata helps users find and work with data.","usage":"Not “meta data” or “meta-data”."}
+{
+    "title": "metadata",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "metadata": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UX",
+    "contentTags": [
+        "Business / Marketing",
+        "Design",
+        "Programming"
+    ],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ],
+    "shortDefinition": "Data that describes other data. Metadata helps users find and work with data.",
+    "usage": "Not “meta data” or “meta-data”."
+}

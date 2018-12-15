@@ -1,1 +1,14 @@
-{"title":"applied","types":[],"formTypes":{"applied":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “on”, “active”, or “in use”, instead. Example: You have 3 filters on."}
+{
+    "title": "applied",
+    "types": [],
+    "formTypes": {
+        "applied": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “on”, “active”, or “in use”, instead. Example: You have 3 filters on."
+}

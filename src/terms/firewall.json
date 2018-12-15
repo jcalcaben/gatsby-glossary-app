@@ -1,1 +1,14 @@
-{"title":"firewall","types":[],"formTypes":{"firewall":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not “fire wall”."}
+{
+    "title": "firewall",
+    "types": [],
+    "formTypes": {
+        "firewall": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not “fire wall”."
+}

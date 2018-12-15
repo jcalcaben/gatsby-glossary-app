@@ -1,1 +1,17 @@
-{"title":"path to purchase","types":[],"formTypes":{"path to purchase":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"The path a prospect follows that leads to a sale."}
+{
+    "title": "path to purchase",
+    "types": [],
+    "formTypes": {
+        "path to purchase": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "The path a prospect follows that leads to a sale."
+}

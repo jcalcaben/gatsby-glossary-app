@@ -1,1 +1,19 @@
-{"title":"email","types":[],"formTypes":{"email":["n","v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer","Merchant"],"usage":"Not “e-mail” or “E-mail”."}
+{
+    "title": "email",
+    "types": [],
+    "formTypes": {
+        "email": [
+            "n",
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ],
+    "usage": "Not “e-mail” or “E-mail”."
+}

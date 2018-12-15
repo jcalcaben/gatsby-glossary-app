@@ -1,1 +1,17 @@
-{"title":"markdown","types":[],"formTypes":{"markdown":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"The amount subtracted from the original price of a product."}
+{
+    "title": "markdown",
+    "types": [],
+    "formTypes": {
+        "markdown": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "The amount subtracted from the original price of a product."
+}

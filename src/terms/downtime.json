@@ -1,1 +1,14 @@
-{"title":"downtime","types":[],"formTypes":{"downtime":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not “down time."}
+{
+    "title": "downtime",
+    "types": [],
+    "formTypes": {
+        "downtime": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not “down time."
+}

@@ -1,1 +1,14 @@
-{"title":"dropdown","types":[],"formTypes":{"dropdown":["n","adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "dropdown",
+    "types": [],
+    "formTypes": {
+        "dropdown": [
+            "n",
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

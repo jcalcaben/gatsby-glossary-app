@@ -1,1 +1,17 @@
-{"title":"Magento file system owner","types":[],"formTypes":{"Magento file system owner":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"shortDefinition":"The user who owns files in the Magento file system. It’s very important to set up this user properly. Different hosting setups have different requirements."}
+{
+    "title": "Magento file system owner",
+    "types": [],
+    "formTypes": {
+        "Magento file system owner": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "shortDefinition": "The user who owns files in the Magento file system. It’s very important to set up this user properly. Different hosting setups have different requirements.",
+    "referenceLinks": [
+        "Overview of Ownerships and Permissions"
+    ]
+}

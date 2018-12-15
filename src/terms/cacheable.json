@@ -1,1 +1,13 @@
-{"title":"cacheable","types":[],"formTypes":{"cacheable":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "cacheable",
+    "types": [],
+    "formTypes": {
+        "cacheable": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

@@ -1,1 +1,14 @@
-{"title":"utilize","types":[],"formTypes":{"utilize":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “use” instead."}
+{
+    "title": "utilize",
+    "types": [],
+    "formTypes": {
+        "utilize": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “use” instead."
+}

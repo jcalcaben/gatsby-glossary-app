@@ -1,1 +1,21 @@
-{"title":"CMS","types":["glossary","usage"],"formTypes":{"CMS":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"Abbreviation for \"content management system.\" A software system that is used to create, edit, and maintain content on a website.","usage":"Use CMS on second reference."}
+{
+    "title": "CMS",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "CMS": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "Abbreviation for \"content management system.\" A software system that is used to create, edit, and maintain content on a website.",
+    "usage": "Use CMS on second reference."
+}

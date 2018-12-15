@@ -1,1 +1,14 @@
-{"title":"out of stock","types":[],"formTypes":{"out of stock":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"No hyphenation. Use “sold out” for shopper or consumer audience."}
+{
+    "title": "out of stock",
+    "types": [],
+    "formTypes": {
+        "out of stock": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "No hyphenation. Use “sold out” for shopper or consumer audience."
+}

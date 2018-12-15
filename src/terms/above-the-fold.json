@@ -1,1 +1,17 @@
-{"title":"above the fold","types":[],"formTypes":{"above the fold":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"In a browser window, the content that is immediately visible after a web page loads and before a user scrolls down the page."}
+{
+    "title": "above the fold",
+    "types": [],
+    "formTypes": {
+        "above the fold": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "In a browser window, the content that is immediately visible after a web page loads and before a user scrolls down the page."
+}

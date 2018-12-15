@@ -1,1 +1,13 @@
-{"title":"rules-based","types":[],"formTypes":{"rules-based":["adj"]},"synonyms":[],"primarySource":"Marketing","contentTags":[],"userTags":[]}
+{
+    "title": "rules-based",
+    "types": [],
+    "formTypes": {
+        "rules-based": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "Marketing",
+    "contentTags": [],
+    "userTags": []
+}

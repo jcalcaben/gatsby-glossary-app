@@ -1,1 +1,20 @@
-{"title":"third-party library","types":[],"formTypes":{"third-party library":["n"]},"synonyms":[],"primarySource":"DevDocs","contentTags":[],"userTags":["Internal","Developer"],"shortDefinition":"An external set of code developed by a third-party developer or partner."}
+{
+    "title": "third-party library",
+    "types": [],
+    "formTypes": {
+        "third-party library": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "DevDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "shortDefinition": "An external set of code developed by a third-party developer or partner.",
+    "referenceLinks": [
+        "library"
+    ]
+}

@@ -1,1 +1,14 @@
-{"title":"low-stock","types":[],"formTypes":{"low-stock":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Hyphenate as adj."}
+{
+    "title": "low-stock",
+    "types": [],
+    "formTypes": {
+        "low-stock": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Hyphenate as adj."
+}

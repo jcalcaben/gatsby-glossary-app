@@ -1,1 +1,14 @@
-{"title":"register","types":[],"formTypes":{"register":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “sign up”, “join” or “create an account” instead."}
+{
+    "title": "register",
+    "types": [],
+    "formTypes": {
+        "register": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “sign up”, “join” or “create an account” instead."
+}

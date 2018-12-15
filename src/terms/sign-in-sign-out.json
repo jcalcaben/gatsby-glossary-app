@@ -1,1 +1,37 @@
-{"title":"sign in, sign out","types":["glossary","usage"],"formTypes":{"sign in":["n","v"],"sign-in":[],"sign out":["n","v"],"sign-out":[]},"synonyms":["login","log in","authenticate","authenticated","unauthenticated","logged in","logged out"],"primarySource":"UX","contentTags":[],"userTags":["Internal","Developer","Merchant"],"shortDefinition":"The process of signing in to, and signing out of, an online account.","usage":"Use instead of \"log in\" and \"authenticate\" variations."}
+{
+    "title": "sign in, sign out",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "sign in": [
+            "n",
+            "v"
+        ],
+        "sign-in": [],
+        "sign out": [
+            "n",
+            "v"
+        ],
+        "sign-out": []
+    },
+    "synonyms": [
+        "login",
+        "log in",
+        "authenticate",
+        "authenticated",
+        "unauthenticated",
+        "logged in",
+        "logged out"
+    ],
+    "primarySource": "UX",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ],
+    "shortDefinition": "The process of signing in to, and signing out of, an online account.",
+    "usage": "Use instead of \"log in\" and \"authenticate\" variations."
+}

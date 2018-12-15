@@ -1,1 +1,17 @@
-{"title":"web server","types":[],"formTypes":{"web server":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer","Merchant"]}
+{
+    "title": "web server",
+    "types": [],
+    "formTypes": {
+        "web server": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ]
+}

@@ -1,1 +1,13 @@
-{"title":"on demand","types":[],"formTypes":{"on demand":["adj"]},"synonyms":[],"primarySource":"Marketing","contentTags":[],"userTags":[]}
+{
+    "title": "on demand",
+    "types": [],
+    "formTypes": {
+        "on demand": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "Marketing",
+    "contentTags": [],
+    "userTags": []
+}

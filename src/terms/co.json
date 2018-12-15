@@ -1,1 +1,14 @@
-{"title":"co-","types":[],"formTypes":{"co-":["prefix"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use for titles or occupations. Example: co-founder, co-worker. Otherwise, don’t hyphenate."}
+{
+    "title": "co-",
+    "types": [],
+    "formTypes": {
+        "co-": [
+            "prefix"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use for titles or occupations. Example: co-founder, co-worker. Otherwise, don’t hyphenate."
+}

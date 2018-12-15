@@ -1,1 +1,14 @@
-{"title":"retain","types":[],"formTypes":{"retain":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “keep” instead. Example: “Keep more customers and boost new sales.”"}
+{
+    "title": "retain",
+    "types": [],
+    "formTypes": {
+        "retain": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “keep” instead. Example: “Keep more customers and boost new sales.”"
+}

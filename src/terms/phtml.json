@@ -1,1 +1,24 @@
-{"title":"PHTML","types":["glossary","usage"],"formTypes":{"PHTML":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer"],"shortDefinition":"An HTML page including PHP script."}
+{
+    "title": "PHTML",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "PHTML": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "shortDefinition": "An HTML page including PHP script.",
+    "referenceLinks": [
+        "HTML",
+        "PHP"
+    ]
+}

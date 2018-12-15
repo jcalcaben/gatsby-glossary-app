@@ -1,1 +1,13 @@
-{"title":"whitespace","types":[],"formTypes":{"whitespace":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "whitespace",
+    "types": [],
+    "formTypes": {
+        "whitespace": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

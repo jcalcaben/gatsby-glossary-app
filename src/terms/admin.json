@@ -1,1 +1,24 @@
-{"title":"admin","types":[],"formTypes":{"admin":["n"]},"synonyms":["administrator","super user"],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer","Merchant"],"shortDefinition":"In software, a user role with full administrator privileges to manage all functionality."}
+{
+    "title": "admin",
+    "types": [],
+    "formTypes": {
+        "admin": [
+            "n"
+        ]
+    },
+    "synonyms": [
+        "administrator",
+        "super user"
+    ],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ],
+    "shortDefinition": "In software, a user role with full administrator privileges to manage all functionality.",
+    "referenceLinks": [
+        "Magento Admin"
+    ]
+}

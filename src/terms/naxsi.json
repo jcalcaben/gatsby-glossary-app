@@ -1,1 +1,23 @@
-{"title":"Naxsi","types":["glossary","usage"],"formTypes":{"Naxsi":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer"],"shortDefinition":"An open-source web application firewall (WAF) for Nginx."}
+{
+    "title": "Naxsi",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "Naxsi": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "shortDefinition": "An open-source web application firewall (WAF) for Nginx.",
+    "referenceLinks": [
+        "Nginx"
+    ]
+}

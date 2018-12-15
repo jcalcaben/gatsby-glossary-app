@@ -1,1 +1,14 @@
-{"title":"appendixes","types":[],"formTypes":{"appendixes":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not “appendices”."}
+{
+    "title": "appendixes",
+    "types": [],
+    "formTypes": {
+        "appendixes": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not “appendices”."
+}

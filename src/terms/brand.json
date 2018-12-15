@@ -1,1 +1,18 @@
-{"title":"brand","types":[],"formTypes":{"brand":["n","v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"A unique identity that defines a particular product or group of products."}
+{
+    "title": "brand",
+    "types": [],
+    "formTypes": {
+        "brand": [
+            "n",
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "A unique identity that defines a particular product or group of products."
+}

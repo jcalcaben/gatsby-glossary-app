@@ -1,1 +1,17 @@
-{"title":"FAQ","types":[],"formTypes":{"FAQ":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"Abbreviation for Frequently Asked Questions. A page or section on a site that answers questions in response to actual user feedback."}
+{
+    "title": "FAQ",
+    "types": [],
+    "formTypes": {
+        "FAQ": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "Abbreviation for Frequently Asked Questions. A page or section on a site that answers questions in response to actual user feedback."
+}

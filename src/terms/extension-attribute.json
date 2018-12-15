@@ -1,1 +1,21 @@
-{"title":"extension attribute","types":[],"formTypes":{"extension attribute":["n"]},"synonyms":[],"primarySource":"DevDocs","contentTags":[],"userTags":["Internal","Developer"],"shortDefinition":"Extend functionality and often use more complex data types than custom attributes. These attributes do not appear on the GUI."}
+{
+    "title": "extension attribute",
+    "types": [],
+    "formTypes": {
+        "extension attribute": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "DevDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "shortDefinition": "Extend functionality and often use more complex data types than custom attributes. These attributes do not appear on the GUI.",
+    "referenceLinks": [
+        "attribute",
+        "EAV and extension attributes"
+    ]
+}

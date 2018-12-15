@@ -1,1 +1,17 @@
-{"title":"shoppability","types":[],"formTypes":{"shoppability":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"usage":"Do not use without describing what the term means, as the term's definition can vary."}
+{
+    "title": "shoppability",
+    "types": [],
+    "formTypes": {
+        "shoppability": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "usage": "Do not use without describing what the term means, as the term's definition can vary."
+}

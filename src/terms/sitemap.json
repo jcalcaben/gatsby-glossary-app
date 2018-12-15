@@ -1,1 +1,20 @@
-{"title":"sitemap","types":["glossary","usage"],"formTypes":{"sitemap":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"A page that serves as a directory of a websites’s content pages, usually categorized in a hierarchy. A sitemap can be accessed by users or search-engine crawlers, which use the information as a factor in weighing search results."}
+{
+    "title": "sitemap",
+    "types": [
+        "glossary",
+        "usage"
+    ],
+    "formTypes": {
+        "sitemap": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "A page that serves as a directory of a websites’s content pages, usually categorized in a hierarchy. A sitemap can be accessed by users or search-engine crawlers, which use the information as a factor in weighing search results."
+}

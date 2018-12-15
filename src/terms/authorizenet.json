@@ -1,1 +1,17 @@
-{"title":"Authorize.Net","types":[],"formTypes":{"Authorize.Net":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Developer"],"usage":"Note caps."}
+{
+    "title": "Authorize.Net",
+    "types": [],
+    "formTypes": {
+        "Authorize.Net": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "usage": "Note caps."
+}

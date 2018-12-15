@@ -1,1 +1,16 @@
-{"title":"direct-to-consumer","types":[],"formTypes":{"direct-to-consumer":["adj"]},"synonyms":[],"primarySource":"Marketing","contentTags":[],"userTags":["Internal","Merchant"]}
+{
+    "title": "direct-to-consumer",
+    "types": [],
+    "formTypes": {
+        "direct-to-consumer": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "Marketing",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ]
+}

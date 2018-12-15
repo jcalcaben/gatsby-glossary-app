@@ -1,1 +1,18 @@
-{"title":"popup window","types":[],"formTypes":{"popup window":["n"]},"synonyms":["popup","modal","modal window"],"primarySource":"UserDocs","contentTags":[],"userTags":[],"longDefinition":"Can be used interchangeably for \"popup window\" and \"modal window\"."}
+{
+    "title": "popup window",
+    "types": [],
+    "formTypes": {
+        "popup window": [
+            "n"
+        ]
+    },
+    "synonyms": [
+        "popup",
+        "modal",
+        "modal window"
+    ],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "longDefinition": "Can be used interchangeably for \"popup window\" and \"modal window\"."
+}

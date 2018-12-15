@@ -1,1 +1,20 @@
-{"title":"credit memo comment","types":[],"formTypes":{"credit memo comment":["n"]},"synonyms":[],"primarySource":"DevDocs","contentTags":["Business / Marketing","Order"],"userTags":["Internal","Developer"],"shortDefinition":"Details why a credit memo amount was credited to the customer."}
+{
+    "title": "credit memo comment",
+    "types": [],
+    "formTypes": {
+        "credit memo comment": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "DevDocs",
+    "contentTags": [
+        "Business / Marketing",
+        "Order"
+    ],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "shortDefinition": "Details why a credit memo amount was credited to the customer."
+}

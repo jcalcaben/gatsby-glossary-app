@@ -1,1 +1,13 @@
-{"title":"multi-page","types":[],"formTypes":{"multi-page":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "multi-page",
+    "types": [],
+    "formTypes": {
+        "multi-page": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

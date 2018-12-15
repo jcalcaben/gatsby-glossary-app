@@ -1,1 +1,13 @@
-{"title":"prerequisites","types":[],"formTypes":{"prerequisites":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "prerequisites",
+    "types": [],
+    "formTypes": {
+        "prerequisites": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

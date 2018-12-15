@@ -1,1 +1,14 @@
-{"title":"around","types":[],"formTypes":{"around":["adv"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “about” or “for” instead. Example: We had discussions about corporate buzzwords and how to treat them."}
+{
+    "title": "around",
+    "types": [],
+    "formTypes": {
+        "around": [
+            "adv"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “about” or “for” instead. Example: We had discussions about corporate buzzwords and how to treat them."
+}

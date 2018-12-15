@@ -1,1 +1,17 @@
-{"title":"banner","types":[],"formTypes":{"banner":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"Promotional graphics that appear either horizontally on the top of a web page or vertically on the left or right margins. Website advertisements often appear as banners."}
+{
+    "title": "banner",
+    "types": [],
+    "formTypes": {
+        "banner": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "Promotional graphics that appear either horizontally on the top of a web page or vertically on the left or right margins. Website advertisements often appear as banners."
+}

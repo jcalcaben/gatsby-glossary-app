@@ -1,1 +1,14 @@
-{"title":"goods","types":[],"formTypes":{"goods":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “items”, “products”, or “inventory” instead."}
+{
+    "title": "goods",
+    "types": [],
+    "formTypes": {
+        "goods": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “items”, “products”, or “inventory” instead."
+}

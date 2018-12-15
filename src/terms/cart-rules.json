@@ -1,1 +1,25 @@
-{"title":"cart rules","types":[],"formTypes":{"cart rules":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Magento Software","Pricing","Product"],"userTags":["Internal","Merchant"],"shortDefinition":"Price rules which are applied to the shopping cart, and trigger an action in response to a set of conditions. Used to create promotions."}
+{
+    "title": "cart rules",
+    "types": [],
+    "formTypes": {
+        "cart rules": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Magento Software",
+        "Pricing",
+        "Product"
+    ],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "Price rules which are applied to the shopping cart, and trigger an action in response to a set of conditions. Used to create promotions.",
+    "referenceLinks": [
+        "catalog rule",
+        "shopping cart"
+    ]
+}

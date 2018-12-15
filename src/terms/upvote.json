@@ -1,1 +1,14 @@
-{"title":"upvote","types":[],"formTypes":{"upvote":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"No space."}
+{
+    "title": "upvote",
+    "types": [],
+    "formTypes": {
+        "upvote": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "No space."
+}

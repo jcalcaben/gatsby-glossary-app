@@ -1,1 +1,22 @@
-{"title":"one-page checkout","types":[],"formTypes":{"one-page checkout":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Business / Marketing","Design","Order","Programming"],"userTags":["Internal","Developer","Merchant"]}
+{
+    "title": "one-page checkout",
+    "types": [],
+    "formTypes": {
+        "one-page checkout": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Business / Marketing",
+        "Design",
+        "Order",
+        "Programming"
+    ],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ]
+}

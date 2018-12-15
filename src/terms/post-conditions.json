@@ -1,1 +1,13 @@
-{"title":"post-conditions","types":[],"formTypes":{"post-conditions":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "post-conditions",
+    "types": [],
+    "formTypes": {
+        "post-conditions": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

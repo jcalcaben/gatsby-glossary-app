@@ -1,1 +1,16 @@
-{"title":"textbox","types":[],"formTypes":{"textbox":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Design","Programming"],"userTags":[]}
+{
+    "title": "textbox",
+    "types": [],
+    "formTypes": {
+        "textbox": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Design",
+        "Programming"
+    ],
+    "userTags": []
+}

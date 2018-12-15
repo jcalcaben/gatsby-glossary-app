@@ -1,1 +1,17 @@
-{"title":"Magento compiler","types":[],"formTypes":{"Magento compiler":["n"]},"synonyms":[],"primarySource":"DevDocs","contentTags":[],"userTags":["Internal","Developer"],"shortDefinition":"Used to generate all auto-generated Magento code in advance. Improves performance of Magento by precompiling information used during runtime."}
+{
+    "title": "Magento compiler",
+    "types": [],
+    "formTypes": {
+        "Magento compiler": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "DevDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "shortDefinition": "Used to generate all auto-generated Magento code in advance. Improves performance of Magento by precompiling information used during runtime."
+}

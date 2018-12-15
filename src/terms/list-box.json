@@ -1,1 +1,16 @@
-{"title":"list box","types":[],"formTypes":{"list box":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Design","Programming"],"userTags":[]}
+{
+    "title": "list box",
+    "types": [],
+    "formTypes": {
+        "list box": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Design",
+        "Programming"
+    ],
+    "userTags": []
+}

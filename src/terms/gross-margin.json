@@ -1,1 +1,17 @@
-{"title":"gross margin","types":[],"formTypes":{"gross margin":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"The difference between the cost and price of a product."}
+{
+    "title": "gross margin",
+    "types": [],
+    "formTypes": {
+        "gross margin": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "The difference between the cost and price of a product."
+}

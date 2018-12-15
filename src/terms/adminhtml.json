@@ -1,1 +1,21 @@
-{"title":"adminhtml","types":[],"formTypes":{"adminhtml":["n"]},"synonyms":[],"primarySource":"DevDocs","contentTags":[],"userTags":["Internal","Developer"],"shortDefinition":"The internal area name assigned to Magento Admin."}
+{
+    "title": "adminhtml",
+    "types": [],
+    "formTypes": {
+        "adminhtml": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "DevDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Developer"
+    ],
+    "shortDefinition": "The internal area name assigned to Magento Admin.",
+    "referenceLinks": [
+        "area",
+        "Magento Admin"
+    ]
+}

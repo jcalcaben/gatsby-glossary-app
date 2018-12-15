@@ -1,1 +1,13 @@
-{"title":"PayPal","types":[],"formTypes":{"PayPal":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "PayPal",
+    "types": [],
+    "formTypes": {
+        "PayPal": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

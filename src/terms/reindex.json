@@ -1,1 +1,13 @@
-{"title":"reindex","types":[],"formTypes":{"reindex":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "reindex",
+    "types": [],
+    "formTypes": {
+        "reindex": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

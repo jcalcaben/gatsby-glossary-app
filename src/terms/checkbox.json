@@ -1,1 +1,13 @@
-{"title":"checkbox","types":[],"formTypes":{"checkbox":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "checkbox",
+    "types": [],
+    "formTypes": {
+        "checkbox": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

@@ -1,1 +1,20 @@
-{"title":"commerce","types":[],"formTypes":{"commerce":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":["Product","Order"],"userTags":["Internal","Merchant"],"usage":"Use in Magento marketing and documentation to describe an end-to-end solution not necessarily confined to the internet. The term “ecommerce” can still be used when describing online transactions."}
+{
+    "title": "commerce",
+    "types": [],
+    "formTypes": {
+        "commerce": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [
+        "Product",
+        "Order"
+    ],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "usage": "Use in Magento marketing and documentation to describe an end-to-end solution not necessarily confined to the internet. The term “ecommerce” can still be used when describing online transactions."
+}

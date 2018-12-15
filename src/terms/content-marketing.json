@@ -1,1 +1,17 @@
-{"title":"content marketing","types":[],"formTypes":{"content marketing":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"The art of promoting products or services by providing valuable information at no charge."}
+{
+    "title": "content marketing",
+    "types": [],
+    "formTypes": {
+        "content marketing": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "The art of promoting products or services by providing valuable information at no charge."
+}

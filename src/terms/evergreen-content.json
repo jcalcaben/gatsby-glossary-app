@@ -1,1 +1,17 @@
-{"title":"evergreen content","types":[],"formTypes":{"evergreen content":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":["Internal","Merchant"],"shortDefinition":"Content that has a long shelf life, or that can be reused."}
+{
+    "title": "evergreen content",
+    "types": [],
+    "formTypes": {
+        "evergreen content": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [
+        "Internal",
+        "Merchant"
+    ],
+    "shortDefinition": "Content that has a long shelf life, or that can be reused."
+}

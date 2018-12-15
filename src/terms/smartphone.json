@@ -1,1 +1,14 @@
-{"title":"smartphone","types":[],"formTypes":{"smartphone":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not “smart phone”."}
+{
+    "title": "smartphone",
+    "types": [],
+    "formTypes": {
+        "smartphone": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not “smart phone”."
+}

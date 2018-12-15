@@ -1,1 +1,13 @@
-{"title":"multi-core","types":[],"formTypes":{"multi-core":["adj"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[]}
+{
+    "title": "multi-core",
+    "types": [],
+    "formTypes": {
+        "multi-core": [
+            "adj"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": []
+}

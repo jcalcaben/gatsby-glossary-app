@@ -1,1 +1,17 @@
-{"title":"example","types":[],"formTypes":{"example":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “for example” or “example\", not \"e.g.\"."}
+{
+    "title": "example",
+    "types": [],
+    "formTypes": {
+        "example": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “for example” or “example\", not \"e.g.\".",
+    "referenceLinks": [
+        "i.e."
+    ]
+}

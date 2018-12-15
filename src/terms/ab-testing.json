@@ -1,1 +1,21 @@
-{"title":"A/B testing","types":[],"formTypes":{"A/B testing":["n"]},"synonyms":[],"primarySource":"Marketing","contentTags":["Business / Marketing","Design","Programming"],"userTags":["Internal","Developer","Merchant"]}
+{
+    "title": "A/B testing",
+    "types": [],
+    "formTypes": {
+        "A/B testing": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "Marketing",
+    "contentTags": [
+        "Business / Marketing",
+        "Design",
+        "Programming"
+    ],
+    "userTags": [
+        "Internal",
+        "Developer",
+        "Merchant"
+    ]
+}

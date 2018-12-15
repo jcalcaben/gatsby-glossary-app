@@ -1,1 +1,14 @@
-{"title":"view","types":[],"formTypes":{"view":["v"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Use “see”, “open”, or “review” instead."}
+{
+    "title": "view",
+    "types": [],
+    "formTypes": {
+        "view": [
+            "v"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Use “see”, “open”, or “review” instead."
+}

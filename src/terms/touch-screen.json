@@ -1,1 +1,14 @@
-{"title":"touch screen","types":[],"formTypes":{"touch screen":["n"]},"synonyms":[],"primarySource":"UserDocs","contentTags":[],"userTags":[],"usage":"Not “touchscreen”."}
+{
+    "title": "touch screen",
+    "types": [],
+    "formTypes": {
+        "touch screen": [
+            "n"
+        ]
+    },
+    "synonyms": [],
+    "primarySource": "UserDocs",
+    "contentTags": [],
+    "userTags": [],
+    "usage": "Not “touchscreen”."
+}
