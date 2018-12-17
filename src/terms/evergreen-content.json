@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "evergreen content": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "evergreen content",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

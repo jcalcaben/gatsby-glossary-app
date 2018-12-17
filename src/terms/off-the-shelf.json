@@ -3,13 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "off-the-shelf": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "off-the-shelf",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": []
 }

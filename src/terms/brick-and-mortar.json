@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "brick-and-mortar": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "brick-and-mortar",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

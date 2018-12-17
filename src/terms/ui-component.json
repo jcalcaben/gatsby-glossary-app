@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "UI component": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "UI component",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer"

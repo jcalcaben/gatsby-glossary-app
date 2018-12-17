@@ -4,16 +4,21 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "software as a service": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "software as a service",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "SaaS"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

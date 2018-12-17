@@ -4,11 +4,14 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "security code": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "security code",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "card security code",
         "CSC",
@@ -18,7 +21,9 @@
         "CVC"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

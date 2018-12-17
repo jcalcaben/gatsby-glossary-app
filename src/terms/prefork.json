@@ -4,14 +4,19 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "prefork": [
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "prefork",
+            "wordClasses": [
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer"

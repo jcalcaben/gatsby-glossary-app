@@ -3,12 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "whitespace": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "whitespace",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

@@ -3,16 +3,21 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "fluid layout": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "fluid layout",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "liquid layout"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

@@ -3,12 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "kickoff": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "kickoff",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "invoice item": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "invoice item",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
     "contentTags": [

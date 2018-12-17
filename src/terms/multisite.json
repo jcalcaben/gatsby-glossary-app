@@ -3,12 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "multisite": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "multisite",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

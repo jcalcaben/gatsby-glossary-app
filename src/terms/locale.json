@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "locale": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "locale",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

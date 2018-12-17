@@ -4,11 +4,14 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "Magento": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "Magento",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
     "contentTags": [

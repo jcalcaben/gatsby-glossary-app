@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "load sequence": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "load sequence",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

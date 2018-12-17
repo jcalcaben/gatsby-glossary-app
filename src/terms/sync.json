@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "sync": [
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "sync",
+            "wordClasses": [
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Not “synch”."
 }

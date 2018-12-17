@@ -3,14 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "firewall": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "firewall",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [],
     "usage": "Not “fire wall”."
 }

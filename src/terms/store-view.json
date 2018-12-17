@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "store view": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "store view",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UX",
     "contentTags": [

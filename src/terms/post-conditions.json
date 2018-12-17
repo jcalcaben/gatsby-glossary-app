@@ -3,12 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "post-conditions": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "post-conditions",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

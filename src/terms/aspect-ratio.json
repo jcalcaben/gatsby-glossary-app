@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "aspect ratio": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "aspect ratio",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

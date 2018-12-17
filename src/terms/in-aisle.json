@@ -3,13 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "in-aisle": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "in-aisle",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": []
 }

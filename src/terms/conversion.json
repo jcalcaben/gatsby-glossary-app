@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "conversion": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "conversion",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

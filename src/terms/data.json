@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "data": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "data",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "“data is”: Singular, not plural."
 }

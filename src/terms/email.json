@@ -3,16 +3,22 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "email": [
-            "n",
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "email",
+            "wordClasses": [
+                "n",
+                "v"
+            ]
+        }
+    ],
     "synonyms": [
         "e-mail"
     ],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [
         "Internal",
         "Developer",

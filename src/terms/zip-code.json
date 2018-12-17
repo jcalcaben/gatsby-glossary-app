@@ -3,12 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "ZIP code": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "ZIP code",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

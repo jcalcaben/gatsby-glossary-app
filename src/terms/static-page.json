@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "static page": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "static page",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
-    "contentTags": "Magento Software",
+    "contentTags": [
+        "Magento Software"
+    ],
     "userTags": [
         "Internal",
         "Developer"

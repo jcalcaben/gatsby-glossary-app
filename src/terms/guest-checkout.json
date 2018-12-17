@@ -3,12 +3,15 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "guest checkout": [
-            "n",
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "guest checkout",
+            "wordClasses": [
+                "n",
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "landing page": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "landing page",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

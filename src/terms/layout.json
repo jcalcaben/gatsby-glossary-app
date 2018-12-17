@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "layout": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "layout",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

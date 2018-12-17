@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "proceed to": [
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "proceed to",
+            "wordClasses": [
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use “go to” or “continue to” instead. Example: “Go to checkout.”"
 }

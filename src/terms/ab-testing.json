@@ -3,11 +3,14 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "A/B testing": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "A/B testing",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
     "contentTags": [

@@ -3,11 +3,14 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "WordPress": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "WordPress",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

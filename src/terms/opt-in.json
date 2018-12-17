@@ -4,16 +4,26 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "opt-in": [
-            "n",
-            "adj"
-        ],
-        "opt in": []
-    },
+    "formTypes": [
+        {
+            "form": "opt-in",
+            "wordClasses": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "form": "opt in",
+            "wordClasses": [
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

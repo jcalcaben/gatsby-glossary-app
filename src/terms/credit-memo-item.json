@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "credit memo item": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "credit memo item",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
     "contentTags": [

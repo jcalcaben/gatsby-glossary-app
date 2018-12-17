@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "subsite": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "subsite",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Not “sub-site”."
 }

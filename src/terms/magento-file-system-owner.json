@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "Magento file system owner": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "Magento file system owner",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Magento Software",
+    "contentTags": [
+        "Magento Software"
+    ],
     "userTags": [],
     "shortDefinition": "The user who owns files in the Magento file system. It’s very important to set up this user properly. Different hosting setups have different requirements.",
     "referenceLinks": [

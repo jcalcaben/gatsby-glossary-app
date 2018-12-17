@@ -3,13 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "rules-based": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "rules-based",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": []
 }

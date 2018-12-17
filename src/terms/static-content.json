@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "static content": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "static content",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

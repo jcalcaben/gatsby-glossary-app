@@ -3,10 +3,20 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "third party": [],
-        "third-party": []
-    },
+    "formTypes": [
+        {
+            "form": "third party",
+            "wordClasses": [
+                "n"
+            ]
+        },
+        {
+            "form": "third-party",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
     "contentTags": [

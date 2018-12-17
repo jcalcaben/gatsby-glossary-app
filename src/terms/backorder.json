@@ -3,11 +3,14 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "backorder": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "backorder",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

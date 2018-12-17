@@ -3,13 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "PayPal": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "PayPal",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Order",
+    "contentTags": [
+        "Order"
+    ],
     "userTags": []
 }

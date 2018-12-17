@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "re-": [
-            "prefix"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "re-",
+            "wordClasses": [
+                "prefix"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Hyphenate the prefix only if the meaning is unclear without it."
 }

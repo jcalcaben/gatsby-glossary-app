@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "in-depth": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "in-depth",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Try to avoid — use more specific language. Hyphenate as a compound modifier. Otherwise, use “in depth”."
 }

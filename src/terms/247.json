@@ -3,12 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "24/7": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "24/7",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

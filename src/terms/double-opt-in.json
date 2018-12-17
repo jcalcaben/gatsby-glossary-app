@@ -3,15 +3,20 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "double opt-in": [
-            "n",
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "double opt-in",
+            "wordClasses": [
+                "n",
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

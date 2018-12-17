@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "navigation": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "navigation",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UX",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

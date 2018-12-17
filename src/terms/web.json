@@ -3,14 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "web": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "web",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [
         "Internal",
         "Developer",

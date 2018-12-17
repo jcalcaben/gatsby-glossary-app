@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "enable": [
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "enable",
+            "wordClasses": [
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use “turn on”, when possible."
 }

@@ -3,14 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "direct-to-customer": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "direct-to-customer",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

@@ -4,16 +4,21 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "search engine optimization": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "search engine optimization",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "SEO"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Developer",

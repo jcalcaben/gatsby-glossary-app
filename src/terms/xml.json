@@ -4,16 +4,21 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "XML": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "XML",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "Extensible Markup Language"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer"

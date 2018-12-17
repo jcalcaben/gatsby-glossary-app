@@ -4,14 +4,19 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "WYSIWYG": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "WYSIWYG",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

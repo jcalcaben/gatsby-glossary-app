@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "virtual product": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "virtual product",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UX",
     "contentTags": [

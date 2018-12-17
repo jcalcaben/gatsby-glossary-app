@@ -3,13 +3,21 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "cross-sell": [
-            "n",
-            "adj"
-        ],
-        "cross sell": []
-    },
+    "formTypes": [
+        {
+            "form": "cross-sell",
+            "wordClasses": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "form": "cross sell",
+            "wordClasses": [
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
     "contentTags": [

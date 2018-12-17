@@ -3,17 +3,22 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "integration API": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "integration API",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "API",
         "web API"
     ],
     "primarySource": "DevDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer"

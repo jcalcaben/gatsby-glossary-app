@@ -3,13 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "drag-and-drop": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "drag-and-drop",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": []
 }

@@ -4,14 +4,19 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "B2B": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "B2B",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

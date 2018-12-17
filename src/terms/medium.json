@@ -3,14 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "Medium": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "Medium",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Product",
+    "contentTags": [
+        "Product"
+    ],
     "userTags": [],
     "usage": "Okay with initial cap for apparel sizing. Otherwise, normal rules for adjectives apply."
 }

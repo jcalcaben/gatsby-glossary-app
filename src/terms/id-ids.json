@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "ID / IDs": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "ID / IDs",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Not “ID’s”, unless it’s used as a possessive."
 }

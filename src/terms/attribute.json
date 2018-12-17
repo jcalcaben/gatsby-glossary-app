@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "attribute": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "attribute",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "product attribute",
         "custom attribute"

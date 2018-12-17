@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "retain": [
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "retain",
+            "wordClasses": [
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use “keep” instead. Example: “Keep more customers and boost new sales.”"
 }

@@ -3,14 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "High-Level Requirements": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "High-Level Requirements",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

@@ -3,12 +3,15 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "merchandise": [
-            "n",
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "merchandise",
+            "wordClasses": [
+                "n",
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

@@ -3,14 +3,25 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "set up": [],
-        "setup": [
-            "adj",
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "set up",
+            "wordClasses": [
+                "v"
+            ]
+        },
+        {
+            "form": "setup",
+            "wordClasses": [
+                "adj",
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

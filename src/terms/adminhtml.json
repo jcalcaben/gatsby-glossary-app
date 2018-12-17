@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "adminhtml": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "adminhtml",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
-    "contentTags": "Magento Software",
+    "contentTags": [
+        "Magento Software"
+    ],
     "userTags": [
         "Internal",
         "Developer"

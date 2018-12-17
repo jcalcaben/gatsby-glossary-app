@@ -3,15 +3,21 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "example": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "example",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "e.g."
     ],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use “for example” or “example\", not \"e.g.\".",
     "referenceLinks": [

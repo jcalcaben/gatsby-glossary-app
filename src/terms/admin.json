@@ -3,17 +3,22 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "admin": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "admin",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "administrator",
         "super user"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Magento Software",
+    "contentTags": [
+        "Magento Software"
+    ],
     "userTags": [
         "Internal",
         "Developer",

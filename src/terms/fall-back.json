@@ -3,14 +3,25 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "fall back": [],
-        "fallback": [
-            "adj",
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "fall back",
+            "wordClasses": [
+                "v"
+            ]
+        },
+        {
+            "form": "fallback",
+            "wordClasses": [
+                "adj",
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

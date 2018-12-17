@@ -3,13 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "extensibility": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "extensibility",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "programming",
+    "contentTags": [
+        "programming"
+    ],
     "userTags": []
 }

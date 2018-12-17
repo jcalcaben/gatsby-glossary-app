@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "goods": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "goods",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use “items”, “products”, or “inventory” instead."
 }

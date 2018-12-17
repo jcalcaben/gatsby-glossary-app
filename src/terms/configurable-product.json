@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "configurable product": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "configurable product",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UX",
     "contentTags": [

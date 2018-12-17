@@ -4,11 +4,14 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "SKU": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "SKU",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

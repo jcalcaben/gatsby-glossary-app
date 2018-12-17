@@ -4,16 +4,21 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "CSV": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "CSV",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "comma-separated values"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "ensure vs. insure": [
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "ensure vs. insure",
+            "wordClasses": [
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use “make sure” or “verify” instead."
 }

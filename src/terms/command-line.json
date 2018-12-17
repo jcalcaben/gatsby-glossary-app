@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "command-line": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "command-line",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [
         "Internal",
         "Developer"

@@ -4,15 +4,20 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "upsell": [
-            "n",
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "upsell",
+            "wordClasses": [
+                "n",
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UX",
-    "contentTags": "Business / Marketing",
+    "contentTags": [
+        "Business / Marketing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

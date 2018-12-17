@@ -3,12 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "on-the-fly": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "on-the-fly",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

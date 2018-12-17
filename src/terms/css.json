@@ -4,16 +4,21 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "CSS": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "CSS",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "Cascading Style Sheets"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

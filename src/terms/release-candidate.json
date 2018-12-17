@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "release candidate": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "release candidate",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "beta version",
         "RC"

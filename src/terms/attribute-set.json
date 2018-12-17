@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "attribute set": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "attribute set",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UX",
     "contentTags": [

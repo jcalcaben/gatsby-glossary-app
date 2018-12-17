@@ -3,16 +3,21 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "database schema": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "database schema",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "schema"
     ],
     "primarySource": "DevDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer"

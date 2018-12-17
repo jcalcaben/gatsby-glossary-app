@@ -3,16 +3,21 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "operating system": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "operating system",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "OS"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer"

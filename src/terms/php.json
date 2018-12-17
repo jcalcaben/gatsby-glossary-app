@@ -4,14 +4,19 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "PHP": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "PHP",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer"

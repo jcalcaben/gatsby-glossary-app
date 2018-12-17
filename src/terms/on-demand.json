@@ -3,12 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "on demand": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "on demand",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

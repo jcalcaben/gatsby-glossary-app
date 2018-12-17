@@ -4,14 +4,19 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "module": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "module",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
-    "contentTags": "Magento Software",
+    "contentTags": [
+        "Magento Software"
+    ],
     "userTags": [
         "Internal",
         "Developer"

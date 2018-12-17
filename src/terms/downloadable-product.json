@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "downloadable product": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "downloadable product",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UX",
     "contentTags": [

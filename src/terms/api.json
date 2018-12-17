@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "API": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "API",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "application programming",
         "interface",
@@ -15,7 +18,9 @@
         "web API"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer",

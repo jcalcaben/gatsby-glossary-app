@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "currently": [
-            "adv"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "currently",
+            "wordClasses": [
+                "adv"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use “now” instead. Omit, if it’s implied."
 }

@@ -4,18 +4,34 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "sign in": [
-            "n",
-            "v"
-        ],
-        "sign-in": [],
-        "sign out": [
-            "n",
-            "v"
-        ],
-        "sign-out": []
-    },
+    "formTypes": [
+        {
+            "form": "sign in",
+            "wordClasses": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "form": "sign-in",
+            "wordClasses": [
+                "adj"
+            ]
+        },
+        {
+            "form": "sign out",
+            "wordClasses": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "form": "sign-out",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [
         "login",
         "log in",
@@ -26,7 +42,9 @@
         "logged out"
     ],
     "primarySource": "UX",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [
         "Internal",
         "Developer",

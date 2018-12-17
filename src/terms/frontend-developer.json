@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "frontend developer": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "frontend developer",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
     "contentTags": [

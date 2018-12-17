@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "shipping carrier": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "shipping carrier",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

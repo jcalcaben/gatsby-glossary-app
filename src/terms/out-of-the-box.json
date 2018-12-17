@@ -3,13 +3,18 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "out-of-the-box": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "out-of-the-box",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
-    "contentTags": "Product",
+    "contentTags": [
+        "Product"
+    ],
     "userTags": []
 }

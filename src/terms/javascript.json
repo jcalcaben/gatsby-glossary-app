@@ -4,11 +4,14 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "JavaScript": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "JavaScript",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

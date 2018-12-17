@@ -4,11 +4,14 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "robots.txt": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "robots.txt",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

@@ -3,16 +3,21 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "entity attribute value": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "entity attribute value",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "EAV"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer",

@@ -3,11 +3,14 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "dashboard": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "dashboard",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

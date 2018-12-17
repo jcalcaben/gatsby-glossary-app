@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "average inventory cost": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "average inventory cost",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

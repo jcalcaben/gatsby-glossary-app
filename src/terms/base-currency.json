@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "base currency": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "base currency",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Pricing",
+    "contentTags": [
+        "Pricing"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

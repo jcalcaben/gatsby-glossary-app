@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "tech": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "tech",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use “technology” instead, unless using “high tech” or “high-tech”."
 }

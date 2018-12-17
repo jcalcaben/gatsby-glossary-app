@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "male": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "male",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use “man” instead, except in some cases when used as an adjective."
 }

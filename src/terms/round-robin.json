@@ -3,12 +3,25 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "round robin": [],
-        "round-robin": []
-    },
+    "formTypes": [
+        {
+            "form": "round robin",
+            "wordClasses": [
+                "n"
+            ]
+        },
+        {
+            "form": "round-robin",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Not round-robin, unless used as a modifier."
 }

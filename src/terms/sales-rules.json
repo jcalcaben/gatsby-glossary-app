@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "sales rules": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "sales rules",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
     "contentTags": [

@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "real time": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "real time",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Not “realtime”. Use “real-time” as a modifier."
 }

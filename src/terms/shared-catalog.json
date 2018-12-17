@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "Shared Catalog": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "Shared Catalog",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

@@ -3,14 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "dropdown": [
-            "n",
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "dropdown",
+            "wordClasses": [
+                "n",
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": []
 }

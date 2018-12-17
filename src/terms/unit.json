@@ -3,14 +3,19 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "unit": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "unit",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Magento Software",
+    "contentTags": [
+        "Magento Software"
+    ],
     "userTags": [],
     "shortDefinition": "Each standalone on-demand part of a larger course is called a unit."
 }

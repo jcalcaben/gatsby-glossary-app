@@ -3,16 +3,21 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "Magento compiler": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "Magento compiler",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "compiler"
     ],
     "primarySource": "DevDocs",
-    "contentTags": "Magento Software",
+    "contentTags": [
+        "Magento Software"
+    ],
     "userTags": [
         "Internal",
         "Developer"

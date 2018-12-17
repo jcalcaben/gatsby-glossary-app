@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "credit memo comment": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "credit memo comment",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
     "contentTags": [

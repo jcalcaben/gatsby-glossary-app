@@ -3,14 +3,25 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "add on": [],
-        "add-on": [
-            "n",
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "add on",
+            "wordClasses": [
+                "v"
+            ]
+        },
+        {
+            "form": "add-on",
+            "wordClasses": [
+                "n",
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
+    "contentTags": [
+        null
+    ],
     "userTags": []
 }

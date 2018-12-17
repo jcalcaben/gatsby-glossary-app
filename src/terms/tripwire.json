@@ -3,11 +3,14 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "Tripwire": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "Tripwire",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

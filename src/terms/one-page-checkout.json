@@ -3,11 +3,14 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "one-page checkout": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "one-page checkout",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

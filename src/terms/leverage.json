@@ -3,14 +3,20 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "leverage": [
-            "n",
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "leverage",
+            "wordClasses": [
+                "n",
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "When used as a verb, use “use” instead."
 }

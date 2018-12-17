@@ -4,17 +4,22 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "backend": [
-            "n",
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "backend",
+            "wordClasses": [
+                "n",
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [
         "server side"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer",

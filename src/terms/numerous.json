@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "numerous": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "numerous",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Do not use this marketing jargon term."
 }

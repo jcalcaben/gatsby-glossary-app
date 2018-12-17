@@ -3,14 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "user-friendly": [
-            "adv"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "user-friendly",
+            "wordClasses": [
+                "adv"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [],
     "usage": "Hyphenate as a modifier, otherwise use “user friendly”. Try not to overuse this phrase."
 }

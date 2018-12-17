@@ -4,14 +4,20 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "blacklist": [
-            "n",
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "blacklist",
+            "wordClasses": [
+                "n",
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [
         "Internal",
         "Developer",

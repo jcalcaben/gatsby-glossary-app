@@ -3,16 +3,21 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "platform as a service": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "platform as a service",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "PaaS"
     ],
     "primarySource": "DevDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Developer"

@@ -4,16 +4,21 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "CMS": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "CMS",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "content management system"
     ],
     "primarySource": "UserDocs",
-    "contentTags": "Programming",
+    "contentTags": [
+        "Programming"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

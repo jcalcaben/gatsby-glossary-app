@@ -3,14 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "multiselect": [
-            "adj"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "multiselect",
+            "wordClasses": [
+                "adj"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [],
     "usage": "In DevDocs, this is how the input name is typed in code."
 }

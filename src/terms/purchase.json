@@ -3,14 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "purchase": [
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "purchase",
+            "wordClasses": [
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
-    "contentTags": "Order",
+    "contentTags": [
+        "Order"
+    ],
     "userTags": [
         "Internal",
         "Merchant"

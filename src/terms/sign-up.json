@@ -3,17 +3,23 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "sign up": [
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "sign up",
+            "wordClasses": [
+                "v"
+            ]
+        }
+    ],
     "synonyms": [
         "enroll",
         "join",
         "create an account"
     ],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Don't use enroll."
 }

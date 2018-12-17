@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "Magento Admin": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "Magento Admin",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "Admin",
         "Admin Panel",
@@ -16,7 +19,9 @@
         "Admin UI"
     ],
     "primarySource": "DevDocs",
-    "contentTags": "Magento Software",
+    "contentTags": [
+        "Magento Software"
+    ],
     "userTags": [
         "Internal",
         "Developer"

@@ -3,12 +3,15 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "order": [
-            "n",
-            "v"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "order",
+            "wordClasses": [
+                "n",
+                "v"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "DevDocs",
     "contentTags": [

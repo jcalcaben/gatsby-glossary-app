@@ -3,11 +3,14 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "textbox": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "textbox",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "data field"
     ],

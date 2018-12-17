@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "co-": [
-            "prefix"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "co-",
+            "wordClasses": [
+                "prefix"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use for titles or occupations. Example: co-founder, co-worker. Otherwise, don’t hyphenate."
 }

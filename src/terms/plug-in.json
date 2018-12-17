@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "plug-in": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "plug-in",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "plugin",
         "add-in",
@@ -17,7 +20,9 @@
         "or extension"
     ],
     "primarySource": "DevDocs",
-    "contentTags": "Design",
+    "contentTags": [
+        "Design"
+    ],
     "userTags": [
         "Internal",
         "Developer"

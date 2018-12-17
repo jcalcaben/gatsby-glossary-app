@@ -4,11 +4,14 @@
         "glossary",
         "usage"
     ],
-    "formTypes": {
-        "Payment Card Industry": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "Payment Card Industry",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "PCI"
     ],

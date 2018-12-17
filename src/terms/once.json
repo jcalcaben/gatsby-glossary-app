@@ -3,13 +3,19 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "once": [
-            "adv"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "once",
+            "wordClasses": [
+                "adv"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [],
     "usage": "Use “after” or “when” instead, unless enumerating (example: “Fool me once, shame on you”)."
 }

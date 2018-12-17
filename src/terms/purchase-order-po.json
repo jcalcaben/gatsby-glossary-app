@@ -3,11 +3,14 @@
     "types": [
         "glossary"
     ],
-    "formTypes": {
-        "purchase order (PO)": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "purchase order (PO)",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "UserDocs",
     "contentTags": [

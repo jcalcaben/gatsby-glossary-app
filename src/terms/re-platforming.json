@@ -3,11 +3,14 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "re-platforming": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "re-platforming",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [],
     "primarySource": "Marketing",
     "contentTags": [

@@ -3,15 +3,21 @@
     "types": [
         "usage"
     ],
-    "formTypes": {
-        "directory vs. folder": [
-            "n"
-        ]
-    },
+    "formTypes": [
+        {
+            "form": "directory vs. folder",
+            "wordClasses": [
+                "n"
+            ]
+        }
+    ],
     "synonyms": [
         "folder vs. directory"
     ],
     "primarySource": "UserDocs",
+    "contentTags": [
+        null
+    ],
     "userTags": [
         "Internal",
         "Developer",
