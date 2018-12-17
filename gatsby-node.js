@@ -8,17 +8,17 @@ exports.createPages = ({ graphql, actions }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        allFile(filter: {relativeDirectory: {eq: "terms"}}) {
-              edges {
-                      node {
-                                id
-                                relativePath
-                                relativeDirectory
-                                name
-                                publicURL
-                              }
-                    }
+        allFile(filter: { relativeDirectory: { eq: "terms" } }) {
+          edges {
+            node {
+              id
+              relativePath
+              relativeDirectory
+              name
+              publicURL
             }
+          }
+        }
         site {
           siteMetadata {
             title
@@ -29,7 +29,7 @@ exports.createPages = ({ graphql, actions }) => {
       createPage({
         path: 'glossary',
         component: require.resolve('./src/templates/Glossary.js'),
-        context: {result},
+        context: { result },
       })
       resolve()
     })
