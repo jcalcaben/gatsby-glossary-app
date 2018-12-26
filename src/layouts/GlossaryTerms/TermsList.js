@@ -1,13 +1,13 @@
 import React from 'react'
-import GlossaryTerm from './GlossaryTerm'
+import Term from './Term'
 
 class TermsList extends React.Component {
   render() {
-    let glossaryTerms = this.props.files.map(file => {
-      return <GlossaryTerm key={file.node.id} file={file.node} />
+    let glossaryTerms = this.props.files.map(node => {
+      return <Term key={node.file.id} publicURL={node.file.publicURL} />
     })
 
-    return <>{glossaryTerms}</>
+    return <div>{glossaryTerms}</div>
   }
 }
 

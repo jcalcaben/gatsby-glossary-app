@@ -17,8 +17,8 @@ const titleQuery = graphql`
 `
 class Glossary extends Component {
   render() {
-    let { allFile } = this.props.pageContext.result.data
-    let { edges: files } = allFile
+    let { filesData } = this.props.pageContext.result.data
+    let { files } = filesData
 
     return (
       <StaticQuery

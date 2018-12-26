@@ -8,9 +8,9 @@ exports.createPages = ({ graphql, actions }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        allFile(filter: { relativeDirectory: { eq: "terms" } }) {
-          edges {
-            node {
+        filesData: allFile(filter: { relativeDirectory: { eq: "terms" } }) {
+          files: edges {
+            file: node {
               id
               relativePath
               relativeDirectory
