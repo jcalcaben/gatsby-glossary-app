@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { StaticQuery, graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import { Header, TermsList as GlossaryTerms, Scrim } from '../layouts'
+import TermsDataProvider from '../layouts/GlossaryTerms/terms-data-provider'
 
 import '../static/css/reset.css'
 import './Glossary.css'
@@ -33,7 +34,18 @@ class Glossary extends Component {
               ]}
             />
             <Header siteTitle={data.site.siteMetadata.title} />
-            <GlossaryTerms files={files} />
+            <TermsDataProvider
+              termFiles={files}
+              termsData={{}}
+              render={data => {
+                return (
+                  <GlossaryTerms
+                    files={data.termFiles}
+                    termsData={data.termsData}
+                  />
+                )
+              }}
+            />
             <Scrim enabled={false} />
           </>
         )}

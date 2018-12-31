@@ -7,6 +7,7 @@
   width: 100%;
   height: 3rem;
   align-items: center;
+  border-bottom: 1px solid #cac3b4;
 }
 
 .title {

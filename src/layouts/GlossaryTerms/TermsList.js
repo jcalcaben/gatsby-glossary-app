@@ -10,6 +10,7 @@ class TermsList extends React.Component {
           anchorId={node.file.name}
           key={node.file.publicURL}
           publicURL={node.file.publicURL}
+          data={this.props.termsData[node.file.publicURL]}
         />
       )
     })
