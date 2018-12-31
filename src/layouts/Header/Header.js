@@ -3,30 +3,13 @@ import Link from 'gatsby-link'
 
 import MenuButton from '../MenuButton'
 
-const HeaderStyle = {
-  background: 'rebeccapurple',
-  marginBottom: '1.45rem',
-  display: 'flex',
-  alignItems: 'center',
-}
-
-const TitleStyle = {
-  margin: '0 auto',
-  padding: '0.5rem 0rem',
-}
-
-const HeaderLinkStyle = {
-  color: 'white',
-  textDecoration: 'none',
-}
-
-const TitleHeaderStyle = { margin: 0 }
+import styles from './Header.module.css'
 
 const Header = ({ siteTitle }) => (
-  <div style={HeaderStyle}>
-    <div style={TitleStyle}>
-      <h1 style={TitleHeaderStyle}>
-        <Link to="/" style={HeaderLinkStyle}>
+  <div className={styles.container}>
+    <div className={styles.title}>
+      <h1 className={styles.header}>
+        <Link to="/">
           {siteTitle}
         </Link>
       </h1>
@@ -36,6 +19,7 @@ const Header = ({ siteTitle }) => (
       menuClick={() => {
         console.log('Menu clicked!')
       }}
+      additionalClasses={styles.menuButton}
     />
   </div>
 )

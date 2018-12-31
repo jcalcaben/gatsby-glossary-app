@@ -1,6 +1,7 @@
 import React from 'react'
 import GlossaryTerm from './GlossaryTerm'
 import PropTypes from 'prop-types'
+import styles from './GlossaryTerm.module.css'
 
 let fetchJsonData = (publicURL, callback) => {
   fetch(publicURL)
@@ -17,6 +18,7 @@ let fetchJsonData = (publicURL, callback) => {
 class Term extends React.Component {
   state = {
     data: null,
+    anchorId: this.props.anchorId
   }
 
   componentDidMount() {
@@ -31,11 +33,11 @@ class Term extends React.Component {
     let { data } = this.state
 
     if (data == null) {
-      return <div>Loading term</div>
+      return <div id={this.state.anchorId} className={styles.loading}>Loading term</div>
     }
 
     let { types } = data
-    return types.includes('glossary') ? <GlossaryTerm {...data} /> : null
+    return types.includes('glossary') ? <GlossaryTerm anchorId={this.state.anchorId} styles={styles} {...data} /> : null
   }
 }
 

@@ -2,13 +2,20 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import FormType from './form-type'
 
-const FormTypes = ({ formTypes }) => {
+const FormTypes = ({ formTypes, className }) => {
   if (formTypes == null) {
     return null
   }
   let forms = formTypes.map(formType => {
     const { form, wordClasses } = formType
-    return <FormType form={form} wordClasses={wordClasses} />
+    return (
+      <FormType
+        key={form}
+        form={form}
+        className={className}
+        wordClasses={wordClasses}
+      />
+    )
   })
 
   return <>{forms}</>

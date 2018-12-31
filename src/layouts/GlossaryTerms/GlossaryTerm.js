@@ -41,6 +41,8 @@ class GlossaryTerm extends React.Component {
 }
 */
 const GlossaryTerm = ({
+  anchorId,
+  styles,
   title,
   shortDefinition,
   longDefinition,
@@ -53,15 +55,24 @@ const GlossaryTerm = ({
   referenceLinks,
 }) => {
   const definition = longDefinition ? longDefinition : shortDefinition
+  const synonymLabel = synonyms && synonyms.length > 0 ? 'Synonyms' : null
   return (
-    <div>
-      <Text Element="h3">{title}</Text>
-      <Text Element="p">{definition}</Text>
-      <List label="synonyms" LabelElement={Text} labelProps={{ Element: 'h4' }}>
-        <CommaSeparated items={synonyms} />
+    <div className={styles.glossaryTerm}>
+      <Text className={styles.title} id={anchorId} Element="h3">
+        {title}
+      </Text>
+      <FormTypes formTypes={formTypes} className={styles.formType} />
+      <Text className={styles.definition} Element="p">
+        {definition}
+      </Text>
+      <List
+        className={styles.synonyms}
+        label={synonymLabel}
+        LabelElement={Text}
+        labelProps={{ className: styles.synonymsTitle, Element: 'h4' }}
+      >
+        <CommaSeparated className={styles.synonymsTitle} items={synonyms} />
       </List>
-      <Text Element="h4">Form Types</Text>
-      <FormTypes formTypes={formTypes} wordClasses={[]} />
     </div>
   )
 }

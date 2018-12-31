@@ -1,11 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-const FormType = ({ form, wordClasses }) => {
+const FormType = ({ form, wordClasses, className }) => {
   return (
-    <>
-      <i>{form}</i> [ {wordClasses.join(', ')} ]
-    </>
+    <div className={className}>
+      <i>{form}</i>&nbsp;<span>[ {wordClasses.join(', ')} ]</span>
+    </div>
   )
 }
 
