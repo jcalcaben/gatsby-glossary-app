@@ -1,6 +1,6 @@
 import React from 'react'
 
-import styles from './menu-button.module.css'
+import styles from './menuButton.module.css'
 
 const MenuButton = ({ text, menuClick, additionalClasses }) => {
   let className = styles.button

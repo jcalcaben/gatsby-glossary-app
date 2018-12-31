@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 import MenuButton from '../MenuButton'
 
-import styles from './Header.module.css'
+import styles from './header.module.css'
 
 const Header = ({ siteTitle }) => (
   <div className={styles.container}>

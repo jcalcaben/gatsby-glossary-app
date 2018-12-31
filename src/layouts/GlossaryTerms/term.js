@@ -1,7 +1,7 @@
 import React from 'react'
-import GlossaryTerm from './GlossaryTerm'
+import GlossaryTerm from './glossaryTerm'
 import PropTypes from 'prop-types'
-import styles from './GlossaryTerm.module.css'
+import styles from './glossaryTerm.module.css'
 
 const Term = ({anchorId, publicURL, data}) => {
   if (data == null) {

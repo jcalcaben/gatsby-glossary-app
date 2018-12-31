@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import FormType from './form-type'
+import FormType from './formType'
 
 const FormTypes = ({ formTypes, className }) => {
   if (formTypes == null) {

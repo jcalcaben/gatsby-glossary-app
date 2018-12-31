@@ -1,9 +1,12 @@
 import React, { Component } from 'react'
 import { StaticQuery, graphql } from 'gatsby'
 import Helmet from 'react-helmet'
-import { Header, TermsList as GlossaryTerms, Scrim } from '../layouts'
-import TermsDataProvider from '../layouts/GlossaryTerms/terms-data-provider'
-
+import {
+  Header,
+  TermsList as GlossaryTerms,
+  Scrim,
+  TermsDataProvider,
+} from '../layouts'
 import '../static/css/reset.css'
 import './Glossary.css'
 
@@ -40,7 +43,7 @@ class Glossary extends Component {
               render={data => {
                 return (
                   <GlossaryTerms
-                    files={data.termFiles}
+                    filesList={data.termFiles}
                     termsData={data.termsData}
                   />
                 )

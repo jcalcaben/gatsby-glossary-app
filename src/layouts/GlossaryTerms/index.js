@@ -1,4 +1,4 @@
-import GlossaryTerm from './GlossaryTerm'
-import TermsList from './TermsList'
+import GlossaryTerm from './glossaryTerm'
+import TermsList from './termsList'
 
 export {GlossaryTerm, TermsList}

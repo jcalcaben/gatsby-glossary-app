@@ -1,3 +1,3 @@
-import MenuButton from './menu-button'
+import MenuButton from './menuButton'
 
 export default MenuButton
