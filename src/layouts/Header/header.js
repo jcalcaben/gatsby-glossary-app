@@ -5,19 +5,18 @@ import MenuButton from '../MenuButton'
 
 import styles from './header.module.css'
 
-const Header = ({ siteTitle }) => (
+const Header = ({ siteTitle, menuClickAction }) => (
   <div className={styles.container}>
     <div className={styles.title}>
       <h1 className={styles.header}>
-        <Link to="/">
-          {siteTitle}
-        </Link>
+        <Link to="/">{siteTitle}</Link>
       </h1>
     </div>
     <MenuButton
       text="Menu"
       menuClick={() => {
         console.log('Menu clicked!')
+        menuClickAction()
       }}
       additionalClasses={styles.menuButton}
     />

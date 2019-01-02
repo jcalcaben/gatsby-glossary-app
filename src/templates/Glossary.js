@@ -20,6 +20,14 @@ const titleQuery = graphql`
   }
 `
 class Glossary extends Component {
+  state = {
+    showScrim: false,
+  }
+
+  setScrim = value => {
+    this.setState({ showScrim: value })
+  }
+
   render() {
     let { filesData } = this.props.pageContext.result.data
     let { files } = filesData
@@ -36,7 +44,12 @@ class Glossary extends Component {
                 { name: 'keywords', content: 'sample, something' },
               ]}
             />
-            <Header siteTitle={data.site.siteMetadata.title} />
+            <Header
+              siteTitle={data.site.siteMetadata.title}
+              menuClickAction={() => {
+                this.setScrim(true);
+              }}
+            />
             <TermsDataProvider
               termFiles={files}
               termsData={{}}
@@ -49,7 +62,12 @@ class Glossary extends Component {
                 )
               }}
             />
-            <Scrim enabled={false} />
+            <Scrim
+              enabled={this.state.showScrim}
+              clickAction={() => {
+                this.setScrim(false);
+              }}
+            />
           </>
         )}
       />
