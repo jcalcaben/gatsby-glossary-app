@@ -22,10 +22,7 @@ const titleQuery = graphql`
 class Glossary extends Component {
   state = {
     showScrim: false,
-  }
-
-  setScrim = value => {
-    this.setState({ showScrim: value })
+    showPanel: false,
   }
 
   render() {
@@ -47,7 +44,7 @@ class Glossary extends Component {
             <Header
               siteTitle={data.site.siteMetadata.title}
               menuClickAction={() => {
-                this.setScrim(true);
+                this.setState({ showScrim: true, showPanel: true })
               }}
             />
             <TermsDataProvider
@@ -65,7 +62,7 @@ class Glossary extends Component {
             <Scrim
               enabled={this.state.showScrim}
               clickAction={() => {
-                this.setScrim(false);
+                this.setState({ showScrim: false, showPanel: false})
               }}
             />
           </>
