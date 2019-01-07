@@ -5,7 +5,6 @@ import {
   Header,
   TermsList as GlossaryTerms,
   Scrim,
-  TermsDataProvider,
   Panel,
 } from '../layouts'
 import '../static/css/reset.css'
@@ -50,18 +49,7 @@ class Glossary extends Component {
                 this.setState({ showScrim: true, showPanel: true })
               }}
             />
-            <TermsDataProvider
-              termFiles={files}
-              termsData={{}}
-              render={data => {
-                return (
-                  <GlossaryTerms
-                    filesList={data.termFiles}
-                    termsData={data.termsData}
-                  />
-                )
-              }}
-            />
+            <GlossaryTerms filesList={files} />
             <Scrim
               enabled={this.state.showScrim}
               clickAction={() => {

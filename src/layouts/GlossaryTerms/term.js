@@ -1,9 +1,31 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import GlossaryTerm from './glossaryTerm'
 import PropTypes from 'prop-types'
 import styles from './glossaryTerm.module.css'
 
-const Term = ({anchorId, publicURL, data}) => {
+const fetchJsonData = (publicURL, callback) => {
+  fetch(publicURL)
+    .then(response => {
+      return response.json()
+    })
+    .then(callback)
+    .catch(error => {
+      console.log('Error fetching: ' + publicURL)
+      console.log(error)
+    })
+}
+
+const Term = ({ anchorId, publicURL }) => {
+  const [data, setData] = useState()
+
+  useEffect(() => {
+    if (data == null) {
+      fetchJsonData(publicURL, data => {
+        setData(data)
+      })
+    }
+  })
+
   if (data == null) {
     return (
       <div id={anchorId} className={styles.loading}>
@@ -19,8 +41,7 @@ const Term = ({anchorId, publicURL, data}) => {
 }
 
 Term.propTypes = {
-  publicUrl: PropTypes.string,
   anchorId: PropTypes.string,
-  data: PropTypes.object,
+  publicUrl: PropTypes.string,
 }
 export default Term
