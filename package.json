@@ -11,8 +11,8 @@
     "gatsby-source-filesystem": "^2.0.10",
     "gatsby-transformer-json": "^2.1.6",
     "prop-types": "^15.6.2",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2",
     "react-helmet": "^5.2.0"
   },
   "keywords": [

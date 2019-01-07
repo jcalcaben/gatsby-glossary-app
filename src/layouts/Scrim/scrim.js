@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './scrim.module.css'
 
-const Scrim = ({ enabled, clickAction }) => {
+const Scrim = ({ enabled, clickAction, children }) => {
   let styleClass = enabled ? styles.scrim : styles.hidden
 
   return (
@@ -12,7 +12,9 @@ const Scrim = ({ enabled, clickAction }) => {
         event.preventDefault()
         clickAction()
       }}
-    />
+    >
+      {children}
+    </div>
   )
 }
 

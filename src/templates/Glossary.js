@@ -6,9 +6,12 @@ import {
   TermsList as GlossaryTerms,
   Scrim,
   TermsDataProvider,
+  Panel,
 } from '../layouts'
 import '../static/css/reset.css'
-import './Glossary.css'
+import './globals.css'
+
+import styles from './Glossary.module.css'
 
 const titleQuery = graphql`
   query SiteTitleQuery {
@@ -33,7 +36,7 @@ class Glossary extends Component {
       <StaticQuery
         query={titleQuery}
         render={data => (
-          <>
+          <div className={styles.default}>
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
@@ -62,10 +65,11 @@ class Glossary extends Component {
             <Scrim
               enabled={this.state.showScrim}
               clickAction={() => {
-                this.setState({ showScrim: false, showPanel: false})
+                this.setState({ showScrim: false, showPanel: false })
               }}
             />
-          </>
+            <Panel active={this.state.showPanel}>Hello World!</Panel>
+          </div>
         )}
       />
     )

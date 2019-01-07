@@ -1,0 +1,32 @@
+.default {
+  position: fixed;
+  top: 0;
+  left: 25%;
+  width: 75%;
+  height: 100%;
+}
+
+.panel {
+  composes: default;
+  background-color: yellow;
+  display: grid;
+  transition: left 0.5s ease;
+}
+
+.hidden {
+  composes: panel;
+  visibility: hidden;
+  left: 100%;
+  transition: visibility 0s 0.25s, left 0.25s ease;
+}
+
+@media (min-width: 769px) {
+  .default {
+    width: 50%;
+    left: 50%;
+  }
+
+  .hidden {
+    left: 100%;
+  }
+}
