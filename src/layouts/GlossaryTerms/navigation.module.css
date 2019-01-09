@@ -1,6 +1,8 @@
 .navigation {
   display: grid;
-  overflow-y: scroll;
+  grid-auto-columns: max-content;
+  grid-gap: .5em 1em;
+  justify-content: center
 }
 
 .navigationItem {

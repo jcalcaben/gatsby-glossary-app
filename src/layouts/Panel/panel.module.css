@@ -1,4 +1,6 @@
 .default {
+  overflow: auto;
+  display: grid;
   position: fixed;
   top: 0;
   right: 0%;
@@ -8,7 +10,7 @@
 
 .panel {
   composes: default;
-  background-color: yellow;
+  background-color: #ffffff;
   display: grid;
   transition: right 0.5s ease;
 }
