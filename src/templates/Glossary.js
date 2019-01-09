@@ -6,6 +6,7 @@ import {
   TermsList as GlossaryTerms,
   Scrim,
   Panel,
+  Navigation,
 } from '../layouts'
 import '../static/css/reset.css'
 import './globals.css'
@@ -56,7 +57,9 @@ class Glossary extends Component {
                 this.setState({ showScrim: false, showPanel: false })
               }}
             />
-            <Panel active={this.state.showPanel}>Hello World!</Panel>
+            <Panel active={this.state.showPanel}>
+              <Navigation filesList={files} />
+            </Panel>
           </div>
         )}
       />
