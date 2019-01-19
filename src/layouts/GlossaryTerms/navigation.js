@@ -1,15 +1,22 @@
 import React from 'react'
 import NavigationItem from './navigationItem'
 import style from './navigation.module.css'
+import encodeTermTitle from './encodeTermTitle'
 
-const navigation = ({ filesList }) => {
-  let glossaryTerms = filesList.map(node => {
+const navigation = ({ termsList }) => {
+  if (termsList === undefined) return null
+
+  termsList.sort(function(a, b) {
+    return a.term.name.toLowerCase().localeCompare(b.term.name.toLowerCase())
+  })
+
+  let glossaryTerms = termsList.map(node => {
     return (
       <NavigationItem
         classes={style.navigationItem}
-        key={node.file.name}
-        anchorName={node.file.name}
-        publicURL={node.file.publicURL}
+        key={node.term.name}
+        anchorName={encodeTermTitle(node.term.name)}
+        title={node.term.name}
       />
     )
   })

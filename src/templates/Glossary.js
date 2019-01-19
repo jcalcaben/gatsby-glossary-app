@@ -31,6 +31,7 @@ class Glossary extends Component {
   render() {
     let { filesData } = this.props.pageContext.result.data
     let { files } = filesData
+    let { navigation } = this.props.pageContext.result.data
 
     return (
       <StaticQuery
@@ -58,7 +59,7 @@ class Glossary extends Component {
               }}
             />
             <Panel active={this.state.showPanel}>
-              <Navigation filesList={files} />
+              <Navigation termsList={navigation.termsList} />
             </Panel>
           </div>
         )}

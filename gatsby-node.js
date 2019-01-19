@@ -27,6 +27,16 @@ exports.createPages = ({ graphql, actions }) => {
             title
           }
         }
+        navigation: allTermsJson(
+          filter: { types: { eq: "glossary" } }
+          sort: { fields: [title] }
+        ) {
+          termsList: edges {
+            term: node {
+              name: title
+            }
+          }
+        }
       }
     `).then(result => {
       createPage({
