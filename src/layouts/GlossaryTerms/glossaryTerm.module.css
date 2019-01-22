@@ -1,7 +1,12 @@
 .term {
+  display: grid;
   grid-column-start: 2;
   grid-column-end: 3;
-  margin: 0.5em 0.5em;
+  grid-gap: 0.5em;
+}
+
+.term p {
+  margin: 0px;
 }
 
 .loading {
@@ -16,13 +21,12 @@
 
 .title {
   font-size: 1.75em;
-  margin: -3rem 0px 0.5em;
+  margin: -3rem 0px 0px;
   padding-top: 3rem;
 }
 
 .formType {
   font-size: 1em;
-  display: inline-flex;
   margin: 0 0.5em 0 0;
   color: #888;
 }
@@ -30,4 +34,11 @@
 .synonymsTitle {
   font-size: 1.25em;
   margin: 0px 0px 0.5em;
+}
+
+.tags {
+  display: grid;
+  grid-auto-columns: max-content;
+  grid-auto-flow: column;
+  grid-column-gap: 0.5em;
 }

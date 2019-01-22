@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import classnames from 'classnames'
+import TagButton from './tagButton'
 
 const commaSeparated = ({ items }) => {
   if (items === null || items.length === 0) {
@@ -11,6 +12,26 @@ const commaSeparated = ({ items }) => {
 
 commaSeparated.propTypes = {
   items: PropTypes.array,
+}
+
+const buttons = ({ items }) => {
+  if (items === null || items.length === 0) {
+    return null
+  }
+  const buttonList = items.map(item => {
+    return (
+      <TagButton
+        key={item}
+        clickAction={() => {
+          console.log(item)
+        }}
+      >
+        {item}
+      </TagButton>
+    )
+  })
+
+  return buttonList
 }
 
 const list = ({
@@ -28,7 +49,7 @@ const list = ({
   return (
     <div className={className}>
       <LabelElement {...labelProps}>{label}</LabelElement>
-      <div>{children}</div>
+      {children}
     </div>
   )
 }
@@ -41,6 +62,6 @@ list.propTypes = {
   labelProps: PropTypes.object,
 }
 
-export { commaSeparated }
+export { commaSeparated, buttons }
 
 export default list

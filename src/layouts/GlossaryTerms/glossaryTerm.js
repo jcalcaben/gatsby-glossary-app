@@ -2,7 +2,10 @@ import React from 'react'
 import Text from './data/text'
 import PropTypes from 'prop-types'
 import List from './data/list'
-import { commaSeparated as CommaSeparated } from './data/list'
+import {
+  commaSeparated as CommaSeparated,
+  buttons as Buttons,
+} from './data/list'
 import FormTypes from './data/formTypes'
 
 const GlossaryTerm = ({
@@ -26,17 +29,29 @@ const GlossaryTerm = ({
       <Text className={styles.title} id={anchorId} Element="h3">
         {title}
       </Text>
+
       <FormTypes formTypes={formTypes} className={styles.formType} />
+
       <Text className={styles.definition} Element="p">
         {definition}
       </Text>
+
       <List
-        className={styles.synonyms}
+        classNames={styles.synonyms}
         label={synonymLabel}
         LabelElement={Text}
         labelProps={{ className: styles.synonymsTitle, Element: 'h4' }}
       >
         <CommaSeparated className={styles.synonymsTitle} items={synonyms} />
+      </List>
+
+      <List
+        classNames={styles.tags}
+        label={null}
+        LabelElement={Text}
+        labelProps={{ className: styles.tagsTitle, Element: 'h4' }}
+      >
+        <Buttons className={styles.tags} items={contentTags} />
       </List>
     </div>
   )

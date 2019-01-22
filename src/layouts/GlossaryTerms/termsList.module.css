@@ -2,5 +2,5 @@
   margin-top: 3rem;
   display: grid;
   grid-template-columns: 1fr 10fr 1fr;
-  row-gap: 1em;
+  row-gap: 2em;
 }
