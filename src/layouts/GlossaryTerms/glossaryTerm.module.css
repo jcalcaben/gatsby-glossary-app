@@ -2,7 +2,7 @@
   display: grid;
   grid-column-start: 2;
   grid-column-end: 3;
-  grid-gap: 0.5em;
+  grid-row-gap: 0.5em;
 }
 
 .term p {
@@ -37,8 +37,4 @@
 }
 
 .tags {
-  display: grid;
-  grid-auto-columns: max-content;
-  grid-auto-flow: column;
-  grid-column-gap: 0.5em;
 }

@@ -53,6 +53,15 @@ const GlossaryTerm = ({
       >
         <Buttons className={styles.tags} items={contentTags} />
       </List>
+
+      <List
+        classNames={styles.tags}
+        label={null}
+        LabelElement={Text}
+        labelProps={{ className: styles.tagsTitle, Element: 'h4' }}
+      >
+        <Buttons className={styles.tags} items={userTags} />
+      </List>
     </div>
   )
 }
