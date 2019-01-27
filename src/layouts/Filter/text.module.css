@@ -1,0 +1,13 @@
+.filter {
+  margin-top: 3.5rem;
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  grid-column-gap: 1em;
+}
+
+.textInput {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  border-width: 2px;
+  border: 1px solid #cac3b4;
+}

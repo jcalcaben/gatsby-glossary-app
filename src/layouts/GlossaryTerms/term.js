@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import styles from './glossaryTerm.module.css'
 import useTermData from './useTermData'
 
-const Term = ({ anchorId, publicURL }) => {
+const Term = ({ anchorId, publicURL, textFilter }) => {
   const data = useTermData(publicURL)
 
   if (data == null) {
@@ -17,7 +17,7 @@ const Term = ({ anchorId, publicURL }) => {
 
   let { types } = data
   return types.includes('glossary') ? (
-    <GlossaryTerm anchorId={anchorId} styles={styles} {...data} />
+    <GlossaryTerm anchorId={anchorId} styles={styles} textFilter={textFilter} {...data} />
   ) : null
 }
 

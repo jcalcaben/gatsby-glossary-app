@@ -11,6 +11,7 @@ import FormTypes from './data/formTypes'
 const GlossaryTerm = ({
   anchorId,
   styles,
+  textFilter,
   title,
   shortDefinition,
   longDefinition,
@@ -23,47 +24,55 @@ const GlossaryTerm = ({
   referenceLinks,
 }) => {
   const definition = longDefinition ? longDefinition : shortDefinition
-  const synonymLabel = synonyms && synonyms.length > 0 ? 'Synonyms' : null
-  return (
-    <div className={styles.glossaryTerm}>
-      <Text className={styles.title} id={anchorId} Element="h3">
-        {title}
-      </Text>
 
-      <FormTypes formTypes={formTypes} className={styles.formType} />
+  if (
+    textFilter &&
+    (title.toLowerCase().indexOf(textFilter) < 0 && definition.toLowerCase().indexOf(textFilter) < 0)
+  ) {
+    return null
+  } else {
+    const synonymLabel = synonyms && synonyms.length > 0 ? 'Synonyms' : null
+    return (
+      <div className={styles.glossaryTerm}>
+        <Text className={styles.title} id={anchorId} Element="h3">
+          {title}
+        </Text>
 
-      <Text className={styles.definition} Element="p">
-        {definition}
-      </Text>
+        <FormTypes formTypes={formTypes} className={styles.formType} />
 
-      <List
-        classNames={styles.synonyms}
-        label={synonymLabel}
-        LabelElement={Text}
-        labelProps={{ className: styles.synonymsTitle, Element: 'h4' }}
-      >
-        <CommaSeparated className={styles.synonymsTitle} items={synonyms} />
-      </List>
+        <Text className={styles.definition} Element="p">
+          {definition}
+        </Text>
 
-      <List
-        classNames={styles.tags}
-        label={null}
-        LabelElement={Text}
-        labelProps={{ className: styles.tagsTitle, Element: 'h4' }}
-      >
-        <Buttons className={styles.tags} items={contentTags} />
-      </List>
+        <List
+          classNames={styles.synonyms}
+          label={synonymLabel}
+          LabelElement={Text}
+          labelProps={{ className: styles.synonymsTitle, Element: 'h4' }}
+        >
+          <CommaSeparated className={styles.synonymsTitle} items={synonyms} />
+        </List>
 
-      <List
-        classNames={styles.tags}
-        label={null}
-        LabelElement={Text}
-        labelProps={{ className: styles.tagsTitle, Element: 'h4' }}
-      >
-        <Buttons className={styles.tags} items={userTags} />
-      </List>
-    </div>
-  )
+        <List
+          classNames={styles.tags}
+          label={null}
+          LabelElement={Text}
+          labelProps={{ className: styles.tagsTitle, Element: 'h4' }}
+        >
+          <Buttons className={styles.tags} items={contentTags} />
+        </List>
+
+        <List
+          classNames={styles.tags}
+          label={null}
+          LabelElement={Text}
+          labelProps={{ className: styles.tagsTitle, Element: 'h4' }}
+        >
+          <Buttons className={styles.tags} items={userTags} />
+        </List>
+      </div>
+    )
+  }
 }
 
 GlossaryTerm.propTypes = {

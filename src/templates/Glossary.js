@@ -7,6 +7,7 @@ import {
   Scrim,
   Panel,
   Navigation,
+  TextFilter,
 } from '../layouts'
 import '../static/css/reset.css'
 import './globals.css'
@@ -26,6 +27,12 @@ class Glossary extends Component {
   state = {
     showScrim: false,
     showPanel: false,
+    textFilter: null,
+  }
+
+  updateTextFilter(value) {
+    console.log(value)
+    this.setState({ textFilter: value.toLowerCase() })
   }
 
   render() {
@@ -51,7 +58,15 @@ class Glossary extends Component {
                 this.setState({ showScrim: true, showPanel: true })
               }}
             />
-            <GlossaryTerms filesList={files} />
+            <TextFilter
+              changeHandler={value => {
+                this.setState({ textFilter: value.toLowerCase() })
+              }}
+            />
+            <GlossaryTerms
+              filesList={files}
+              textFilter={this.state.textFilter}
+            />
             <Scrim
               enabled={this.state.showScrim}
               clickAction={() => {
