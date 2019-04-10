@@ -10,6 +10,7 @@
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-source-filesystem": "^2.0.29",
     "gatsby-transformer-json": "^2.1.11",
+    "gatsby-transformer-remark": "^2.3.8",
     "json2yaml": "^1.1.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
