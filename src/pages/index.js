@@ -1,13 +1,41 @@
 import React from 'react'
-import Link from 'gatsby-link'
+import { graphql } from 'gatsby'
+import Glossary from '../templates/Glossary'
 
-const IndexPage = () => (
-  <>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
-  </>
-)
+const IndexPage = ({ data }) => <Glossary data={data} />
 
 export default IndexPage
+
+export const query = graphql`
+  {
+    filesData: allFile(
+      filter: { relativeDirectory: { eq: "terms" } }
+      sort: { fields: [name] }
+    ) {
+      files: edges {
+        file: node {
+          id
+          relativePath
+          relativeDirectory
+          name
+          publicURL
+        }
+      }
+    }
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    navigation: allTermsJson(
+      filter: { types: { eq: "glossary" } }
+      sort: { fields: [title] }
+    ) {
+      termsList: edges {
+        term: node {
+          name: title
+        }
+      }
+    }
+  }
+`

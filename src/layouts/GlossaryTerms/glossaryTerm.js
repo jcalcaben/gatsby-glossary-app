@@ -27,7 +27,8 @@ const GlossaryTerm = ({
 
   if (
     textFilter &&
-    (title.toLowerCase().indexOf(textFilter) < 0 && definition.toLowerCase().indexOf(textFilter) < 0)
+    (title.toLowerCase().indexOf(textFilter) < 0 &&
+      definition.toLowerCase().indexOf(textFilter) < 0)
   ) {
     return null
   } else {

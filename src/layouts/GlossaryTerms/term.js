@@ -17,7 +17,12 @@ const Term = ({ anchorId, publicURL, textFilter }) => {
 
   let { types } = data
   return types.includes('glossary') ? (
-    <GlossaryTerm anchorId={anchorId} styles={styles} textFilter={textFilter} {...data} />
+    <GlossaryTerm
+      anchorId={anchorId}
+      styles={styles}
+      textFilter={textFilter}
+      {...data}
+    />
   ) : null
 }
 
