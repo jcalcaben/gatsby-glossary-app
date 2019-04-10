@@ -1,8 +1,8 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Glossary from '../templates/Glossary'
+import App from '../components/App'
 
-const IndexPage = ({ data }) => <Glossary data={data} />
+const IndexPage = ({ data }) => <App data={data} />
 
 export default IndexPage
 

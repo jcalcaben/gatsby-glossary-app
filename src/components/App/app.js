@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { StaticQuery, graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import {
   Header,
@@ -8,13 +7,13 @@ import {
   Panel,
   Navigation,
   TextFilter,
-} from '../layouts'
-import '../static/css/reset.css'
-import './globals.css'
+} from '../../layouts'
+import '../../static/css/reset.css'
+import '../../templates/globals.css'
 
-import styles from './Glossary.module.css'
+import styles from './app.module.css'
 
-class Glossary extends Component {
+class App extends Component {
   state = {
     showScrim: false,
     showPanel: false,
@@ -68,4 +67,4 @@ class Glossary extends Component {
   }
 }
 
-export default Glossary
+export default App
