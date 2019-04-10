@@ -1,12 +1,14 @@
 import React from 'react'
 
 import styles from './menuButton.module.css'
+import menuIcon from './menu-icon.svg'
 
 const MenuButton = ({ text, menuClick, additionalClasses }) => {
-  let className = styles.button
-  if (additionalClasses != null) {
-    className += ' ' + additionalClasses
-  }
+  let className = [
+    styles.button,
+    additionalClasses
+  ].join(' ')
+  
   return (
     <button
       className={className}
@@ -14,8 +16,9 @@ const MenuButton = ({ text, menuClick, additionalClasses }) => {
         event.preventDefault()
         menuClick()
       }}
+      title={text}
     >
-      {text}
+      <img src={menuIcon} alt={text} />
     </button>
   )
 }

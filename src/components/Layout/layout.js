@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Helmet from 'react-helmet'
-import { Header, Scrim, Panel, Navigation, TextFilter } from '../../layouts'
+import { Header, Scrim, Panel, Navigation } from '../../layouts'
 import '../../static/css/reset.css'
 import '../../templates/globals.css'
 import { StaticQuery, graphql } from 'gatsby'
@@ -57,11 +57,6 @@ class Layout extends Component {
               siteTitle={data.site.siteMetadata.title}
               menuClickAction={() => {
                 this.setState({ showScrim: true, showPanel: true })
-              }}
-            />
-            <TextFilter
-              changeHandler={value => {
-                this.setState({ textFilter: value.toLowerCase() })
               }}
             />
             {children}
