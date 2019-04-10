@@ -49,10 +49,7 @@ class App extends Component {
             this.setState({ textFilter: value.toLowerCase() })
           }}
         />
-        <GlossaryTerms
-          filesList={files}
-          textFilter={this.state.textFilter}
-        />
+        <GlossaryTerms filesList={files} textFilter={this.state.textFilter} />
         <Scrim
           enabled={this.state.showScrim}
           clickAction={() => {

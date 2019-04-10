@@ -5,15 +5,15 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "classnames": "^2.2.6",
-    "gatsby": "^2.0.59",
-    "gatsby-link": "^2.0.7",
-    "gatsby-plugin-react-helmet": "^3.0.3",
-    "gatsby-source-filesystem": "^2.0.10",
-    "gatsby-transformer-json": "^2.1.6",
+    "gatsby": "^2.3.17",
+    "gatsby-link": "^2.0.16",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-source-filesystem": "^2.0.29",
+    "gatsby-transformer-json": "^2.1.11",
     "json2yaml": "^1.1.0",
-    "prop-types": "^15.6.2",
-    "react": "^16.7.0-alpha.2",
-    "react-dom": "^16.7.0-alpha.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
@@ -27,7 +27,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.15.3"
+    "prettier": "^1.16.4"
   },
   "repository": {
     "type": "git",
