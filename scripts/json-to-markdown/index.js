@@ -20,13 +20,15 @@ function processDirectory(directoryPath) {
         if (file.isFile() && path.extname(file.name) === '.json') {
           convertFile(fullFilePath)
             .then(result => {
-              fs.promises.writeFile(
-                path.join(
-                  config.outputDirectory,
-                  path.basename(file.name,'.json') + '.md'
-                ),
-                result
-              )
+              if (result) {
+                fs.promises.writeFile(
+                  path.join(
+                    config.outputDirectory,
+                    path.basename(file.name, '.json') + '.md'
+                  ),
+                  result
+                )
+              }
             })
             .catch(error => {
               console.log(error)
