@@ -1,0 +1,16 @@
+.searchBar {
+  max-width: 660px;
+}
+
+.textInput {
+  display: block;
+  width: 100%;
+  padding: 12px 50px;
+
+  border: 1px solid #cac3b4;
+
+  background-color: #fff;
+  background-image: url("./search-icon.svg");
+  background-repeat: no-repeat;
+  background-position: 10px;
+}
