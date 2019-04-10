@@ -3,7 +3,7 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Programming"
+    - "programming"
   synonyms: 
     - "application programming"
     - "interface"
@@ -13,6 +13,6 @@
     - "web API"
     - "integration API"
     - "service contract"
-  readMore: []
+  readMore: [Get Started with Magento APIs](https://devdocs.magento.com/guides/v2.3/get-started/bk-get-started-api.html)
 ---
-Abbreviation for application program interface. A software interface that lets third-party applications read and write to a system using programming language constructs or statements.
+Abbreviation for application program interface. A software interface that lets third-party applications read and write to a system using programming language constructs or statements. Magento supports and provides [REST](https://devdocs.magento.com/guides/v2.3/get-started/rest_front.html) and [SOAP](https://devdocs.magento.com/guides/v2.3/get-started/soap/soap-web-api-calls.html).
