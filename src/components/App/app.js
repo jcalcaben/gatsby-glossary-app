@@ -44,11 +44,7 @@ class App extends Component {
             this.setState({ showScrim: true, showPanel: true })
           }}
         />
-        <TextFilter
-          changeHandler={value => {
-            this.setState({ textFilter: value.toLowerCase() })
-          }}
-        />
+        
         <GlossaryTerms filesList={files} textFilter={this.state.textFilter} />
         <Scrim
           enabled={this.state.showScrim}

@@ -1,0 +1,25 @@
+.logo {
+  display: flex;
+  align-items: center;
+  color: #2B2B2C;
+  text-decoration: none;
+  padding: 0 10px;
+}
+
+.siteTitle {
+  display: block;
+  font-size: 22px;
+  font-weight: normal;
+  letter-spacing: .01em;
+  padding: 0 10px;
+  margin: 0 0 0 10px;
+  border-left: 1px solid #4E4E4E;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .magentoLogo {
+    display: none;
+  }
+}
+

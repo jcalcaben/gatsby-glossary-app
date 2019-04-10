@@ -1,7 +1,7 @@
 import React from 'react'
-import style from './text.module.css'
+import style from './search.module.css'
 
-class Text extends React.Component {
+class Search extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -34,7 +34,7 @@ class Text extends React.Component {
 
   render() {
     return (
-      <div className={style.filter}>
+      <div className={style.searchBar}>
         <input
           className={style.textInput}
           type="text"
@@ -47,4 +47,4 @@ class Text extends React.Component {
   }
 }
 
-export default Text
+export default Search
