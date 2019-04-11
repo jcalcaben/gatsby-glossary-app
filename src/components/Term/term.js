@@ -7,7 +7,6 @@ export default ({ data }) => {
   const { frontmatter } = data.markdownRemark;
   const { title, wordClasses, relatedTerms, tags } = frontmatter;
     return (
-    <div className={styles.default}>
         <div className={styles.term}>
             <span className={styles.termTitle}>{title}</span>
             <span className={styles.wordClass}>{wordClasses.join(', ')}</span>
@@ -27,6 +26,5 @@ export default ({ data }) => {
                 </div>
             ) : null}
         </div>
-    </div>
   )
 }

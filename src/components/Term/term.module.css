@@ -1,9 +1,3 @@
-.default {
-    display: grid;
-    grid-template-columns: 1fr 10fr 1fr;
-    grid-column-gap: 1em;
-}
-
 .term {
     display: grid;
     grid-column-start: 2;
