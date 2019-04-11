@@ -1,10 +1,23 @@
 import React from 'react'
+
+import Scrim from '../Scrim'
 import styles from './panel.module.css'
 
-function Panel({ active, children }) {
-  let classes = active ? styles.panel : styles.hidden
+const Panel = props => {
+  const { active, children, additionalClasses, clickAction } = props
 
-  return <div className={classes}>{children}</div>
+  const className = [
+    styles.panel,
+    additionalClasses,
+    active ? null : styles.hidden,
+  ].join(' ')
+
+  return (
+    <div className={className}>
+      <Scrim enabled={active} clickAction={clickAction} />
+      <div className={styles.panelContent}>{children}</div>
+    </div>
+  )
 }
 
 export default Panel
