@@ -2,43 +2,30 @@ import React, { useState, useRef } from 'react'
 import Scrim from '../Scrim'
 
 import searchIcon from './search-icon.svg'
-import SearchResults from './SearchResults'
 
 import style from './search.module.css'
+import SearchResults from './searchResults'
 
-// Delete this
-const dummyResults = [
-  {
-    anchorName: 'media-storage',
-    title: 'media storage',
-  },
-  {
-    anchorName: 'dynamic-media-url',
-    title: 'dynamic media URL',
-  },
-]
-// Delete this
-const dummyRelatedResults = [
-  {
-    anchorName: 'banner',
-    title: 'banner',
-  },
-  {
-    anchorName: 'above-the-fold',
-    title: 'above the fold',
-  },
-]
+function getSearchResults(query) {
+  if (!query || !window.__LUNR__) return []
+  const lunrIndex = window.__LUNR__['en']
+  const results = lunrIndex.index.search(query) // you can  customize your search , see https://lunrjs.com/guides/searching.html
+  return results.map(({ ref }) => lunrIndex.store[ref])
+}
 
 const Search = props => {
   const [value, setValue] = useState('')
   const [searchActive, setSearch] = useState(false)
   const [showResults, setShowResults] = useState(false)
   const inputRef = useRef(null)
+  const [searchResults, setSearchResults] = useState([])
 
   const handleChange = event => {
     setValue(event.target.value)
+    let results = getSearchResults(event.target.value)
+    setSearchResults(results)
     // decide if we need to show results or not
-    event.target.value.length ? setShowResults(true) : setShowResults(false)
+    event.target.value.length && results.length > 0 ? setShowResults(true) : setShowResults(false)
   }
 
   const handleToggleClick = event => {
@@ -104,8 +91,7 @@ const Search = props => {
         </div>
         <SearchResults
           active={showResults}
-          results={dummyResults}
-          relatedResults={dummyRelatedResults}
+          results={searchResults}
         />
       </div>
 
