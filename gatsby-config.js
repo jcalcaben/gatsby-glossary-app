@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Glossary',
+    description: 'Magento Glossary Project'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

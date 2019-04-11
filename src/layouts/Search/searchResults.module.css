@@ -1,0 +1,28 @@
+
+.searchResults {
+  display: none;
+  position: absolute;
+  background: #fff;
+  border: 1px solid #cac3b4;
+  padding: 8px 0;
+  width: 100%;
+  top: 50px;
+  z-index: 3;
+  max-height: 350px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.searchResultsSubtitle {
+  color: #757575;
+  font-size: 12px;
+  font-weight: normal;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 20px 20px 8px;
+  letter-spacing: .1em;
+}
+
+.searchResults.active {
+  display: block;
+}

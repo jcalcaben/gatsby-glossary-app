@@ -23,7 +23,6 @@ const navigation = ({ termsList }) => {
 
   return (
     <div className={style.navigation}>
-      <div className={style.navigationTitle}>Glossary Terms</div>
       {glossaryTerms}
     </div>
   )

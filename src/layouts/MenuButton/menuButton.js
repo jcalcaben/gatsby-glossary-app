@@ -4,11 +4,8 @@ import styles from './menuButton.module.css'
 import menuIcon from './menu-icon.svg'
 
 const MenuButton = ({ text, menuClick, additionalClasses }) => {
-  let className = [
-    styles.button,
-    additionalClasses
-  ].join(' ')
-  
+  let className = [styles.button, additionalClasses].join(' ')
+
   return (
     <button
       className={className}
@@ -16,9 +13,9 @@ const MenuButton = ({ text, menuClick, additionalClasses }) => {
         event.preventDefault()
         menuClick()
       }}
-      title={text}
+      aria-label={text}
     >
-      <img src={menuIcon} alt={text} />
+      <img src={menuIcon} alt="" />
     </button>
   )
 }
