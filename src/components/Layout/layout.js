@@ -20,13 +20,16 @@ const Layout = props => {
             description
           }
         }
-        navigation: allTermsJson(
-          filter: { types: { eq: "glossary" } }
-          sort: { fields: [title] }
-        ) {
+        navigation: allMarkdownRemark(sort: { fields: [fields___slug] }) {
           termsList: edges {
             term: node {
-              name: title
+              frontmatter {
+                title
+              }
+              id
+              fields {
+                slug
+              }
             }
           }
         }
