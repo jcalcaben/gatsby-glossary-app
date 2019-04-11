@@ -1,12 +1,12 @@
 ---
   title: "Magento"
-  wordClasses: 
+  wordClasses:
     - "adjective"
   tags: 
     - "business"
     - "magento-software"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "Magento Trademark Requirements"
   readMore: []
 ---

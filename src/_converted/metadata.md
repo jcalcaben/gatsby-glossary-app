@@ -1,6 +1,6 @@
 ---
   title: "metadata"
-  wordClasses: 
+  wordClasses:
     - "noun"
   tags: 
     - "business"

@@ -1,8 +1,8 @@
 ---
   title: "frontend properties"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
     - "programming"
   synonyms: []

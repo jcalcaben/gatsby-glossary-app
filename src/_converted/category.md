@@ -1,8 +1,8 @@
 ---
   title: "category"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
     - "product"
   synonyms: []

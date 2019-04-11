@@ -1,12 +1,12 @@
 ---
   title: "jQuery"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
     - "programming"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "JavaScript"
   readMore: []
 ---

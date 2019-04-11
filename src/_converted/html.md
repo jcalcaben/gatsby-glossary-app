@@ -1,13 +1,13 @@
 ---
   title: "HTML"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
     - "programming"
-  synonyms: 
+  synonyms:
     - "HyperText Markup Language"
-  relatedTerms: 
+  relatedTerms:
     - "CSS"
   readMore: []
 ---

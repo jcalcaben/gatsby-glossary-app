@@ -1,13 +1,13 @@
 ---
   title: "cart rules"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
     - "pricing"
     - "product"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "catalog rule"
     - "shopping cart"
   readMore: []

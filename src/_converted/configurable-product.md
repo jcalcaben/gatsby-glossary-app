@@ -1,12 +1,12 @@
 ---
   title: "configurable product"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
     - "product"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "product types"
   readMore: []
 ---

@@ -1,6 +1,6 @@
 ---
   title: "checkout"
-  wordClasses: 
+  wordClasses:
     - "noun"
   tags: 
     - "business"

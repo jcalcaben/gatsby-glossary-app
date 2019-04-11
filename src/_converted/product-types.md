@@ -1,8 +1,8 @@
 ---
   title: "product types"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
     - "product"
   synonyms: []

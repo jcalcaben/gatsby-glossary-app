@@ -1,12 +1,12 @@
 ---
   title: "Sass"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
     - "programming"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "Compass"
     - "CSS"
   readMore: []
