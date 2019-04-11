@@ -17,12 +17,13 @@ class App extends Component {
   }
 
   render() {
-    let { filesData } = this.props.data
-    let { files } = filesData
+    let { allMarkdownRemark } = this.props.data
+
+    let { edges } = allMarkdownRemark
 
     return (
       <Layout>
-        <GlossaryTerms filesList={files} textFilter={this.state.textFilter} />
+        <GlossaryTerms termsData={edges} />
       </Layout>
     )
   }
