@@ -9,7 +9,7 @@ const NavigationItem = props => {
   const className = [
     style.navigationItem,
     classes,
-    active? style.active : null
+    active ? style.active : null,
   ].join(' ')
 
   return (

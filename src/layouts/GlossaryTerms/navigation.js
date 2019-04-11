@@ -21,11 +21,7 @@ const navigation = ({ termsList }) => {
     )
   })
 
-  return (
-    <div className={style.navigation}>
-      {glossaryTerms}
-    </div>
-  )
+  return <div className={style.navigation}>{glossaryTerms}</div>
 }
 
 export default navigation

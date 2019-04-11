@@ -15,7 +15,7 @@ const dummyResults = [
   {
     anchorName: 'dynamic-media-url',
     title: 'dynamic media URL',
-  }
+  },
 ]
 // Delete this
 const dummyRelatedResults = [
@@ -42,7 +42,6 @@ const Search = props => {
   }
 
   const handleToggleClick = event => {
-    
     setSearch(true)
     setTimeout(function() {
       inputRef.current.focus()

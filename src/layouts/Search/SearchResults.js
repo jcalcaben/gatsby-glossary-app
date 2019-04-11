@@ -28,10 +28,9 @@ const SearchResults = props => {
 
   if (results === undefined) return null
 
-  const className = [
-    style.searchResults,
-    active ? style.active : null
-  ].join(' ')
+  const className = [style.searchResults, active ? style.active : null].join(
+    ' '
+  )
 
   return (
     <div className={className}>
