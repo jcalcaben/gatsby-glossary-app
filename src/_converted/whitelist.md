@@ -1,12 +1,12 @@
 ---
   title: "whitelist"
-  wordClasses: 
+  wordClasses:
     - "noun"
     - "verb"
-  tags: 
-    - null
+  tags:
+    - "magento-software"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "blacklist"
   readMore: []
 ---

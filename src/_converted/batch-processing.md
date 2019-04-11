@@ -1,10 +1,11 @@
 ---
   title: "batch processing"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
-  synonyms: []
+  synonyms:
+    - "bulk-operations"
   readMore: []
 ---
 To perform a task or make a change to multiple items all at once, without manual repetition.
