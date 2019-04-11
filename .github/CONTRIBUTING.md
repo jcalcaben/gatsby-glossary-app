@@ -65,7 +65,7 @@ Focus on the content with useful information, code samples, and important notes 
 
 Use the following guidelines to help you with the writing process:
 
-- Definte the term. What would be helpful for the community and developers?
+- Define the term. What would be helpful for the community and developers?
 - Consider acronyms and synonyms. These help locate and define terms.
 - Keep your sentences concise.
 - Batch several small changes into a single pull request (instead of separate ones) to ensure your contributions get approved and merged quickly. Have several typo fixes across several terms? Batch them into one PR.
@@ -76,6 +76,24 @@ Use the following guidelines to help you with the writing process:
 ### Edit metadata
 
 The Markdown (.md) file's metadata is a set of YAML key-value pairs. The metadata section is located at the top of each file and required to correctly label and add your term to the glossary. For more info, see the [Glossary template](https://github.com/jcalcaben/gatsby-glossary-app/wiki/Glossary-Template).
+
+Template without content. :exclamation: All Metadata must be in every term file.
+
+```yaml
+---
+  title: "Term"
+  wordClasses:
+    - "noun"
+  tags:
+    - "magento-software"
+  synonyms: []
+  relatedTerms: []
+  readMore: []
+---
+Definition.
+```
+
+Example term:
 
 ```yaml
 ---
