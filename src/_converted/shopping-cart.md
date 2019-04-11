@@ -4,7 +4,7 @@
     - "noun"
   tags: 
     - "Business / Marketing"
-    - "Design"
+    - "design"
     - "Product"
     - "Programming"
   synonyms: 

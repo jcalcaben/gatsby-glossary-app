@@ -3,7 +3,7 @@
   wordClasses: 
     - "adjective"
   tags: 
-    - "Design"
+    - "design"
     - "Programming"
   synonyms: 
     - "client side"

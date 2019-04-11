@@ -3,7 +3,7 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Design"
+    - "design"
   synonyms: []
   relatedTerms: 
     - "search engine optimization"

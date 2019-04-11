@@ -4,7 +4,7 @@
     - "adjective"
   tags: 
     - "Business / Marketing"
-    - "Magento Software"
+    - "magento-software"
   synonyms: []
   relatedTerms: 
     - "Magento Trademark Requirements"

@@ -1,12 +1,14 @@
 ---
   title: "B2C"
-  wordClasses: 
+  wordClasses:
     - "adjective"
-  tags: 
-    - "Business / Marketing"
+  tags:
+    - "business"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "B2B"
-  readMore: []
+  readMore:
+    - label: Magento Open Source User guide
+      url: https://docs.magento.com/m2/ce/user_guide/getting-started.html
 ---
-Abbreviation for "business to consumer." Business transactions between a business entity and a consumer.
+Abbreviation for "business to consumer." Business transactions between a business entity and a consumer. Magento Open Source and Magento Commerce provide features to create stores for selling between a business and customers. Selling from a business to another business is B2B.
