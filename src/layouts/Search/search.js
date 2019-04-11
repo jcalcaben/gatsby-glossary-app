@@ -4,7 +4,7 @@ import Scrim from '../Scrim'
 import searchIcon from './search-icon.svg'
 
 import style from './search.module.css'
-import SearchResults from './SearchResults'
+import SearchResults from './searchResults'
 
 function getSearchResults(query) {
   if (!query || !window.__LUNR__) return []
