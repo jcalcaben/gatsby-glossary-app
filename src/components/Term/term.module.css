@@ -7,3 +7,8 @@
     line-height: 18px;
     color: #696969;
 }
+
+.relatedTerm {
+    padding: 0 2px;
+    text-decoration: none;
+}
