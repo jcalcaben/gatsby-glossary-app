@@ -1,6 +1,5 @@
 import React from 'react'
 
-import NavigationItem from '../GlossaryTerms/navigationItem'
 import { Link } from 'gatsby'
 
 import style from './searchResults.module.css'

@@ -4,52 +4,7 @@ import Scrim from '../Scrim'
 import searchIcon from './search-icon.svg'
 
 import style from './search.module.css'
-import Results from './results'
 import SearchResults from './SearchResults'
-
-function Search2() {
-  const [searchTerm, setSearchTerm] = useState()
-  const [searchResults, setSearchResults] = useState([])
-
-  return (
-    <div className={style.searchBar}>
-      <input
-        className={style.textInput}
-        type="text"
-        value={searchTerm}
-        onChange={event => {
-          let results = getSearchResults(event.target.value)
-          setSearchResults(results)
-        }}
-        placeholder="Search glossary"
-      />
-      <Results>{searchResults}</Results>
-    </div>
-  )
-}
-
-// Delete this
-const dummyResults = [
-  {
-    anchorName: 'media-storage',
-    title: 'media storage',
-  },
-  {
-    anchorName: 'dynamic-media-url',
-    title: 'dynamic media URL',
-  },
-]
-// Delete this
-const dummyRelatedResults = [
-  {
-    anchorName: 'banner',
-    title: 'banner',
-  },
-  {
-    anchorName: 'above-the-fold',
-    title: 'above the fold',
-  },
-]
 
 function getSearchResults(query) {
   if (!query || !window.__LUNR__) return []
