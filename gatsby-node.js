@@ -28,6 +28,16 @@ exports.createPages = ({ graphql, actions }) => {
             fields {
               slug
             }
+            frontmatter {
+              tags
+            }
+          }
+        }
+      }
+      allTagListJson {
+        edges {
+          node {
+            slug
           }
         }
       }
@@ -39,6 +49,16 @@ exports.createPages = ({ graphql, actions }) => {
         component: path.resolve(`./src/templates/term.js`),
         context: {
           slug: node.fields.slug,
+        },
+      })
+    })
+
+    result.data.allTagListJson.edges.forEach(node => {
+      createPage({
+        path: `/tag/${node.node.slug}/`,
+        component: path.resolve('./src/templates/tag.js'),
+        context: {
+          slug: node.node.slug
         },
       })
     })
