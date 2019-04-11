@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import classnames from 'classnames'
-import TagButton from './tagButton'
+import TagButton from '../../../components/Tag'
 
 const commaSeparated = ({ items }) => {
   if (items === null || items.length === 0) {
