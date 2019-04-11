@@ -11,3 +11,28 @@
   padding: 5px 10px;
   color: #757575;
 }
+
+.tagButtonFilter {
+  composes: button;
+  border: 1px solid #323232;
+  margin-left: 5px;
+}
+
+.tagButtonFilter:after {
+  content: '×';
+  color: #323232;
+  font-weight: bold;
+  position: relative;
+  left: 5px;
+}
+
+.tagFilter {
+  display: grid;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+.tagFilterLabel {
+  font-size: .75rem;
+  color: #9B9B9B;
+}

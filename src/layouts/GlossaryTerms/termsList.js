@@ -1,26 +1,22 @@
 import React from 'react'
-import Term from './term'
-import styles from './termsList.module.css'
+import Term from '../../components/Term'
 import PropTypes from 'prop-types'
+import styles from './termsList.module.css'
 
-const TermsList = ({ filesList, textFilter }) => {
-  let glossaryTerms = filesList.map(node => {
+const TermsList = ({ termsData }) => {
+  return termsData.map(child => {
     return (
       <Term
-        anchorId={node.file.name}
-        key={node.file.publicURL}
-        publicURL={node.file.publicURL}
-        textFilter={textFilter}
+        key={child.node.id}
+        data={{ markdownRemark: child.node }}
+        titleStyle={styles.termTitle}
       />
     )
   })
-
-  return <div className={styles.list}>{glossaryTerms}</div>
 }
 
 TermsList.propTypes = {
-  filesList: PropTypes.array.isRequired,
-  textFilter: PropTypes.string,
+  termsData: PropTypes.array,
 }
 
 export default TermsList

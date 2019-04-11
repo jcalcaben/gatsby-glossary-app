@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import Helmet from 'react-helmet'
 import { useStaticQuery, graphql } from 'gatsby'
-import { Header, Panel, Navigation } from '../../layouts'
+import { Header, Panel } from '../../layouts'
+import Navigation from '../Navigation'
 import '../../static/css/reset.css'
 import '../../templates/globals.css'
 
@@ -20,13 +21,16 @@ const Layout = props => {
             description
           }
         }
-        navigation: allTermsJson(
-          filter: { types: { eq: "glossary" } }
-          sort: { fields: [title] }
-        ) {
+        navigation: allMarkdownRemark(sort: { fields: [fields___slug] }) {
           termsList: edges {
             term: node {
-              name: title
+              frontmatter {
+                title
+              }
+              id
+              fields {
+                slug
+              }
             }
           }
         }
@@ -51,7 +55,7 @@ const Layout = props => {
           />
         </header>
 
-        <main>{children}</main>
+        <main className={styles.main}>{children}</main>
 
         <Panel
           active={showPanel}

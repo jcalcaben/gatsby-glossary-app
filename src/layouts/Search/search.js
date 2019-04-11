@@ -25,7 +25,9 @@ const Search = props => {
     let results = getSearchResults(event.target.value)
     setSearchResults(results)
     // decide if we need to show results or not
-    event.target.value.length && results.length > 0 ? setShowResults(true) : setShowResults(false)
+    event.target.value.length && results.length > 0
+      ? setShowResults(true)
+      : setShowResults(false)
   }
 
   const handleToggleClick = event => {
@@ -89,10 +91,7 @@ const Search = props => {
             &times;
           </button>
         </div>
-        <SearchResults
-          active={showResults}
-          results={searchResults}
-        />
+        <SearchResults active={showResults} results={searchResults} />
       </div>
 
       <button className={style.searchToggle} onClick={handleToggleClick}>

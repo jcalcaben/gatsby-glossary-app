@@ -8,32 +8,18 @@ export default IndexPage
 
 export const query = graphql`
   {
-    filesData: allFile(
-      filter: { relativeDirectory: { eq: "terms" } }
-      sort: { fields: [name] }
-    ) {
-      files: edges {
-        file: node {
+    allMarkdownRemark {
+      edges {
+        node {
+          frontmatter {
+            title
+            wordClasses
+            tags
+            synonyms
+            relatedTerms
+          }
+          html
           id
-          relativePath
-          relativeDirectory
-          name
-          publicURL
-        }
-      }
-    }
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    navigation: allTermsJson(
-      filter: { types: { eq: "glossary" } }
-      sort: { fields: [title] }
-    ) {
-      termsList: edges {
-        term: node {
-          name: title
         }
       }
     }
