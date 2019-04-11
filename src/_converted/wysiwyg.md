@@ -3,7 +3,7 @@
   wordClasses: 
     - "adjective"
   tags: 
-    - "Design"
+    - "design"
   synonyms: []
   readMore: []
 ---

@@ -3,7 +3,7 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Magento Software"
+    - "magento-software"
   synonyms: []
   relatedTerms: 
     - "Overview of Ownerships and Permissions"

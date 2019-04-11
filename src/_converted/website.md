@@ -4,7 +4,7 @@
     - "noun"
   tags: 
     - "Magento Software"
-    - "Design"
+    - "design"
     - "Product"
   synonyms: []
   relatedTerms: 

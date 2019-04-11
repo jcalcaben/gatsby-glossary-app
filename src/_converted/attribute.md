@@ -1,15 +1,21 @@
 ---
   title: "attribute"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
-    - "Magento Software"
+  tags:
+    - "magento-software"
     - "Product"
-  synonyms: 
+  synonyms:
     - "product attribute"
     - "custom attribute"
-  relatedTerms: 
+  relatedTerms:
     - "extension attributes"
-  readMore: []
+  readMore:
+    - label: EAV and extension extension_attributes
+      url: https://devdocs.magento.com/guides/v2.3/extension-dev-guide/attributes.html
 ---
-A characteristic or property of a product that includes anything describing a product. Examples: color, size, weight, price. Magento users can create custom attributes to add to the default set.
+A characteristic or property of a product that describes some aspect of the product. Magento users can create custom attributes to add to the default attribute set or a custom attribute set. Create these attributes through the Magento Admin or programmatically. Examples: color, size, weight, price, age, gender, etc.
+
+Custom attributes are a type of Entity-Attribute-Value (EAV) attribute.
+
+For integrations like Google Shopping ads Channel and Amazon Sales Channel, you map Magento attributes to attributes in the third-party to properly display and sell products, display ads, etc.

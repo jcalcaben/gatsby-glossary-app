@@ -1,12 +1,13 @@
 ---
   title: "authorization"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
-    - "Magento Software"
+  tags:
+    - "magento-software"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "capture"
-  readMore: []
+  readMore:
+    -
 ---
 To grant permission for a user or service to perform actions, or gain access to resources.

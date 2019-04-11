@@ -1,15 +1,16 @@
 ---
   title: "admin"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
-  synonyms: 
+  synonyms:
     - "administrator"
     - "super user"
-  relatedTerms: 
+  relatedTerms:
     - "magento-admin"
-  readMore: 
-    - [Adding Users](https://docs.magento.com/m2/ce/user_guide/system/permissions-users-all.html)
+  readMore:
+    - label: Adding Users
+      url: https://docs.magento.com/m2/ce/user_guide/system/permissions-users-all.html)
 ---
 In software, a user role with full administrator privileges to manage all functionality. In Magento, admin users have full permissions and access to all features, options, and capabilities in the Magento Admin. They can also create users and roles.

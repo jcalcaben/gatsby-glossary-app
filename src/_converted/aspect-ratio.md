@@ -3,8 +3,8 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Design"
+    - "design"
   synonyms: []
   readMore: []
 ---
-The proportional relationship between the width and height of an image.
+The proportional relationship between the width and height of an image. 

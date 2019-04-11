@@ -3,8 +3,8 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Design"
-    - "Magento Software"
+    - "design"
+    - "magento-software"
   synonyms: []
   relatedTerms: 
     - "layout instructions"

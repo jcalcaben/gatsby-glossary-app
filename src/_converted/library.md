@@ -3,7 +3,7 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Magento Software"
+    - "magento-software"
   synonyms: []
   relatedTerms: 
     - "third-party library"

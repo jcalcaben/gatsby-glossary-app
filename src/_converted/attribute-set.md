@@ -1,12 +1,12 @@
 ---
   title: "attribute set"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
-    - "Magento Software"
-    - "Product"
+  tags:
+    - "magento-software"
+    - "product"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "attribute"
   readMore: []
 ---
