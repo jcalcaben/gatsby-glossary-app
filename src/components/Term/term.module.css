@@ -1,0 +1,9 @@
+.default {
+    padding: 20px;
+}
+
+.wordClass {
+    font-size: 15px;
+    line-height: 18px;
+    color: #696969;
+}

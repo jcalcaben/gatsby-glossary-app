@@ -2,9 +2,9 @@
   title: "Magento Admin"
   wordClasses:
     - "noun"
-  tags:
+  tags: 
     - "magento-software"
-  synonyms:
+  synonyms: 
     - "Admin"
     - "Admin Panel"
     - "backend"
