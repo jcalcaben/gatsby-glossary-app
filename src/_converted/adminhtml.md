@@ -7,8 +7,9 @@
   synonyms: []
   relatedTerms: 
     - "area"
-    - "Magento Admin"
+    - "magento-admin"
   readMore: 
-    - [Magento User Guide](https://docs.magento.com/m2/ce/user_guide/getting-started.html)
+    - label: Magento User Guide
+      url: https://docs.magento.com/m2/ce/user_guide/getting-started.html
 ---
 The internal area name assigned to the Magento Admin.
