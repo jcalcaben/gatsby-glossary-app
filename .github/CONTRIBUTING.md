@@ -65,7 +65,7 @@ Focus on the content with useful information, code samples, and important notes 
 
 Use the following guidelines to help you with the writing process:
 
-- Definte the term. What would be helpful for the community and developers?
+- Define the term. What would be helpful for the community and developers?
 - Consider acronyms and synonyms. These help locate and define terms.
 - Keep your sentences concise.
 - Batch several small changes into a single pull request (instead of separate ones) to ensure your contributions get approved and merged quickly. Have several typo fixes across several terms? Batch them into one PR.
