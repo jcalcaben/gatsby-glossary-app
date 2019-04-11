@@ -15,7 +15,7 @@ export default ({ data }) => {
             {relatedTerms ? (
                 <div>
                     See also: {relatedTerms.map((term, index) => 
-                        <Link className={styles.relatedTermLink} to={'/_converted/' + term} key={index}>{term}</Link>
+                        <Link className={styles.relatedTermLink} to={`/${term}/`} key={index}>{term}</Link>
                 )}
                 </div>
             ) : null}
