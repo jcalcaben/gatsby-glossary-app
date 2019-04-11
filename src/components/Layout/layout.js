@@ -51,7 +51,7 @@ const Layout = props => {
           />
         </header>
 
-        <main>{children}</main>
+        <main className={styles.main}>{children}</main>
 
         <Panel
           active={showPanel}
