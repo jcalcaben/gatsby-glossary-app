@@ -13,14 +13,12 @@ class App extends Component {
   }
 
   updateTextFilter(value) {
-    console.log(value)
     this.setState({ textFilter: value.toLowerCase() })
   }
 
   render() {
-    let { allMarkdownRemark } = this.props.data
-
-    let { edges } = allMarkdownRemark
+    const { allMarkdownRemark } = this.props.data
+    const { edges } = allMarkdownRemark
 
     return (
       <Layout>
