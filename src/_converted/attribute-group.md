@@ -1,11 +1,11 @@
 ---
   title: "attribute group"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
-    - "Magento Software"
+  tags:
+    - "magento-software"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "attribute"
   readMore: []
 ---

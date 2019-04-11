@@ -1,11 +1,11 @@
 ---
   title: "extension attribute"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
-    - "Magento Software"
+  tags:
+    - "magento-software"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "attribute"
     - "EAV and extension attributes"
   readMore: []
