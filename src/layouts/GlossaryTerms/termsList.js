@@ -4,12 +4,7 @@ import PropTypes from 'prop-types'
 
 const TermsList = ({ termsData }) => {
   return termsData.map(child => {
-    return (
-      <Term
-        key={child.node.id}
-        data={{ markdownRemark: child.node }}
-      />
-    )
+    return <Term key={child.node.id} data={{ markdownRemark: child.node }} />
   })
 }
 
