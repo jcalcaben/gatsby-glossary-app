@@ -3,12 +3,12 @@ import styles from './term.module.css'
 import Tag from '../Tag'
 import { Link, navigate } from 'gatsby'
 
-export default ({ data }) => {
+export default ({ data, titleStyle }) => {
   const { frontmatter } = data.markdownRemark
   const { title, wordClasses, relatedTerms, tags } = frontmatter
   return (
     <div className={styles.term}>
-      <span className={styles.termTitle}>{title}</span>
+      <span className={`${styles.termTitle} ${titleStyle}`}>{title}</span>
       <span className={styles.wordClass}>{wordClasses.join(', ')}</span>
       <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
       {relatedTerms ? (
