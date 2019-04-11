@@ -1,29 +1,25 @@
 import React from 'react'
 import style from './navigation.module.css'
-import { Link } from 'gatsby'
+import Group from './group'
 
 const navigation = ({ termsList }) => {
   if (termsList === undefined) return null
 
-  termsList.sort(function(a, b) {
-    return a.term.frontmatter.title
-      .toLowerCase()
-      .localeCompare(b.term.frontmatter.title.toLowerCase())
+  let termGroups = {}
+
+  termsList.forEach(node => {
+    let title = node.term.frontmatter.title.toLowerCase()
+    if (termGroups[title[0]] === undefined) {
+      termGroups[title[0]] = []
+    }
+    termGroups[title[0]].push(node)
   })
 
-  let glossaryTerms = termsList.map(node => {
-    return (
-      <Link
-        key={node.term.id}
-        className={style.navigationItem}
-        to={node.term.fields.slug}
-      >
-        {node.term.frontmatter.title}
-      </Link>
-    )
+  let groups = Object.keys(termGroups).map(key => {
+    return <Group key={key} label={key.toUpperCase()} termsList={termGroups[key]} />
   })
 
-  return <div className={style.navigation}>{glossaryTerms}</div>
+  return <div className={style.navigation}>{groups}</div>
 }
 
 export default navigation
