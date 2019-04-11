@@ -1,0 +1,13 @@
+.reset {
+  background: none;
+  border: 1px solid #959595;
+}
+
+.button {
+  composes: reset;
+  border-radius: 4px;
+  line-height: 14px;
+  font-size: 12px;
+  padding: 5px 10px;
+  color: #757575;
+}

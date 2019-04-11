@@ -1,28 +1,32 @@
 import React from 'react'
 import styles from './term.module.css'
+import Tag from '../Tag'
+import { Link, navigate } from "gatsby"
 
 export default ({ data }) => {
   const { frontmatter } = data.markdownRemark;
   const { title, wordClasses, relatedTerms, tags } = frontmatter;
     return (
     <div className={styles.default}>
-        <h2>{title}</h2>
-        <span className={styles.wordClass}>{wordClasses}</span>
-        <p dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
-        {relatedTerms ? (
-            <div>
-                See also: {relatedTerms.map((term, index) => 
-                    <a href="#" className={styles.relatedTerm} key={index}>{term}</a>
-            )}
-            </div>
-        ) : null}
-        {tags ? (
-            <div>
-                {tags.map((tag, index) => 
-                    <a href="#" className={styles.relatedTerm} key={index}>{tag}</a>
+        <div className={styles.term}>
+            <span className={styles.termTitle}>{title}</span>
+            <span className={styles.wordClass}>{wordClasses.join(', ')}</span>
+            <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
+            {relatedTerms ? (
+                <div>
+                    See also: {relatedTerms.map((term, index) => 
+                        <Link className={styles.relatedTermLink} to={'/_converted/' + term} key={index}>{term}</Link>
                 )}
-            </div>
-        ) : null}
+                </div>
+            ) : null}
+            {tags ? (
+                <div className={styles.tagList}>
+                    {tags.map((tag, index) => 
+                        <Tag clickAction={() => navigate('/tag/' + tag)} key={index}>{tag}</Tag>
+                    )}
+                </div>
+            ) : null}
+        </div>
     </div>
   )
 }

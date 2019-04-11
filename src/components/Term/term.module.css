@@ -1,5 +1,19 @@
 .default {
-    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 10fr 1fr;
+    grid-column-gap: 1em;
+}
+
+.term {
+    display: grid;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.termTitle {
+    font-size: 30px;
+    line-height: 36px;
+    padding: 10px 0;
 }
 
 .wordClass {
@@ -8,7 +22,20 @@
     color: #696969;
 }
 
-.relatedTerm {
-    padding: 0 2px;
+.relatedTermLink {
     text-decoration: none;
+    color: #337AB7;
+}
+
+.relatedTermLink:after {
+    content: ",\00A0";
+    color: unset;
+}
+
+.relatedTermLink:last-of-type:after {
+    content: "";
+}
+
+.tagList {
+    padding: 25px 0;
 }
