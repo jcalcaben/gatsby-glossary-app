@@ -32,10 +32,16 @@ class App extends Component {
               This project is open source and maintained by documentation team.
             </p>
             <div className={styles.introLinks}>
-              <a className={styles.introLink} href="https://github.com/jcalcaben/gatsby-glossary-app">
+              <a
+                className={styles.introLink}
+                href="https://github.com/jcalcaben/gatsby-glossary-app"
+              >
                 GitHub repository
               </a>
-              <a className={styles.introLink} href="https://github.com/jcalcaben/gatsby-glossary-app/wiki">
+              <a
+                className={styles.introLink}
+                href="https://github.com/jcalcaben/gatsby-glossary-app/wiki"
+              >
                 How to contribute
               </a>
             </div>

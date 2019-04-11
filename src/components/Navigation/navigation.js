@@ -1,6 +1,6 @@
 import React from 'react'
 import style from './navigation.module.css'
-import {Link} from 'gatsby'
+import { Link } from 'gatsby'
 
 const navigation = ({ termsList }) => {
   if (termsList === undefined) return null

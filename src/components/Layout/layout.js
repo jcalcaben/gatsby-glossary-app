@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Helmet from 'react-helmet'
 import { useStaticQuery, graphql } from 'gatsby'
-import { Header, Panel} from '../../layouts'
+import { Header, Panel } from '../../layouts'
 import Navigation from '../Navigation'
 import '../../static/css/reset.css'
 import '../../templates/globals.css'
