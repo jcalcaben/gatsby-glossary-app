@@ -8,7 +8,7 @@
     - "verb"
     - "adjective"
   tags: 
-    - "Design"
+    - "design"
   synonyms: 
     - "login"
     - "log in"

@@ -1,10 +1,11 @@
 ---
   title: "average inventory cost"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
-    - "Product"
-    - "Pricing"
+  tags:
+    - "product"
+    - "pricing"
+    - "inventory"
   synonyms: []
   readMore: []
 ---
