@@ -1,7 +1,5 @@
 import React from 'react'
-import NavigationItem from './navigationItem'
 import style from './navigation.module.css'
-import encodeTermTitle from './encodeTermTitle'
 import {Link} from 'gatsby'
 
 const navigation = ({ termsList }) => {
