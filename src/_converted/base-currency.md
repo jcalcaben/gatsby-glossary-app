@@ -3,7 +3,7 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Pricing"
+    - "pricing"
   synonyms: []
   readMore: []
 ---

@@ -4,7 +4,7 @@
     - "noun"
     - "adjective"
   tags: 
-    - "Programming"
+    - "programming"
   synonyms: 
     - "server side"
   relatedTerms: 

@@ -5,8 +5,8 @@
     - "adjective"
     - "verb"
   tags: 
-    - "Business / Marketing"
-    - "Product"
+    - "business"
+    - "product"
   synonyms: []
   relatedTerms: 
     - "upsell"

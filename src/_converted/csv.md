@@ -3,7 +3,7 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Business / Marketing"
+    - "business"
   synonyms: 
     - "comma-separated values"
   readMore: []

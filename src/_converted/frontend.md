@@ -4,7 +4,7 @@
     - "adjective"
   tags: 
     - "design"
-    - "Programming"
+    - "programming"
   synonyms: 
     - "client side"
   relatedTerms: 

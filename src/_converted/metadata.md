@@ -3,9 +3,9 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Business / Marketing"
+    - "business"
     - "design"
-    - "Programming"
+    - "programming"
   synonyms: []
   readMore: []
 ---

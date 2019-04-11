@@ -4,7 +4,7 @@
     - "noun"
   tags:
     - "magento-software"
-    - "Product"
+    - "product"
   synonyms:
     - "product attribute"
     - "custom attribute"

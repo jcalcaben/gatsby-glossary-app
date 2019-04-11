@@ -3,7 +3,7 @@
   wordClasses: 
     - "verb"
   tags: 
-    - "Business / Marketing"
+    - "business"
   synonyms: []
   relatedTerms: 
     - "authorization"

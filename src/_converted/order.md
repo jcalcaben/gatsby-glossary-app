@@ -4,8 +4,8 @@
     - "noun"
     - "verb"
   tags: 
-    - "Business / Marketing"
-    - "Order"
+    - "business"
+    - "order"
   synonyms: []
   relatedTerms: 
     - "order status"

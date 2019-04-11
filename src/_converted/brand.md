@@ -4,7 +4,7 @@
     - "noun"
     - "verb"
   tags: 
-    - "Business / Marketing"
+    - "business"
   synonyms: []
   readMore: []
 ---

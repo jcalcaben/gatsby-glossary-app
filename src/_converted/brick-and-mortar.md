@@ -3,7 +3,7 @@
   wordClasses: 
     - "adjective"
   tags: 
-    - "Business / Marketing"
+    - "business"
   synonyms: []
   readMore: []
 ---

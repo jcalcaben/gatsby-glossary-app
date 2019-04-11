@@ -3,9 +3,9 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Business / Marketing"
-    - "Order"
-    - "Pricing"
+    - "business"
+    - "order"
+    - "pricing"
   synonyms: 
     - "FOB"
   readMore: []

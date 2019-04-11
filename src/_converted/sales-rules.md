@@ -3,8 +3,8 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Magento Software"
-    - "Product"
+    - "magento-software"
+    - "product"
   synonyms: []
   relatedTerms: 
     - "cart rule"

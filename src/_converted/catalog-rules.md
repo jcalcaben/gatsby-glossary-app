@@ -4,8 +4,8 @@
     - "noun"
   tags: 
     - "magento-software"
-    - "Pricing"
-    - "Product"
+    - "pricing"
+    - "product"
   synonyms: []
   relatedTerms: 
     - "cart rule"

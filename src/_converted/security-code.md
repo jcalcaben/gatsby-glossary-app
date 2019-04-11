@@ -3,7 +3,7 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Business / Marketing"
+    - "business"
   synonyms: 
     - "card security code"
     - "CSC"

@@ -3,10 +3,10 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Business / Marketing"
+    - "business"
     - "design"
-    - "Product"
-    - "Programming"
+    - "product"
+    - "programming"
   synonyms: 
     - "cart"
     - "basket"

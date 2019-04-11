@@ -3,9 +3,9 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Business / Marketing"
-    - "Order"
-    - "Programming"
+    - "business"
+    - "order"
+    - "programming"
   synonyms: []
   readMore: []
 ---

@@ -3,9 +3,9 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Magento Software"
+    - "magento-software"
     - "design"
-    - "Product"
+    - "product"
   synonyms: []
   relatedTerms: 
     - "store"

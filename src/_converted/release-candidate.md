@@ -3,8 +3,8 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Magento Software"
-    - "Programming"
+    - "magento-software"
+    - "programming"
   synonyms: 
     - "beta version"
     - "RC"

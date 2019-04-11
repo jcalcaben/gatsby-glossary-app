@@ -4,7 +4,7 @@
     - "noun"
   tags: 
     - "design"
-    - "Programming"
+    - "programming"
   synonyms: []
   relatedTerms: 
     - "HTML"
