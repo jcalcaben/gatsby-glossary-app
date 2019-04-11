@@ -39,6 +39,6 @@
 
 @media (min-width: 769px) {
   .introLinks {
-    grid-template-columns: 1fr 1fr 4fr;
+    grid-template-columns: 160px 160px 1fr;
   }
 }
