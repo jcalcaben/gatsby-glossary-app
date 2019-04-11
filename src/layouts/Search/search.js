@@ -2,10 +2,10 @@ import React, { useState, useRef } from 'react'
 import Scrim from '../Scrim'
 
 import searchIcon from './search-icon.svg'
-import SearchResults from './SearchResults'
 
 import style from './search.module.css'
 import Results from './results'
+import SearchResults from './SearchResults'
 
 function Search2() {
   const [searchTerm, setSearchTerm] = useState()
@@ -68,11 +68,9 @@ const Search = props => {
   const handleChange = event => {
     setValue(event.target.value)
     let results = getSearchResults(event.target.value)
-    if (results.length > 0) {
-      setSearchResults(results)
-    }
+    setSearchResults(results)
     // decide if we need to show results or not
-    event.target.value.length ? setShowResults(true) : setShowResults(false)
+    event.target.value.length && results.length > 0 ? setShowResults(true) : setShowResults(false)
   }
 
   const handleToggleClick = event => {
@@ -139,7 +137,6 @@ const Search = props => {
         <SearchResults
           active={showResults}
           results={searchResults}
-          relatedResults={[]}
         />
       </div>
 

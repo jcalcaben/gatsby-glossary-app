@@ -1,30 +1,12 @@
 import React from 'react'
 
 import NavigationItem from '../GlossaryTerms/navigationItem'
+import { Link } from 'gatsby'
 
 import style from './searchResults.module.css'
 
-const List = props => {
-  const { items } = props
-
-  return (
-    <div>
-      {items.map((item, index) => {
-        return (
-          <NavigationItem
-            key={index}
-            anchorName={item.anchorName}
-            title={item.title}
-            classes={style.searchResultsItem}
-          />
-        )
-      })}
-    </div>
-  )
-}
-
 const SearchResults = props => {
-  const { active, results, relatedResults } = props
+  const { active, results, relatedResults = [] } = props
 
   if (results === undefined) return null
 
@@ -32,14 +14,34 @@ const SearchResults = props => {
     ' '
   )
 
+  const listItems = results.map(child => {
+    return (
+      <li key={child.url} className={style.result}>
+        <Link className={style.resultLink} to={child.url}>
+          {child.title}
+        </Link>
+      </li>
+    )
+  })
+
+  const relatedItems = relatedResults.map(child => {
+    return (
+      <li key={child.url} className={style.relatedResult}>
+        <Link className={style.resultLink} to={child.url}>
+          {child.title}
+        </Link>
+      </li>
+    )
+  })
+
   return (
     <div className={className}>
-      <List items={results} />
+      <ul className={style.results}>{listItems}</ul>
 
-      {relatedResults ? (
+      {relatedItems.length > 0 ? (
         <>
           <h3 className={style.searchResultsSubtitle}>Related terms</h3>
-          <List items={relatedResults} />
+          <ul className={style.relatedResults}>{relatedItems}</ul>
         </>
       ) : null}
     </div>
