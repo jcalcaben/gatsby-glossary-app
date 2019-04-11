@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../components/Layout'
 import Term from '../components/Term'
-import { graphql } from "gatsby"
+import { graphql } from 'gatsby'
 
 export default ({ data }) => {
   return (
