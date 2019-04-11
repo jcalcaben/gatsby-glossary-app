@@ -3,8 +3,8 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Business / Marketing"
-    - "Magento Software"
+    - "business"
+    - "magento-software"
   synonyms: []
   relatedTerms: 
     - "block"

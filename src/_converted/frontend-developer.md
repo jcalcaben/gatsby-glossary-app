@@ -1,12 +1,12 @@
 ---
   title: "frontend developer"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
-    - "Programming"
+    - "programming"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "HTML"
     - "CSS"
     - "JavaScript"

@@ -1,12 +1,12 @@
 ---
   title: "JavaScript"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
-    - "Programming"
+    - "programming"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "HTML"
     - "UI component"
   readMore: []

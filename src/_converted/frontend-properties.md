@@ -1,10 +1,10 @@
 ---
   title: "frontend properties"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
-    - "Programming"
+    - "programming"
   synonyms: []
   readMore: []
 ---

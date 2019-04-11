@@ -1,12 +1,12 @@
 ---
   title: "downloadable product"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
-    - "Product"
+    - "product"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "product types"
   readMore: []
 ---

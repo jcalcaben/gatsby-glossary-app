@@ -1,10 +1,10 @@
 ---
   title: "category"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
-    - "Product"
+    - "product"
   synonyms: []
   readMore: []
 ---

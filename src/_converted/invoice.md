@@ -3,8 +3,8 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Business / Marketing"
-    - "Order"
+    - "business"
+    - "order"
   synonyms: []
   relatedTerms: 
     - "quote"

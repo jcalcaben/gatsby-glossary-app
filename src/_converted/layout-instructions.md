@@ -1,12 +1,12 @@
 ---
   title: "layout instructions"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
-    - "Programming"
+    - "programming"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "layout"
     - "block"
     - "containers"

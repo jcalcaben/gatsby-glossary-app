@@ -1,10 +1,10 @@
 ---
   title: "robots.txt"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
-    - "Programming"
+    - "programming"
   synonyms: []
   readMore: []
 ---

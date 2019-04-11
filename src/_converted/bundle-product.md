@@ -1,12 +1,12 @@
 ---
   title: "bundle product"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
-    - "Product"
+    - "product"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "simple product"
     - "virtual product"
     - "product types"

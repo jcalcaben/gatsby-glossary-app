@@ -1,9 +1,9 @@
 ---
   title: "bounce rate"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
-    - "Business / Marketing"
+  tags:
+    - "business"
   synonyms: []
   readMore: []
 ---

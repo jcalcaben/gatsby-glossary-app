@@ -3,7 +3,7 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Programming"
+    - "programming"
   synonyms: []
   relatedTerms: 
     - "module"

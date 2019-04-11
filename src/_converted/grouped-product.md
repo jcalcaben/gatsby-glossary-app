@@ -1,12 +1,12 @@
 ---
   title: "grouped product"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
-    - "Product"
+    - "product"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "simple product"
     - "product types"
   readMore: []

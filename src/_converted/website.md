@@ -1,13 +1,13 @@
 ---
   title: "website"
-  wordClasses: 
+  wordClasses:
     - "noun"
   tags: 
-    - "Magento Software"
+    - "magento-software"
     - "design"
-    - "Product"
+    - "product"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "store"
     - "store view"
   readMore: []

@@ -3,10 +3,10 @@
   wordClasses: 
     - "noun"
   tags: 
-    - "Business / Marketing"
-    - "Pricing"
-    - "Product"
-    - "Programming"
+    - "business"
+    - "pricing"
+    - "product"
+    - "programming"
   synonyms: []
   readMore: []
 ---

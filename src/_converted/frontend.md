@@ -1,13 +1,13 @@
 ---
   title: "frontend"
-  wordClasses: 
+  wordClasses:
     - "adjective"
-  tags: 
+  tags:
     - "design"
-    - "Programming"
-  synonyms: 
+    - "programming"
+  synonyms:
     - "client side"
-  relatedTerms: 
+  relatedTerms:
     - "backend"
     - "storefront"
     - "cache frontend"

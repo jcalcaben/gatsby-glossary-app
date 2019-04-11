@@ -1,16 +1,16 @@
 ---
   title: "shopping cart"
-  wordClasses: 
+  wordClasses:
     - "noun"
   tags: 
-    - "Business / Marketing"
+    - "business"
     - "design"
-    - "Product"
-    - "Programming"
-  synonyms: 
+    - "product"
+    - "programming"
+  synonyms:
     - "cart"
     - "basket"
-  relatedTerms: 
+  relatedTerms:
     - "cart rule"
   readMore: []
 ---

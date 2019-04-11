@@ -1,13 +1,13 @@
 ---
   title: "checkout"
-  wordClasses: 
+  wordClasses:
     - "noun"
   tags: 
-    - "Business / Marketing"
+    - "business"
     - "design"
-    - "Order"
-    - "Product"
-    - "Programming"
+    - "order"
+    - "product"
+    - "programming"
   synonyms: []
   readMore: []
 ---
