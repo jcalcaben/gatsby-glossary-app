@@ -1,50 +1,33 @@
-import React from 'react'
+import React, { useState } from 'react'
 import style from './search.module.css'
+import Results from './results'
 
-class Search extends React.Component {
-  constructor(props) {
-    super(props)
-    this.state = {
-      value: '',
-    }
-    this.handleChange = this.handleChange.bind(this)
-    this.runChangeHandler = this.runChangeHandler.bind(this)
-    this.resetTimeout = this.resetTimeout.bind(this)
-  }
+function Search() {
+  const [searchTerm, setSearchTerm] = useState()
+  const [searchResults, setSearchResults] = useState([])
 
-  handleChange(event) {
-    this.setState({ value: event.target.value })
-    this.resetTimeout()
-  }
+  return (
+    <div className={style.searchBar}>
+      <input
+        className={style.textInput}
+        type="text"
+        value={searchTerm}
+        onChange={event => {
+          let results = getSearchResults(event.target.value);
+          setSearchResults(results);
+        }}
+        placeholder="Search glossary"
+      />
+      <Results>{searchResults}</Results>
+    </div>
+  )
+}
 
-  resetTimeout() {
-    if (this.timeoutId) {
-      window.clearTimeout(this.timeoutId)
-    }
-
-    this.timeoutId = window.setTimeout(this.runChangeHandler, 500)
-  }
-
-  runChangeHandler() {
-    if (this.timeoutId) {
-      window.clearTimeout(this.timeoutId)
-    }
-    this.props.changeHandler(this.state.value)
-  }
-
-  render() {
-    return (
-      <div className={style.searchBar}>
-        <input
-          className={style.textInput}
-          type="text"
-          value={this.state.value}
-          onChange={this.handleChange}
-          placeholder="Search glossary"
-        />
-      </div>
-    )
-  }
+function getSearchResults(query) {
+  if (!query || !window.__LUNR__) return []
+  const lunrIndex = window.__LUNR__['en']
+  const results = lunrIndex.index.search(query) // you can  customize your search , see https://lunrjs.com/guides/searching.html
+  return results.map(({ ref }) => lunrIndex.store[ref])
 }
 
 export default Search
