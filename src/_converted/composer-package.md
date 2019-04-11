@@ -1,13 +1,13 @@
 ---
   title: "Composer package"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
-    - "Composer"
-    - "Composer website"
+  relatedTerms:
+    - "composer"
+    - "composer-website"
     - "package"
   readMore: []
 ---

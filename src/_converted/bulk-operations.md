@@ -5,6 +5,7 @@
   tags:
     - "programming"
   synonyms: []
+  relatedTerms: []
   readMore:
     - label: Bulk Operations
       url: https://devdocs.magento.com/guides/v2.3/extension-dev-guide/message-queues/bulk-operations.html

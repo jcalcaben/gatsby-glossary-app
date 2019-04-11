@@ -1,11 +1,12 @@
 ---
   title: "packing slip"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
     - "order"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 A document usually included in a shipped package that describes the contents. Packing slips do not include financial or account information.

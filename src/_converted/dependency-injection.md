@@ -1,10 +1,11 @@
 ---
   title: "dependency injection"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 A software design pattern that allows a class to specify its dependencies without having to construct them. This class delegates the responsibility of injecting the dependency to the calling class. Used to make testing easier. To define dependencies for classes, edit the di.xml configuration file.

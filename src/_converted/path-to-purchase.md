@@ -1,10 +1,11 @@
 ---
   title: "path to purchase"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 The path a prospect follows that leads to a sale.

@@ -1,10 +1,11 @@
 ---
   title: "complex data"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 Data that is associated with multiple product options.

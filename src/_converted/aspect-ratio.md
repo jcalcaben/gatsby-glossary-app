@@ -1,10 +1,11 @@
 ---
   title: "aspect ratio"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
   synonyms: []
+  related-terms: []
   readMore: []
 ---
-The proportional relationship between the width and height of an image. 
+The proportional relationship between the width and height of an image.

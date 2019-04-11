@@ -1,12 +1,11 @@
 ---
   title: "Magento file system owner"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
   synonyms: []
-  relatedTerms: 
-    - "Overview of Ownerships and Permissions"
+  relatedTerms: []
   readMore: []
 ---
 The user who owns files in the Magento file system. It’s very important to set up this user properly. Different hosting setups have different requirements.

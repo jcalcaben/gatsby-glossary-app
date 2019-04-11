@@ -1,12 +1,12 @@
 ---
   title: "metapackage"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
-    - "Composer types"
+  relatedTerms:
+    - "composer-types"
     - "package"
   readMore: []
 ---

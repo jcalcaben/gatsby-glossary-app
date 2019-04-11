@@ -1,11 +1,12 @@
 ---
   title: "credit memo item"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
     - "order"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 An invoiced item for which a merchant creates a credit memo.

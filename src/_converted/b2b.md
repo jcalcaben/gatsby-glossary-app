@@ -6,7 +6,7 @@
     - "business"
   synonyms: []
   relatedTerms:
-    - "B2C"
+    - "b2c"
   readMore:
     - label: Magento B2B User Guide
       url: https://docs.magento.com/m2/b2b/user_guide/getting-started.html

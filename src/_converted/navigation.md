@@ -1,10 +1,11 @@
 ---
   title: "navigation"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 The primary group of web page links in a user interface that a customer uses to navigate the website, finding information and functionality. The navigation links to the most important categories or pages on an online store. Navigation in the UI includes global navigation, footer navigation, local navigation, related links, utility navigation, breadcrumbs, and filters.

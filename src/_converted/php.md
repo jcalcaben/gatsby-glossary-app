@@ -1,13 +1,13 @@
 ---
   title: "PHP"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "backend"
-    - "HTML"
+    - "html"
   readMore: []
 ---
 An open-source, server-side (backend) scripting language designed mainly for web development. The script is embedded within a Web page’s HTML. When a user has requested the page, the Web server calls PHP to read the script and perform its operation.

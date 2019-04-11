@@ -1,10 +1,11 @@
 ---
   title: "gross margin"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 The difference between the cost and price of a product.

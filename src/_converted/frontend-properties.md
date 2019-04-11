@@ -6,6 +6,7 @@
     - "design"
     - "programming"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 Properties that determine the presentation and behavior of an attribute from the standpoint of the customer in your store.

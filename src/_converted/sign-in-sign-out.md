@@ -1,15 +1,15 @@
 ---
   title: "sign in, sign out"
-  wordClasses: 
+  wordClasses:
     - "noun"
     - "verb"
     - "adjective"
     - "noun"
     - "verb"
     - "adjective"
-  tags: 
+  tags:
     - "design"
-  synonyms: 
+  synonyms:
     - "login"
     - "log in"
     - "authenticate"
@@ -17,6 +17,7 @@
     - "unauthenticated"
     - "logged in"
     - "logged out"
+  relatedTerms: []
   readMore: []
 ---
 The process of signing in to, and signing out of, an online account.

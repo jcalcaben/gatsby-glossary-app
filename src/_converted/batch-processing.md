@@ -6,6 +6,7 @@
     - "programming"
   synonyms:
     - "bulk-operations"
+  relatedTerms: []
   readMore: []
 ---
 To perform a task or make a change to multiple items all at once, without manual repetition.

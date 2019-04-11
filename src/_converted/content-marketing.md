@@ -1,10 +1,11 @@
 ---
   title: "content marketing"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 The art of promoting products or services by providing valuable information at no charge.

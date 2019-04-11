@@ -1,11 +1,12 @@
 ---
   title: "content delivery network"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
-  synonyms: 
+  synonyms:
     - "CDN"
+  relatedTerms: []
   readMore: []
 ---
 A large distributed network of servers that specializes in the high performance delivery of multimedia content.

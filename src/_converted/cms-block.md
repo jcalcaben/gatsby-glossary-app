@@ -7,7 +7,7 @@
   synonyms: []
   relatedTerms:
     - "block"
-    - "static block"
+    - "static-block"
   readMore:
     - label: CMS Blocks
       url: https://docs.magento.com/m2/ce/user_guide/cms/blocks.html
