@@ -1,10 +1,11 @@
 ---
   title: "fulfillment"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 The process of managing customer shipments.

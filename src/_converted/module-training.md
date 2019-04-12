@@ -1,10 +1,11 @@
 ---
   title: "module (training)"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 The smaller sections within an on-demand course.

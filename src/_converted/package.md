@@ -1,14 +1,14 @@
 ---
   title: "package"
-  wordClasses: 
+  wordClasses:
     - "verb"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
-    - "Composer package"
-    - "language package"
-    - "meta package"
+  relatedTerms:
+    - "composer-package"
+    - "language-package"
+    - "meta-package"
   readMore: []
 ---
 The process of creating a distributable module for Magento Marketplace or another distribution system.

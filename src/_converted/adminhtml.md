@@ -1,14 +1,14 @@
 ---
   title: "adminhtml"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "area"
     - "magento-admin"
-  readMore: 
+  readMore:
     - label: Magento User Guide
       url: https://docs.magento.com/m2/ce/user_guide/getting-started.html
 ---

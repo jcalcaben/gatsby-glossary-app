@@ -1,11 +1,12 @@
 ---
   title: "conversion rate"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
     - "order"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 The percentage of visitors who are converted into buyers.

@@ -1,11 +1,11 @@
 ---
   title: "entity"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "attribute"
     - "cart rule"
     - "catalog rule"

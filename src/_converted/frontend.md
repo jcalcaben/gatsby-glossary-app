@@ -10,7 +10,7 @@
   relatedTerms:
     - "backend"
     - "storefront"
-    - "cache frontend"
+    - "cache-frontend"
   readMore: []
 ---
 In a client-server application, there is the backend and frontend. The frontend component, or client, is an interface that enables users to manipulate or interact with the underlying backend code. Backend code runs on a server. A user cannot directly access backend code. A user interacts with the storefront, which in turn uses code running on the Magento server.

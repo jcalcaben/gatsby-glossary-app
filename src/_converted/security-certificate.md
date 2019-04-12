@@ -1,10 +1,11 @@
 ---
   title: "security certificate"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 A tool which securely validates and encrypts data that travels both ways between the browser (client) and server. Sites with a security certificate use the “HTTPS” protocol, displayed in the web address bar. SSL is the standard certificate.

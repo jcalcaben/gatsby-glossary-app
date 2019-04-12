@@ -1,15 +1,15 @@
 ---
   title: "module"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
   synonyms: []
-  relatedTerms: 
-    - "Module Reference"
-    - "Magento Module"
-    - "PHP"
-    - "XML"
+  relatedTerms:
+    - "module-reference"
+    - "magento-module"
+    - "php"
+    - "xml"
     - "block"
   readMore: []
 ---

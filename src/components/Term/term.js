@@ -6,10 +6,11 @@ import { Link, navigate } from 'gatsby'
 export default ({ data, titleStyle }) => {
   const { frontmatter } = data.markdownRemark
   const { title, wordClasses, relatedTerms, tags } = frontmatter
+  console.log(data)
   return (
     <div className={styles.term}>
-      <span className={`${styles.termTitle} ${titleStyle}`}>{title}</span>
-      <span className={styles.wordClass}>{wordClasses.join(', ')}</span>
+      <h2 className={`${styles.termTitle} ${titleStyle}`}>{title}</h2>
+      <div className={styles.wordClass}>{wordClasses.join(', ')}</div>
       <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
       {relatedTerms ? (
         <div>

@@ -1,12 +1,12 @@
 ---
   title: "translation file"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
-    - "CSV"
+  relatedTerms:
+    - "csv"
   readMore: []
 ---
 Comma-separated value (CSV) message catalog files that provide translations for strings displayed in Magento.

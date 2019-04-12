@@ -1,18 +1,18 @@
 ---
   title: "container"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "layout"
     - "block"
-    - "UI component"
-    - "HTML"
-    - "CSS"
+    - "ui-component"
+    - "html"
+    - "css"
   readMore: []
 ---
-A type of node in a layout tree (along with blocks and UI components), a container is a defined region on a page that generates HTML (composed as an array of variable items in an ordered list) with CSS attributes. 
+A type of node in a layout tree (along with blocks and UI components), a container is a defined region on a page that generates HTML (composed as an array of variable items in an ordered list) with CSS attributes.
 
 The attributes of a container include visibility, horizontal and vertical alignment, autoresizing, edibility, position, and size.

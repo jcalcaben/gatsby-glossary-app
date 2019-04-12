@@ -6,7 +6,7 @@
     - "business"
   synonyms: []
   relatedTerms:
-    - "B2B"
+    - "b2b"
   readMore:
     - label: Magento Open Source User guide
       url: https://docs.magento.com/m2/ce/user_guide/getting-started.html
