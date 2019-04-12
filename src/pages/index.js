@@ -8,7 +8,7 @@ export default IndexPage
 
 export const query = graphql`
   {
-    allMarkdownRemark {
+    allMarkdownRemark(sort: { fields: [fields___slug] }) {
       edges {
         node {
           frontmatter {
