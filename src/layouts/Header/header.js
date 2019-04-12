@@ -11,7 +11,6 @@ const Header = ({ siteTitle, menuClickAction }) => (
     <MenuButton
       text="Menu"
       menuClick={() => {
-        console.log('Menu clicked!')
         menuClickAction()
       }}
       additionalClasses={styles.menu}
