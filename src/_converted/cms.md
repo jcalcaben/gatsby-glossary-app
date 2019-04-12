@@ -7,6 +7,5 @@
   synonyms:
     - "content management system"
   relatedTerms: []
-  readMore: []
 ---
 Abbreviation for "content management system." A software system that is used to create, edit, and maintain content on a website.

@@ -8,7 +8,6 @@
   synonyms: []
   relatedTerms:
     - "product-types"
-  readMore: []
 ---
 A configurable product looks like a single product with drop-down lists of options for each variation. Each option is actually a separate simple product with a unique SKU, which makes it possible to track inventory for each product variation.
 To achieve a similar effect, a simple product can be used with custom options, but without the ability to track inventory for each variation. Products with multiple options are sometimes referred to as composite product.

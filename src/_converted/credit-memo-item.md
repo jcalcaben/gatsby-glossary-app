@@ -7,6 +7,5 @@
     - "order"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 An invoiced item for which a merchant creates a credit memo.

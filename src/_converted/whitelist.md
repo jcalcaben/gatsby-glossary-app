@@ -8,6 +8,5 @@
   synonyms: []
   relatedTerms:
     - "blacklist"
-  readMore: []
 ---
 A method of filtering data that allows only the data specified on a list and nothing else.

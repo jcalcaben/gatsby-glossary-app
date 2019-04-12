@@ -1,12 +1,11 @@
 ---
   title: "third-party library"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "library"
-  readMore: []
 ---
 An external set of code developed by a third-party developer or partner.

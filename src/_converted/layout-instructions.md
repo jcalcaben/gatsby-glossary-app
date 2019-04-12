@@ -11,6 +11,5 @@
     - "block"
     - "containers"
     - "ui-components"
-  readMore: []
 ---
 Markup in a layout file that describes changes to be applied to a structured element tree of blocks, containers, and UI components. A single layout file can contain multiple layout instructions. Layout instructions are encoded in XML in layout files.

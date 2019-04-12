@@ -1,12 +1,11 @@
 ---
   title: "cache frontend"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "frontend"
-  readMore: []
 ---
 Specifies what kind of data is stored in the cache backend.

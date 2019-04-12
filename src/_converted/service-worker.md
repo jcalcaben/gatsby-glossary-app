@@ -10,10 +10,7 @@
     - "PWA Studio"
   relatedTerms:
     - "pwa"
-  readMore:
-    - label: Magento PWA Documentation
-      url: https://magento-research.github.io/pwa-studio/
-    - label: Basic Concepts
-      url: https://magento-research.github.io/pwa-studio/technologies/basic-concepts/
 ---
 A service worker is a script that runs in the background. Progressive web applications use service workers for caching and resource retrieval.
+
+Learn more: [Magento PWA Documentation](https://magento-research.github.io/pwa-studio/), [Basic Concepts](https://magento-research.github.io/pwa-studio/technologies/basic-concepts/)

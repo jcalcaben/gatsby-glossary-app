@@ -7,6 +7,5 @@
   synonyms: []
   relatedTerms:
     - "attribute"
-  readMore: []
 ---
 A logical grouping of attributes within an attribute set.

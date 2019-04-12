@@ -9,7 +9,6 @@
   relatedTerms:
     - "layout-instructions"
     - "block"
-  readMore: []
 ---
 In the construction of a Magento page, a layout is a series of blocks assembled in a hierarchy, representing the structure of the page.
 

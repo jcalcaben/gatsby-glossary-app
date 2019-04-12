@@ -10,7 +10,6 @@
   relatedTerms:
     - "Shared Catalog"
     - "catalog rule"
-  readMore: []
 ---
 For merchants, the catalog represents their product inventory. Within Magento’s architecture, the catalog consists of categories, products, and product attributes.
 

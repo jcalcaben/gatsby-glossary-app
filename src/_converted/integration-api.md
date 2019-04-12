@@ -9,6 +9,5 @@
     - "web API"
   relatedTerms:
     - "api"
-  readMore: []
 ---
 An API endpoint that can be used by third-party applications to access a particular device.
