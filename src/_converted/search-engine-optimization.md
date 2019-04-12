@@ -1,12 +1,12 @@
 ---
   title: "search engine optimization"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
-  synonyms: 
-    - "SEO"
-  relatedTerms: 
+  synonyms:
+    - "seo"
+  relatedTerms:
     - "keyword"
   readMore: []
 ---

@@ -1,13 +1,13 @@
 ---
   title: "PHTML"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
-    - "HTML"
-    - "PHP"
+  relatedTerms:
+    - "html"
+    - "php"
   readMore: []
 ---
 An HTML page including PHP script.

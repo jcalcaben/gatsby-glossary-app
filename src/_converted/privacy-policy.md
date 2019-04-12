@@ -1,10 +1,11 @@
 ---
   title: "privacy policy"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 A document that explains the merchant’s policies for handling customer information.

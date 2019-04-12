@@ -1,11 +1,12 @@
 ---
   title: "XML"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
-  synonyms: 
+  synonyms:
     - "Extensible Markup Language"
+  relatedTerms: []
   readMore: []
 ---
 Abbreviation for "Extensible Markup Language". A markup format derived from SGML that is used to format information for publication and distribution.

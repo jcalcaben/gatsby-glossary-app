@@ -1,10 +1,11 @@
 ---
   title: "locale"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 A set of configurations that defines the user’s language, country, tax rate, and other settings. Example: "en_US".

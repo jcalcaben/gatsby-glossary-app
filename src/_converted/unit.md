@@ -1,10 +1,11 @@
 ---
   title: "unit"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 Each standalone on-demand part of a larger course is called a unit.

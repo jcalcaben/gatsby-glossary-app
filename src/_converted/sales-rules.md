@@ -1,14 +1,14 @@
 ---
   title: "sales rules"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
     - "product"
   synonyms: []
-  relatedTerms: 
-    - "cart rule"
-    - "catalog rule"
+  relatedTerms:
+    - "cart-rule"
+    - "catalog-rule"
   readMore: []
 ---
 Includes cart and catalog rules, which used to price a product for promotions.

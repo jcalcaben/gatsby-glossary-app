@@ -1,13 +1,13 @@
 ---
   title: "Magento component"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
-  synonyms: 
+  synonyms:
     - "component"
-  relatedTerms: 
-    - "UI component"
+  relatedTerms:
+    - "ui-component"
   readMore: []
 ---
 Used to refer to a module, theme, or language package in Magento.

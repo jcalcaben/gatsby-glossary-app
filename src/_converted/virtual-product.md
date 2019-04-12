@@ -1,13 +1,13 @@
 ---
   title: "virtual product"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
     - "product"
   synonyms: []
-  relatedTerms: 
-    - "product types"
+  relatedTerms:
+    - "product-types"
   readMore: []
 ---
 Represents a non-physical product that can be sold, such as a membership, service, warranty, or subscription. Virtual products can be sold individually, or included as part of the following product types: grouped product and bundle product. Does not require shipping or inventory. 

@@ -1,12 +1,12 @@
 ---
   title: "extension"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
   synonyms: []
-  relatedTerms: 
-    - "Magento component"
+  relatedTerms:
+    - "magento-component"
     - "module"
     - "package"
   readMore: []

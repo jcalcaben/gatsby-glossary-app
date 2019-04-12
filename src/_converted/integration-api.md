@@ -1,14 +1,14 @@
 ---
   title: "integration API"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
-  synonyms: 
+  synonyms:
     - "API"
     - "web API"
-  relatedTerms: 
-    - "API"
+  relatedTerms:
+    - "api"
   readMore: []
 ---
 An API endpoint that can be used by third-party applications to access a particular device.
