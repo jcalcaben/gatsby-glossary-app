@@ -30,10 +30,13 @@
 
 .results {
   list-style: none;
-  padding: 0px;
+  padding: 0;
+  margin: 0;
 }
 
 .result {
+  margin: 0;
+  padding: 0;
 }
 
 .resultLink {
@@ -44,5 +47,6 @@
 }
 
 .resultLink:hover {
+  text-decoration: none;
   background-color: #f3f3f3;
 }

@@ -12,6 +12,7 @@
 
 
 .navigationItem:hover {
+  text-decoration: none !important;
   background-color: #f3f3f3;
 }
 

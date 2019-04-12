@@ -9,18 +9,23 @@
   line-height: 14px;
   font-size: 12px;
   padding: 5px 10px;
+  margin: 0 8px 8px 0;
   color: #757575;
+  transition: all .1s;
+}
+
+.button:hover {
+  border-color: #323232;
+  color: #323232;
 }
 
 .tagButtonFilter {
   composes: button;
-  border: 1px solid #323232;
   margin-left: 5px;
 }
 
 .tagButtonFilter:after {
   content: '×';
-  color: #323232;
   font-weight: bold;
   position: relative;
   left: 5px;
