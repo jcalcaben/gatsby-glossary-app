@@ -8,8 +8,8 @@
     - "product"
   synonyms: []
   relatedTerms:
-    - "Shared Catalog"
-    - "catalog rule"
+    - "shared-catalog"
+    - "catalog-rule"
 ---
 For merchants, the catalog represents their product inventory. Within Magento’s architecture, the catalog consists of categories, products, and product attributes.
 

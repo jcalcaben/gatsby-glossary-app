@@ -3,7 +3,7 @@ import styles from './term.module.css'
 import Tag from '../Tag'
 import { Link, navigate } from 'gatsby'
 
-export default ({ data, titleStyle }) => {
+const Term = ({ data, titleStyle }) => {
   const { frontmatter } = data.markdownRemark
   const { title, wordClasses, relatedTerms, tags } = frontmatter
 
@@ -12,7 +12,7 @@ export default ({ data, titleStyle }) => {
       <h2 className={`${styles.termTitle} ${titleStyle}`}>{title}</h2>
       <div className={styles.wordClass}>{wordClasses.join(', ')}</div>
       <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
-      {relatedTerms.length > 0 ? (
+      {Array.isArray(relatedTerms) && relatedTerms.length > 0 ? (
         <div className={styles.seeAlsoSection}>
           See also:{' '}
           {relatedTerms.map((term, index) => (
@@ -26,7 +26,7 @@ export default ({ data, titleStyle }) => {
           ))}
         </div>
       ) : null}
-      {tags.length > 0 ? (
+      {Array.isArray(tags) && tags.length > 0 ? (
         <div className={styles.tagList}>
           {tags.map((tag, index) => (
             <Tag clickAction={() => navigate('/tag/' + tag)} key={index}>
@@ -38,3 +38,5 @@ export default ({ data, titleStyle }) => {
     </div>
   )
 }
+
+export default Term
