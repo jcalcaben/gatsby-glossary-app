@@ -7,6 +7,7 @@
     - "programming"
   synonyms:
     - "Markdown"
+  relatedTerms: []
 ---
 In marketing and retail, a percentage added to the cost of an item to determine the retail price. [Configure the markup](https://docs.magento.com/m2/ce/user_guide/catalog/settings-advanced-custom-options.html), or markdown, of a product through product customizable options.
 
