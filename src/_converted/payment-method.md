@@ -7,7 +7,6 @@
     - "order"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 A way for the customer to pay for merchandise. Payment methods can be internal or external.
 

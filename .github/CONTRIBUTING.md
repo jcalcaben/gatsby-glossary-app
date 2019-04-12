@@ -88,7 +88,6 @@ Template without content. :exclamation: All Metadata must be in every term file.
     - "magento-software"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 Definition.
 ```
@@ -110,9 +109,6 @@ Example term:
     - "Admin UI"
   relatedTerms:
     - "admin"
-  readMore:
-    - label: Magento User Guide
-      url: https://docs.magento.com/m2/ce/user_guide/getting-started.html
 ---
 ```
 

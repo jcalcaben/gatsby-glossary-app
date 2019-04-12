@@ -9,7 +9,6 @@
   relatedTerms:
     - "catalog"
     - "b2b"
-  readMore: []
 ---
 A feature that allows merchants to create a catalog that can serve as their entire catalog or a subset of it, and then assign custom prices for one or more products. Merchants can then assign this catalog to one or more companies.
 

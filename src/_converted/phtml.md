@@ -8,6 +8,5 @@
   relatedTerms:
     - "html"
     - "php"
-  readMore: []
 ---
 An HTML page including PHP script.

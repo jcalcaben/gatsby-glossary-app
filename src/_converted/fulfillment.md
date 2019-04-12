@@ -6,6 +6,5 @@
     - "business"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 The process of managing customer shipments.

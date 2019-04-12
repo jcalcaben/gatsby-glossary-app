@@ -6,7 +6,6 @@
     - "design"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 Abbreviation for "Really Simple Syndication". A technology that creates web content syndication and allows web users to subscribe to product feeds, websites, and blogs. Allows clients to identify new content more efficiently.
 

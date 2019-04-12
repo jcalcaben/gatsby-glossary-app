@@ -7,7 +7,6 @@
   synonyms: []
   relatedTerms:
     - "php"
-  readMore: []
 ---
 A set of symbols used to organize a variety of objects so that the objects may be referred to with a name.
 

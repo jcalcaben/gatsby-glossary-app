@@ -7,7 +7,6 @@
   synonyms: []
   relatedTerms:
     - "module"
-  readMore: []
 ---
 A software framework is a foundation of defined code in which more code can be added to fully customize or build out the software.
 

@@ -6,6 +6,5 @@
     - "programming"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 An abnormal condition that requires special processing.

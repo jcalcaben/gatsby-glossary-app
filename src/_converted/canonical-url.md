@@ -1,13 +1,12 @@
 ---
   title: "canonical URL"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "search engine optimization"
     - "URL"
-  readMore: []
 ---
 A page's single preferred URL, which can be referenced from multiple URLs. Aids in search engine optimization.

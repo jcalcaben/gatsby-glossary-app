@@ -6,7 +6,6 @@
   tags:
     - "business"
   synonyms: []
-  readMore: []
 ---
 A unique identity that defines a particular product or group of products by the manufacturer or designer. These include name brands for clothing, appliances, luxury items, etc. Your company may also be the brand, selling products under multiple brands based on the business unit, target audience, etc.
 

@@ -1,13 +1,12 @@
 ---
   title: "invoice comment"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
     - "order"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "invoice"
-  readMore: []
 ---
 Details the invoice history.

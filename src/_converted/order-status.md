@@ -9,7 +9,6 @@
   relatedTerms:
     - "order"
     - "invoice"
-  readMore: []
 ---
 Indicates the relative position and state of a customer order in a workflow. Basic stages of the workflow include Order, Payment, Invoice, and Shipment.
 

@@ -10,7 +10,6 @@
     - "backend"
     - "cache-backend"
     - "frontend"
-  readMore: []
 ---
 In a client-server application, backend code runs on a server. The frontend component, or client, is an interface on a local computer or workstation that and enables users to access the remote server and manipulate the backend code. A user cannot directly access backend code.
 

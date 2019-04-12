@@ -9,7 +9,6 @@
     - "software-as-a-service"
     - "platform-as-a-service"
     - "payments-as-a-service"
-  readMore: []
 ---
 A resource provided over the internet that hosts or shares computer processing capability and data to computers and other devices on demand. Cloud services include software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS).
 Benefits include:

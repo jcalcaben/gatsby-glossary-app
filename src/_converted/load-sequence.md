@@ -1,12 +1,11 @@
 ---
   title: "load sequence"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "module"
-  readMore: []
 ---
 The order in which scripts are loaded into memory. Used for modules. To work correctly, some scripts must be loaded before others.

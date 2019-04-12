@@ -7,6 +7,5 @@
   synonyms:
     - "URL"
   relatedTerms: []
-  readMore: []
 ---
 An internet address, such as "mystore.com."

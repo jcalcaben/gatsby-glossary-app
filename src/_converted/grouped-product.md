@@ -9,7 +9,6 @@
   relatedTerms:
     - "simple-product"
     - "product-types"
-  readMore: []
 ---
 A product type with several similar, standalone products grouped on a single page.  Can be offered with variations of a single product or by grouping them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.
 

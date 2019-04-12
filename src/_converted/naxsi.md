@@ -7,6 +7,5 @@
   synonyms: []
   relatedTerms:
     - "nginx"
-  readMore: []
 ---
 An open-source web application firewall (WAF) for Nginx.
