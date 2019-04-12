@@ -16,7 +16,9 @@ const navigation = ({ termsList }) => {
   })
 
   let groups = Object.keys(termGroups).map(key => {
-    return <Group key={key} label={key.toUpperCase()} termsList={termGroups[key]} />
+    return (
+      <Group key={key} label={key.toUpperCase()} termsList={termGroups[key]} />
+    )
   })
 
   return <div className={style.navigation}>{groups}</div>
