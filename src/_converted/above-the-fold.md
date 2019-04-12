@@ -5,7 +5,7 @@
   tags:
     - "design"
   synonyms: []
-  related-terms: []
+  relatedTerms: []
 ---
 In a browser window, the content that is immediately visible after a web page loads and before a user scrolls down the page. When designing your layout, use flexible formats to best display the highest priority products, features, sales, notifications, options, etc in this area.
 

@@ -5,6 +5,6 @@
   tags:
     - "design"
   synonyms: []
-  related-terms: []
+  relatedTerms: []
 ---
 The proportional relationship between the width and height of an image.

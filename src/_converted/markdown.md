@@ -7,7 +7,7 @@
     - "magento-software"
   synonyms:
     - "Markup"
-  related-terms: []
+  relatedTerms: []
 ---
 The amount subtracted from the original price of a product. [Configure the markdown](https://docs.magento.com/m2/ce/user_guide/catalog/settings-advanced-custom-options.html), or markup, of a product through product customizable options.
 
