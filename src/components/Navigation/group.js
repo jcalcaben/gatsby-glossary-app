@@ -3,15 +3,30 @@ import style from './navigation.module.css'
 import { Link } from 'gatsby'
 
 const Group = ({ label, termsList }) => {
-
-  termsList.sort(sortFunction);
+  termsList.sort(sortFunction)
 
   let links = termsList.map(node => {
+    const currentPath = window.location.pathname
+    const isCurrentPage = node.term.fields.slug === currentPath
+
+    const className = isCurrentPage
+      ? style.selectedNavigationItem
+      : style.navigationItem
+
     return (
       <Link
         key={node.term.id}
-        className={style.navigationItem}
+        className={className}
         to={node.term.fields.slug}
+        ref={c => {
+          if (c && isCurrentPage) {
+            c.scrollIntoView({
+              behavior: 'auto',
+              block: 'center',
+              inline: 'center',
+            })
+          }
+        }}
       >
         {node.term.frontmatter.title}
       </Link>
@@ -20,10 +35,10 @@ const Group = ({ label, termsList }) => {
 
   return (
     <>
-    <h3 className={style.groupLabel}>{label.toUpperCase()}</h3>
-    {links}
+      <h3 className={style.groupLabel}>{label.toUpperCase()}</h3>
+      {links}
     </>
-  );
+  )
 }
 
 function sortFunction(a, b) {
@@ -32,4 +47,4 @@ function sortFunction(a, b) {
     .localeCompare(b.term.frontmatter.title.toLowerCase())
 }
 
-export default Group;
+export default Group

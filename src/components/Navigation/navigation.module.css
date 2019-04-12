@@ -10,9 +10,17 @@
 
 .navigationItem {
   text-decoration: none;
-  padding-left: 1.5em;
-  margin-bottom: 1em;
+  padding: 0.5em 0 0.5em 1.5em;
   color: #757575;
+}
+
+.navigationItem:hover {
+  background-color: #f2f3f3;
+}
+
+.selectedNavigationItem {
+  composes: navigationItem;
+  background-color: #e5f8f9;
 }
 
 .groupLabel {
