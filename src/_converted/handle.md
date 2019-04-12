@@ -1,11 +1,12 @@
 ---
   title: "handle"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
-  synonyms: 
+  synonyms:
     - "page handle"
+  relatedTerms: []
   readMore: []
 ---
 Generally, a handle is a way to reference an object. In Magento, handles are used in many places, most commonly to identify a page. For page handles, the handle name is derived from the URL, then used to locate and load the layout files for the referenced page.

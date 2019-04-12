@@ -1,14 +1,14 @@
 ---
   title: "server side"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
-  synonyms: 
+  synonyms:
     - "backend"
-  relatedTerms: 
+  relatedTerms:
     - "backend"
-    - "cache backend"
+    - "cache-backend"
     - "frontend"
   readMore: []
 ---

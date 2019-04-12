@@ -7,7 +7,7 @@
     - "product"
   synonyms: []
   relatedTerms:
-    - "product types"
+    - "product-types"
   readMore: []
 ---
 A configurable product looks like a single product with drop-down lists of options for each variation. Each option is actually a separate simple product with a unique SKU, which makes it possible to track inventory for each product variation.

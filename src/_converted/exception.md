@@ -1,10 +1,11 @@
 ---
   title: "exception"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 An abnormal condition that requires special processing.

@@ -1,13 +1,13 @@
 ---
   title: "URL"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
-  synonyms: 
+  synonyms:
     - "Uniform Resource Locator"
-  relatedTerms: 
-    - "canonical URL"
+  relatedTerms:
+    - "canonical-url"
   readMore: []
 ---
 Abbreviation for "Uniform Resource Locator". The unique address of a page on the internet.

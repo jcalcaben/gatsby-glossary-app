@@ -1,11 +1,12 @@
 ---
   title: "domain"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "design"
-  synonyms: 
+  synonyms:
     - "URL"
+  relatedTerms: []
   readMore: []
 ---
 An internet address, such as "mystore.com."

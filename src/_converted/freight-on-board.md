@@ -1,13 +1,14 @@
 ---
   title: "freight on board"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
     - "order"
     - "pricing"
-  synonyms: 
-    - "FOB"
+  synonyms:
+    - "fob"
+  relatedTerms: []
   readMore: []
 ---
 In international shipping, this term means that the receiving party is responsible for the shipping charges. FOB can be based on the place of origin or destination, and be designated as either freight collect or freight prepaid.

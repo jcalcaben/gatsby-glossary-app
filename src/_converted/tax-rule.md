@@ -1,10 +1,11 @@
 ---
   title: "tax rule"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 A combination of a product tax class, customer tax class, and tax rate. This rule defines which tax calculation is applied.

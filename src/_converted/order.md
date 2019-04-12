@@ -1,14 +1,14 @@
 ---
   title: "order"
-  wordClasses: 
+  wordClasses:
     - "noun"
     - "verb"
-  tags: 
+  tags:
     - "business"
     - "order"
   synonyms: []
-  relatedTerms: 
-    - "order status"
+  relatedTerms:
+    - "order-status"
     - "invoice"
   readMore: []
 ---

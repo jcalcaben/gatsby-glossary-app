@@ -1,12 +1,12 @@
 ---
   title: "Naxsi"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
-    - "Nginx"
+  relatedTerms:
+    - "nginx"
   readMore: []
 ---
 An open-source web application firewall (WAF) for Nginx.

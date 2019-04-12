@@ -7,9 +7,9 @@
     - "programming"
   synonyms: []
   relatedTerms:
-    - "HTML"
-    - "CSS"
-    - "JavaScript"
+    - "html"
+    - "css"
+    - "javascript"
   readMore: []
 ---
 A developer who uses technologies such as HTML, CSS, and JavaScript to develop the user interface or presentation layer for an application.

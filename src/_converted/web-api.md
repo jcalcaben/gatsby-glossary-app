@@ -1,12 +1,12 @@
 ---
   title: "web API"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
-    - "API"
+  relatedTerms:
+    - "api"
   readMore: []
 ---
 An application programming interface (API) for a web server or browser, usually limited to the client side.

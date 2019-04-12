@@ -1,10 +1,11 @@
 ---
   title: "evergreen content"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 Content that has a long shelf life, or that can be reused.

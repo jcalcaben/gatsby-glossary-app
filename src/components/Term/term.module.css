@@ -7,18 +7,15 @@
 .termTitle {
     font-size: 30px;
     line-height: 36px;
-    padding: 10px 0;
+    padding: 0;
+    margin: 20px 0 10px 0;
 }
 
 .wordClass {
     font-size: 15px;
     line-height: 18px;
+    margin: 0 0 20px 0;
     color: #696969;
-}
-
-.relatedTermLink {
-    text-decoration: none;
-    color: #337AB7;
 }
 
 .relatedTermLink:after {
