@@ -1,11 +1,12 @@
 ---
   title: "storefront"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
     - "product"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 The online store that customers experience when they visit your Magento site.

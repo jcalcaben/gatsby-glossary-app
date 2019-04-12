@@ -6,11 +6,10 @@
     - "programming"
   synonyms: []
   relatedTerms:
-    - "JavaScript"
-    - "DevDocs - UI Components Guide"
+    - "javascript"
     - "layout"
-    - "Magento component"
-    - "Page Builder"
+    - "magento-component"
+    - "page-builder"
   readMore:
     - label: UI Components guide
       url: https://devdocs.magento.com/guides/v2.3/ui_comp_guide/bk-ui_comps.html

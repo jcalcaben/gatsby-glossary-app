@@ -1,10 +1,11 @@
 ---
   title: "transactional email"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 Transactional email is a legal term that defines automated messages which are sent to customers in response to a specific event or transaction.

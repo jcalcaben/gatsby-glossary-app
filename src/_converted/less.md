@@ -8,8 +8,8 @@
   synonyms:
     - "LESS"
   relatedTerms:
-    - "CSS"
-    - "HTML"
+    - "css"
+    - "html"
   readMore: []
 ---
 Stands for "Leaner CSS". Simply put, Less combines CSS language (which applies visual styles to HTML pages) with other items - embedded variables, mixins, functions, and other features.

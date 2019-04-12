@@ -1,13 +1,13 @@
 ---
   title: "dynamic media URL"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
-    - "content delivery network"
-    - "URL"
+  relatedTerms:
+    - "content-delivery-network"
+    - "url"
   readMore: []
 ---
 A URL address that is generated dynamically by the system to reference an image or other media. The address links directly to assets stored on a server or a content delivery network.

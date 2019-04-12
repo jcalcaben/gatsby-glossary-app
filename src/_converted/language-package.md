@@ -1,12 +1,12 @@
 ---
   title: "language package"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  relatedTerms: 
-    - "Magento component"
+  relatedTerms:
+    - "magento-component"
     - "package"
   readMore: []
 ---

@@ -1,10 +1,11 @@
 ---
   title: "theme"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
   synonyms: []
+  relatedTerms: []
   readMore: []
 ---
 Contains graphics and appearance information. Customizes the look and feel of the store.

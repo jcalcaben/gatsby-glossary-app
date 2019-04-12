@@ -1,12 +1,12 @@
 ---
   title: "static block"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "magento-software"
   synonyms: []
-  relatedTerms: 
-    - "CMS block"
+  relatedTerms:
+    - "cms-block"
     - "block"
   readMore: []
 ---

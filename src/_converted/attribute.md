@@ -9,7 +9,7 @@
     - "product attribute"
     - "custom attribute"
   relatedTerms:
-    - "extension attributes"
+    - "extension-attribute"
   readMore:
     - label: EAV and extension extension_attributes
       url: https://devdocs.magento.com/guides/v2.3/extension-dev-guide/attributes.html

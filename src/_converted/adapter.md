@@ -1,10 +1,11 @@
 ---
   title: "adapter"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
+  related-terms: []
   readMore: []
 ---
 A class that enables two otherwise incompatible systems to work together without modifying the systems' source code. Examples include database adapters, cache adapters, filesystem adapters, post-processor libraries adapters and other types of computing adapters.
