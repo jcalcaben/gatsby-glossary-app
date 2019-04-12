@@ -8,6 +8,7 @@
     - "product"
     - "programming"
   synonyms: []
-  relatedTerms: []
+  relatedTerms:
+    - "shared-catalog"
 ---
 Abbreviation for Stock Keeping Unit. A number or code assigned to a product to identify the product, options, price, and manufacturer.
