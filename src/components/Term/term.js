@@ -12,7 +12,7 @@ export default ({ data, titleStyle }) => {
       <h2 className={`${styles.termTitle} ${titleStyle}`}>{title}</h2>
       <div className={styles.wordClass}>{wordClasses.join(', ')}</div>
       <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
-      {relatedTerms ? (
+      {relatedTerms.length > 0 ? (
         <div className={styles.seeAlsoSection}>
           See also:{' '}
           {relatedTerms.map((term, index) => (
@@ -26,7 +26,7 @@ export default ({ data, titleStyle }) => {
           ))}
         </div>
       ) : null}
-      {tags ? (
+      {tags.length > 0 ? (
         <div className={styles.tagList}>
           {tags.map((tag, index) => (
             <Tag clickAction={() => navigate('/tag/' + tag)} key={index}>
