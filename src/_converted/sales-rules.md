@@ -9,6 +9,5 @@
   relatedTerms:
     - "cart-rule"
     - "catalog-rule"
-  readMore: []
 ---
 Includes cart and catalog rules, which used to price a product for promotions.

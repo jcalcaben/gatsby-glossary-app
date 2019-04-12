@@ -1,13 +1,12 @@
 ---
   title: "invoice item"
-  wordClasses: 
+  wordClasses:
     - "noun"
-  tags: 
+  tags:
     - "business"
     - "order"
   synonyms: []
-  relatedTerms: 
+  relatedTerms:
     - "invoice"
-  readMore: []
 ---
 A purchased item in an invoice.

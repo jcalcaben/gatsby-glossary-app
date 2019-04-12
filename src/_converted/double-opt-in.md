@@ -7,6 +7,5 @@
     - "business"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 An email verification process that requires potential subscribers to complete a second step that confirms their intention to subscribe.

@@ -11,7 +11,6 @@
     - "php"
     - "xml"
     - "block"
-  readMore: []
 ---
 Code that changes or extends features provided by the Magento application. A module is contained in a directory structure that contains PHP and XML files (configuration, blocks, controllers, helpers, models, and so on) related to a specific functionality to deliver a distinct collection of product features.
 The purpose of each module is to provide specific product features by implementing new functionality or extending the functionality of other modules. Each module is designed to function independently, so the inclusion or exclusion of a particular module does not impact the functionality of other modules.

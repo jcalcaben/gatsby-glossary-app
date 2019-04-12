@@ -1,11 +1,10 @@
 ---
   title: "cache"
-  wordClasses: 
+  wordClasses:
     - "noun"
     - "verb"
-  tags: 
+  tags:
     - "programming"
   synonyms: []
-  readMore: []
 ---
 Pages (or parts of pages) that are stored to improve the page load time of subsequent requests.

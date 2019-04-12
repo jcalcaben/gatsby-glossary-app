@@ -7,6 +7,5 @@
     - "order"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 The percentage of visitors who are converted into buyers.

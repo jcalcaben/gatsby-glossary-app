@@ -10,7 +10,6 @@
     - "cloud services"
     - "payments-as-a-service"
     - "software-as-a-service"
-  readMore: []
 ---
 A platform — used by Magento Cloud — that features cloud computing services that enable the development and management of applications.
 

@@ -8,6 +8,5 @@
     - "component"
   relatedTerms:
     - "ui-component"
-  readMore: []
 ---
 Used to refer to a module, theme, or language package in Magento.

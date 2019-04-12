@@ -8,6 +8,5 @@
     - "Uniform Resource Locator"
   relatedTerms:
     - "canonical-url"
-  readMore: []
 ---
 Abbreviation for "Uniform Resource Locator". The unique address of a page on the internet.

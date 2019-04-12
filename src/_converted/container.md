@@ -11,7 +11,6 @@
     - "ui-component"
     - "html"
     - "css"
-  readMore: []
 ---
 A type of node in a layout tree (along with blocks and UI components), a container is a defined region on a page that generates HTML (composed as an array of variable items in an ordered list) with CSS attributes.
 

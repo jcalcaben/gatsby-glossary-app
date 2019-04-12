@@ -13,13 +13,6 @@
   relatedTerms:
     - "react"
     - "upward"
-  readMore:
-    - label: Magento PWA Documentation
-      url: https://magento-research.github.io/pwa-studio/
-    - label: Magento - The Real magento
-      url: https://magento.com/
-    - label: Magento Brand Guidelines
-      url: https://brand.magento.com/d/VHZ54g19AXCq/brand-guidelines
 ---
 A Progressive Web App, or PWA, is a web application that uses modern web technologies and design patterns to provide a reliable, fast, and engaging user experience. PWA sites are fast, secure, responsive for all devices, cross-browser compatible, supports an offline mode, etc.
 
@@ -30,3 +23,5 @@ PWA is also a Magento Community Engineering project, open to contributions:
 * [GitHub Repository](https://github.com/magento-research/pwa-studio)
 * [ZenHub](https://app.zenhub.com/workspace/o/magento-research/pwa-studio/boards?repos=137249745)
 * [#pwa Slack Channel](https://magentocommeng.slack.com/messages/C8076E0KS)
+
+Learn more: [Magento PWA Documentation](https://magento-research.github.io/pwa-studio/)

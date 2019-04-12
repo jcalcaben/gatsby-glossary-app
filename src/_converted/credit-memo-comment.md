@@ -7,6 +7,5 @@
     - "order"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 Details why a credit memo amount was credited to the customer.

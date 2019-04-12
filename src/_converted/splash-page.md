@@ -6,6 +6,5 @@
     - "design"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 A promotional page with a product or advertisement; normally displayed before the home page.

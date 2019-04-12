@@ -6,7 +6,6 @@
     - "magento-software"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 A hyperlink that includes only the address of the linked page that is relative to the linking page, rather than the full URL.
 

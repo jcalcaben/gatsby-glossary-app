@@ -6,6 +6,5 @@
     - "magento-software"
   synonyms: []
   relatedTerms: []
-  readMore: []
 ---
 The user who owns files in the Magento file system. It’s very important to set up this user properly. Different hosting setups have different requirements.

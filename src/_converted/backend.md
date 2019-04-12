@@ -11,7 +11,6 @@
     - "server-side"
     - "frontend"
     - "cache-backend"
-  readMore: []
 ---
 Generally used in the same way as "server side".
 
