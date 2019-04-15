@@ -2,11 +2,11 @@ import React from 'react'
 import style from './navigation.module.css'
 import { Link } from 'gatsby'
 
-const Group = ({ label, termsList }) => {
+const Group = ({ label, termsList, currentPageUrl }) => {
   termsList.sort(sortFunction)
 
   let links = termsList.map(node => {
-    const currentPath = window.location.pathname
+    const currentPath = currentPageUrl
     const isCurrentPage = node.term.fields.slug === currentPath
 
     const className = isCurrentPage

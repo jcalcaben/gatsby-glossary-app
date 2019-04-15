@@ -2,7 +2,7 @@ import React from 'react'
 import style from './navigation.module.css'
 import Group from './group'
 
-const navigation = ({ termsList }) => {
+const navigation = ({ termsList, currentPageUrl }) => {
   if (termsList === undefined) return null
 
   let termGroups = {}
@@ -17,7 +17,7 @@ const navigation = ({ termsList }) => {
 
   let groups = Object.keys(termGroups).map(key => {
     return (
-      <Group key={key} label={key.toUpperCase()} termsList={termGroups[key]} />
+      <Group key={key} label={key.toUpperCase()} termsList={termGroups[key]} currentPageUrl={currentPageUrl} />
     )
   })
 
