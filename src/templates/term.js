@@ -5,7 +5,7 @@ import { graphql } from 'gatsby'
 
 export default ({ data }) => {
   return (
-    <Layout>
+    <Layout currentPageUrl={data.markdownRemark.fields.slug}>
       <Term data={data} />
     </Layout>
   )
@@ -21,6 +21,9 @@ export const query = graphql`
         tags
         synonyms
         relatedTerms
+      }
+      fields {
+        slug
       }
     }
   }

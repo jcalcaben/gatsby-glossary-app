@@ -9,7 +9,7 @@ import '../../templates/globals.css'
 import styles from './layout.module.css'
 
 const Layout = props => {
-  const { children } = props
+  const { children, currentPageUrl } = props
   const [showPanel, setPanel] = useState(false)
 
   const { site, navigation } = useStaticQuery(
@@ -64,7 +64,7 @@ const Layout = props => {
             setPanel(false)
           }}
         >
-          <Navigation termsList={navigation.termsList} />
+          <Navigation termsList={navigation.termsList} currentPageUrl={currentPageUrl} />
         </Panel>
       </div>
     </div>

@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/gatsby-glossary-app',
   siteMetadata: {
     title: 'Glossary',
     description: 'Magento Glossary Project'
